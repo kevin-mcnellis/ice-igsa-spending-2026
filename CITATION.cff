@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "What USAspending.gov Doesn’t Show About ICE’s Detention Spending: data, code, and checks"
+authors:
+  - family-names: McNellis
+    given-names: Kevin
+version: "1.0"
+date-released: 2026-09-28
+license:
+  - MIT
+  - CC-BY-4.0
+url: "https://www.kevinmcnellis.com/posts/ICE_IGSA/"
+repository-code: "https://github.com/kevin-mcnellis/ice-igsa-spending-2026"
+abstract: "Frozen USAspending.gov data, code, and claim checks behind the September 27, 2026 article. AI assistance is credited in METHODOLOGY.md."

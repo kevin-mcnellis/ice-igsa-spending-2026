@@ -7,9 +7,9 @@
       "source": "generated:File_C_blog_post/scripts/build_release.py"
     },
     {
-      "bytes": 226,
-      "path": "CITATION",
-      "sha256": "c3a801e010fabeca3962797b29698ccec16e3eab0f106dc68a4010ff69494721",
+      "bytes": 595,
+      "path": "CITATION.cff",
+      "sha256": "fda53ac5fa688047830a7723395faa247d92fddc51c005ed9dbe09e4078858d3",
       "source": "generated:File_C_blog_post/scripts/build_release.py"
     },
     {
@@ -31,10 +31,10 @@
       "source": "File_C_blog_post/METHODOLOGY_PUBLIC.md"
     },
     {
-      "bytes": 10746,
+      "bytes": 11082,
       "path": "README.md",
-      "sha256": "7c85c1014fcdb29d1fc4880e75623ff26b3055ab3f6cf13f99c5d806e1502c67",
-      "source": "generated:File_C_blog_post/scripts/build_release.py; edited by Kevin McNellis 2026-09-28"
+      "sha256": "f2e963be0dc1bcc3c1492b6f3caa19af3a970fa2142cbbcf57de4c5e4b120f5f",
+      "source": "generated:File_C_blog_post/scripts/build_release.py"
     },
     {
       "bytes": 14494,
@@ -729,7 +729,7 @@
   ],
   "manifest_self_hash": "excluded to avoid circular hash",
   "published_text_sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
-  "readme_template_sha256": "c5662a665db23375fe46353c81c09bb7d7150abe8b751950791d41c66266df5f",
+  "readme_template_sha256": "0eff61011b483e6862d7fde877b986123d0e7fd1208f205d48fcd73bb1fcd893",
   "schema_version": 1,
   "word_baseline_sha256": "dc16c426c4c49f5454af054b8c0a2c2662adde259b5bbc073c5c67494adbf5e8"
 }

@@ -30,6 +30,8 @@ uv run --frozen python3 run_all.py
 
 The command verifies the source files recorded in `data/manifest.csv`, fetches missing frozen USAspending archives by their registered URLs (or, if USAspending no longer serves them, from this repository's `usaspending-archives-2026-09` release) and checks their SHA-256 fingerprints, rebuilds Chart 1, Chart 2, the facility name screen, and Figure B, and checks their outputs. It verifies the selected Figure A and gap-chart assets against reviewed hashes; it does not redraw them. USAspending data can be revised after a download; a newly requested file with the same filters is not automatically the saved vintage.
 
+A full run downloads about 125 MB and takes about 2.5 minutes. It rewrites `outputs/chart_1/verification.json` and `outputs/chart_2/verification.json`, which record the fingerprints of the public-safe download receipts rather than the private originals; Git will show them as modified. That is expected and changes no reported number.
+
 ### Live article images
 
 On September 28, a fresh HTTP check found that the live article linked the bundled Figure A, Figure B, and gap-chart PNGs byte for byte. The [dated image verification](audit/live_asset_verification.json) records the three live URLs and SHA-256 hashes. Earlier [Figure A](audit/figure_a_igsa168_review.json) and [gap-chart](audit/gap_chart_final_copy.json) review receipts describe a prior publication stage; they do not describe the live page at this check. The published article can change after this dated observation.
