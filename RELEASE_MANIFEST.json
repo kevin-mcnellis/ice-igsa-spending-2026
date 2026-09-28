@@ -31,10 +31,10 @@
       "source": "File_C_blog_post/METHODOLOGY_PUBLIC.md"
     },
     {
-      "bytes": 11103,
+      "bytes": 10746,
       "path": "README.md",
-      "sha256": "d6d86b2b0a6583b05740908eedfc2f5d9f2bfbabdb9f3896383c5527e50f7401",
-      "source": "generated:File_C_blog_post/scripts/build_release.py"
+      "sha256": "7c85c1014fcdb29d1fc4880e75623ff26b3055ab3f6cf13f99c5d806e1502c67",
+      "source": "generated:File_C_blog_post/scripts/build_release.py; edited by Kevin McNellis 2026-09-28"
     },
     {
       "bytes": 14494,
