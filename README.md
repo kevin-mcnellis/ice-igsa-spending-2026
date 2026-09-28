@@ -2,12 +2,12 @@
 
 Data, code, and checks behind [Kevin McNellis’s article](https://www.kevinmcnellis.com/posts/ICE_IGSA/), published September 27, 2026.
 
-The article examines what frozen USAspending.gov Custom Account Data can show about ICE detention spending and intergovernmental service agreements (IGSAs). The main File B–File C comparison uses five original archives: three account-level File B downloads and two award-breakdown File C downloads. This package keeps those layers, facility observations, source documents, calculations, and claim checks separate so a reader can see where each conclusion comes from.
+The post examines what USAspending.gov data and ICE's detention center data can show about ICE detention spending and intergovernmental service agreements (IGSAs). The main USAspending.gov File B–File C comparison uses five original archives: three account-level File B downloads and two award-breakdown File C downloads. 
 
 ## What the analysis found
 
-- In ICE accounts `070-0540` and `070-0545`, the broad object class `25.4` comparison shows $5.91 billion in File B net obligations and $3.14 billion in File C signed transaction obligations for the selected February 2025–July 2026 reporting window. Their difference is a reported accounting comparison. It does not identify IGSA payments or reconcile individual File B dollars to awards.
-- Ten selected direct-recipient UEIs account for $3.08 billion in class `25.4` File C obligations. Three government UEIs belonging to two local governments have a signed total of −$28,520. These are recipient-level reported obligations, not payments to detention facilities or a count of independent parent companies.
+- In ICE accounts `070-0540` and `070-0545`, the object class `25.4` comparison shows $5.91 billion in File B net obligations and $3.14 billion in File C net transaction obligations from February 2025 to July 2026. This difference is a reported accounting comparison. It does not identify IGSA payments or reconcile individual File B dollars to awards.
+- Ten private detention contractors received $3.08 billion in class `25.4` File C obligations. Three government unique entity identfiers (UEIs) belonging to two local governments have a signed total of −$28,520. These are recipient-level reported obligations, not payments to detention facilities or a count of independent parent companies.
 - On ICE’s July 9, 2026 roster, 168 of 208 observed facilities carried an `IGSA`, `DIGSA`, or `USMS IGA` label. They accounted for 57% of summed reported fiscal-year-to-date average daily population, which is not a July 9 head count.
 - A reviewed award-description name screen matched 21 of 49 facilities in its federal/contract group and five of 224 in its IGSA group. The associated distinct-award class `25.4` amounts are about $2.23 billion and $96 million. A name match does not allocate an award amount to a facility or establish an agreement payment.
 - Two direct CoreCivic orders name Torrance and Cibola, the facilities in that screen whose observed labels were solely in the IGSA group. Their selected class `25.4` obligations total $17.47 million. The direct orders and the counties’ agreements are different records.
@@ -50,7 +50,7 @@ The following key-figures table is generated from the audit JSON, including its 
 | IGSA group name-screen awards | $96,196,138.33 | audit/source_snapshot/facility_name_screen_statistics_check.json, [claim audit](audit/claim_audit.md) | actual.iga_25_4_amount, fresh read-only rerun | P48.S1.C2 | PASS |
 | Solely-IGSA named direct orders | $17,465,361.06 | audit/source_snapshot/facility_name_screen_statistics_check.json, [claim audit](audit/claim_audit.md) | actual.solely_iga_25_4_amount, fresh read-only rerun | P49.S1.C3 | PASS |
 
-Overall claim audit status: **WARN** (191 PASS, 123 WARN, 0 FAIL, 11 author acceptances). Author acceptance is a wording decision, not factual verification. Seven claims were reviewed as **FAIL** before Kevin accepted their wording: three sentences (P31.S2 → P31.A1, P48.S2 → P48.A1, P7.S5 → P7.A1) and four sentence fragments. Their evidence and proposed corrections are in [the complete claim audit](audit/claim_audit.md) and [author decisions](audit/author_decisions.json).
+Overall claim audit status: **WARN** (191 PASS, 123 WARN, 0 FAIL, 11 author acceptances). Author acceptance is a wording decision, not factual verification. See [the complete claim audit](audit/claim_audit.md) and [author decisions](audit/author_decisions.json) for more information.
 
 ## Data sources
 
