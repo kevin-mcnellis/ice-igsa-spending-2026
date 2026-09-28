@@ -1,0 +1,10 @@
+AGENTS.md
+__pycache__/
+*.pyc
+.cache/
+.venv/
+data/raw/*.zip
+data/raw/**/*.zip
+data/raw/**/extracted/
+outputs/**/*.svg
+outputs/**/*.html

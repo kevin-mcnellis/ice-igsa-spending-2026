@@ -1,0 +1,2487 @@
+{
+  "created_at_utc": "2026-09-25T15:10:45.532343+00:00",
+  "records": {
+    "missing": {
+      "awards": []
+    },
+    "uei:C182PM2K1463": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "07620cc7-0f1f-0b64-4f77-d8758939f445-C",
+            "recipient_name": "LEMOINE DISASTER RECOVERY LLC",
+            "recipient_uei": "C182PM2K1463"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:45.702485+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:286229",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012"
+    },
+    "uei:C1G6S1HJFEQ4": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "c17f0404-e4e9-7098-24a7-63ca8d214a05-C",
+            "recipient_name": "RESPONSIVE DEPLOYMENT LLC",
+            "recipient_uei": "C1G6S1HJFEQ4"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:46.470874+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:18734",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012"
+    },
+    "uei:CN6JHWKMSCD5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Woman Owned Business"
+            ],
+            "recipient_hash": "fb4c4b25-dca3-74a9-18d1-ba6c90557516-C",
+            "recipient_name": "ISS ACTION INC",
+            "recipient_uei": "CN6JHWKMSCD5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:46.950292+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:93908",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012"
+    },
+    "uei:CNM4U3TPGUE7": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "8e8a2a65-e4c3-e30d-eb84-e36d22c9fa41-C",
+            "recipient_name": "LONGVIEW INTERNATIONAL TECHNOLOGY SOLUTIONS, INC.",
+            "recipient_uei": "CNM4U3TPGUE7"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:47.531753+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:169892",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012"
+    },
+    "uei:CYD1SSRL8EM8": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-/",
+          "description": "FT. BENNING OPERATION AND MAINTENANCE",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "22e6d40b-eaa4-94ec-83b0-9d2365604cd7-C",
+            "recipient_name": "KCORP RELIANCE COMPANY, INC.",
+            "recipient_uei": "CYD1SSRL8EM8"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:51.628286+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:65605",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-"
+    },
+    "uei:DJACUETFQUL8": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000/",
+          "description": "THE PURPOSE OF THIS AWARD IS TO PROVIDE AUTOCAD LICENSE SUBSCRIPTION SERVICES FOR THE OFFICE OF ASSETS AND FACILITIES MANAGEMENT",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "HUBZone Firm",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "Indian (Subcontinent) American Owned Business",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "a4ce814d-f601-2150-98bf-6f203db0ea2f-C",
+            "recipient_name": "GOVSMART, INC.",
+            "recipient_uei": "DJACUETFQUL8"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000/",
+          "retrieved_at_utc": "2026-09-25T15:10:50.209821+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000",
+          "selection_amount": "16234.49",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:204642",
+          "selection_submission_period": "FY2025P11"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000"
+    },
+    "uei:DL1VNK64YL14": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "d6b2cf34-678a-96ba-04cb-3472f1cedcb2-C",
+            "recipient_name": "AMI EXPEDITIONARY HEALTHCARE, LLC",
+            "recipient_uei": "DL1VNK64YL14"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:49.419357+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:176553",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012"
+    },
+    "uei:EEANN2A3SSQ4": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Foreign Owned",
+              "Foreign-Owned and U.S.-Incorporated Business",
+              "Not Designated a Small Business",
+              "Special Designations"
+            ],
+            "recipient_hash": "21f12428-da90-1231-acfa-eff8153c0512-C",
+            "recipient_name": "INTERNATIONAL SOS GOVERNMENT MEDICAL SERVICES, INC.",
+            "recipient_uei": "EEANN2A3SSQ4"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:51.157326+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:105567",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012"
+    },
+    "uei:F1PMZXNJ7NM5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "b29a9f1d-008d-dc42-9a77-f87a8a4635a4-C",
+            "recipient_name": "SLSCO, LTD.",
+            "recipient_uei": "F1PMZXNJ7NM5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:49.813339+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:123267",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012"
+    },
+    "uei:F5JZUL8JTEK3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732/",
+          "description": "PROVIDE O&M FOR EL CENTRO, CALIFORNIA SPC",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "37d327cf-cf42-125f-f84f-bdc6f5170e0e-C",
+            "recipient_name": "GLOBAL PRECISION SYSTEMS, LLC",
+            "recipient_uei": "F5JZUL8JTEK3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732/",
+          "retrieved_at_utc": "2026-09-25T15:10:50.219603+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:251929",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732"
+    },
+    "uei:FJLMN2N34M93": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/",
+          "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SUPRISE, AZ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "c64a1e55-9377-3bab-1df4-2431bb4a5e86-C",
+            "recipient_name": "GARDAWORLD FEDERAL SERVICES LLC",
+            "recipient_uei": "FJLMN2N34M93"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/",
+          "retrieved_at_utc": "2026-09-25T15:11:08.268483+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700",
+          "selection_amount": "7727705.96",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:65113",
+          "selection_submission_period": "FY2026P06"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700"
+    },
+    "uei:FSY4LVSBGWB7": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001/",
+          "description": "THIS ORDER PROVIDES ENFORCEMENT REMOVAL OPERATIONS MODERNIZATION AND OPERATIONAL CAPABILITY FOR THE ENFORCEMENT CASE MANAGEMENT SYSTEM ON THE CASE MANAGEMENT AND ANALYTICS PLATFORM IN SUPPORT OF THE U.S. IMMIGRATIONS CUSTOMS ENFORCEMENT MISSION.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "1ea8a9a4-3726-3491-9040-66950bb67606-C",
+            "recipient_name": "PALANTIR TECHNOLOGIES INC.",
+            "recipient_uei": "FSY4LVSBGWB7"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001/",
+          "retrieved_at_utc": "2026-09-25T15:11:08.507311+00:00",
+          "returned_award_key": "CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001",
+          "selection_amount": "11252817.30",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:234142",
+          "selection_submission_period": "FY2026P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001"
+    },
+    "uei:G58ZEJ7HJGM1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012/",
+          "description": "TASK ORDER FOR DETENTION SERVICES, TRANSPORTATION SERVICES, FACILITY UPGRADES, DETAINEE WORK PROGRAM, AND CASE PROCESSING SPECIALISTS AT IMPERIAL REGIONAL DETENTION FACILITY IN SAN DIEGO, CA.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "05d0fd70-3b91-2efe-b533-5d973d1ea671-C",
+            "recipient_name": "MANAGEMENT & TRAINING CORPORATION",
+            "recipient_uei": "G58ZEJ7HJGM1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:51.763481+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012",
+          "selection_amount": "11242406.40",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:147488",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012"
+    },
+    "uei:GAE3BQFCPWM5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-/",
+          "description": "PERIMETER FENCE INTRUSION DETECTION SYSTEM AT THE PORT ISABEL DETENTION CENTER",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "DoT Certified Disadvantaged Business Enterprise",
+              "Hispanic American Owned Business",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "67e45544-6e7b-4d21-d3ec-7e7bb1c43215-C",
+            "recipient_name": "AXIS GLOBAL ENTERPRISES, INC.",
+            "recipient_uei": "GAE3BQFCPWM5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:52.282917+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:119344",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-"
+    },
+    "uei:GCPTKFRJSPJ9": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732/",
+          "description": "IGF::OT::IGF EL PASO CO-LOCATION OPERATION AND MAINTENANCE",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Asian Pacific American Owned Business",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "8dd21ab3-7beb-3159-6383-4be9326f91d4-C",
+            "recipient_name": "ACEPEX MANAGEMENT CORPORATION",
+            "recipient_uei": "GCPTKFRJSPJ9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732/",
+          "retrieved_at_utc": "2026-09-25T15:10:52.800456+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732",
+          "selection_amount": "-24180.04",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:290825",
+          "selection_submission_period": "FY2025P11"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732"
+    },
+    "uei:GFTGQRJ8F959": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25P00000010_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000010_7012_-NONE-_-NONE-/",
+          "description": "THE PURPOSE OF THIS ORDER IS TO PROVIDE UNARMED GUARD SERVICES FOR 30 DAYS TO THE EL PASO ENHANCED HARDENED FACILITY IN SUPPORT OF THE EMERGENCY DECLARATION AT THE SOUTHWEST BORDER.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "c7182f2d-51c0-8f51-d5cc-02630b0a90c2-C",
+            "recipient_name": "DEPLOYED RESOURCES LLC",
+            "recipient_uei": "GFTGQRJ8F959"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000010_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:53.390934+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25P00000010_7012_-NONE-_-NONE-",
+          "selection_amount": "2488860.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:42988",
+          "selection_submission_period": "FY2025P08"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "c7182f2d-51c0-8f51-d5cc-02630b0a90c2-C",
+            "recipient_name": "DEPLOYED RESOURCES LLC",
+            "recipient_uei": "GFTGQRJ8F959"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:54.351639+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:160190",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012"
+    },
+    "uei:GX7VU27CC847": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-/",
+          "description": "RE-KEY AND CHANGE LOCKS AT 2451 CRYSTAL DR STE 200, ARLINGTON, VA.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "d7816e8c-4193-4cd7-6ea5-0609ff7d95a9-C",
+            "recipient_name": "FEDERAL LOCK & SAFE INC",
+            "recipient_uei": "GX7VU27CC847"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:53.898787+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:98941",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-"
+    },
+    "uei:H1KHJPJH9R51": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CTD025FC0000024_7012_70CTD022A00000004_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD025FC0000024_7012_70CTD022A00000004_7012/",
+          "description": "AWARD PROVIDES CLOUD INFRASTRUCTURE RESOURCES IN THE ICE CLOUD INFRASTRUCTURE HOSTING SUPPORT FOR THE AMAZON WEB SERVICES ENVIRONMENT FOR IMMIGRATION AND CUSTOMS ENFORCEMENT/OFFICE OF THE CHIEF INFORMAITON OFFICER",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "2a4d3db7-e268-7b36-3610-c75337f0b7e1-C",
+            "recipient_name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+            "recipient_uei": "H1KHJPJH9R51"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD025FC0000024_7012_70CTD022A00000004_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:54.776205+00:00",
+          "returned_award_key": "CONT_AWD_70CTD025FC0000024_7012_70CTD022A00000004_7012",
+          "selection_amount": "12300476.14",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:72650",
+          "selection_submission_period": "FY2025P12"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001/",
+          "description": "THIS AWARD IS FOR BLACKBERRY ATHOC PERSONNEL EMERGENCY NOTIFICATION SOFTWARE.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "2a4d3db7-e268-7b36-3610-c75337f0b7e1-C",
+            "recipient_name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+            "recipient_uei": "H1KHJPJH9R51"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001/",
+          "retrieved_at_utc": "2026-09-25T15:10:55.821213+00:00",
+          "returned_award_key": "CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001",
+          "selection_amount": "588293.15",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:244553",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001"
+    },
+    "uei:H2N5CDZKJ1F6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-/",
+          "description": "PURCHASE OF LAWN CARE SERVICES FOR OFTP AT FORT BENNING, GA.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "d4c4e0e8-ed9f-2193-e76c-b57978f79248-C",
+            "recipient_name": "MAINSCAPE INC",
+            "recipient_uei": "H2N5CDZKJ1F6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:55.360390+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-",
+          "selection_amount": "-0.04",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:9127",
+          "selection_submission_period": "FY2025P06"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-"
+    },
+    "uei:H4H3J7SJCT76": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "170470f0-8d47-72dd-c09c-8affb0d48e5b-C",
+            "recipient_name": "CENTERRA GROUP, LLC",
+            "recipient_uei": "H4H3J7SJCT76"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:56.390681+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:269304",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012"
+    },
+    "uei:H5M2KCZCA9M3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000054_7012_70CDCR20D00000017_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000054_7012_70CDCR20D00000017_7012/",
+          "description": "THIS TASK ORDER PROVIDES FOR THE TRANSPORTATION OF ICE DETAINEES FOR ICE ENFORCEMENT REMOVALS AND OPERATIONS SAN ANTONIO FIELD OFFICE. THE PURPOSE OF THIS ACTION IS TO ISSUE A NEW TASK ORDER AND ADD FUNDING FOR THESE SERVICES.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Foreign Owned",
+              "Foreign-Owned and U.S.-Incorporated Business",
+              "Not Designated a Small Business",
+              "Special Designations"
+            ],
+            "recipient_hash": "0cebd10f-2867-7a03-efeb-12c0743b6c92-C",
+            "recipient_name": "G4S SECURE SOLUTIONS (USA) INC.",
+            "recipient_uei": "H5M2KCZCA9M3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000054_7012_70CDCR20D00000017_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:56.936262+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000054_7012_70CDCR20D00000017_7012",
+          "selection_amount": "165000.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:45172",
+          "selection_submission_period": "FY2026P07"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012/",
+          "description": "FUNDING FOR SAN ANTONIO FIELD OFFICE TRANSPORTATION CONTRACT WITH G4S SECURE SOLUTIONS USA, INC CONTRACT 70CDCR20D00000017, OPTION YEAR FOUR TASK ORDER",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Foreign Owned",
+              "Foreign-Owned and U.S.-Incorporated Business",
+              "Not Designated a Small Business",
+              "Special Designations"
+            ],
+            "recipient_hash": "0cebd10f-2867-7a03-efeb-12c0743b6c92-C",
+            "recipient_name": "G4S SECURE SOLUTIONS (USA) INC.",
+            "recipient_uei": "H5M2KCZCA9M3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:57.919161+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012",
+          "selection_amount": "22000.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:225615",
+          "selection_submission_period": "FY2025P07"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012"
+    },
+    "uei:H6NCLMPBP565": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Partnership or Limited Liability Partnership",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Woman Owned Business",
+              "Women Owned Small Business"
+            ],
+            "recipient_hash": "d8858a6b-d78c-cd7c-3745-6dba0bf1b728-C",
+            "recipient_name": "ROCKWELL AMERICAN SERVICES, LTD.",
+            "recipient_uei": "H6NCLMPBP565"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:57.403214+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:243320",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012"
+    },
+    "uei:HERXJEEWZFL7": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700/",
+          "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN HAGERSTOWN, MD TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "ac0d73da-c014-f60f-168a-4160d25c5bd4-C",
+            "recipient_name": "KVG LLC",
+            "recipient_uei": "HERXJEEWZFL7"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700/",
+          "retrieved_at_utc": "2026-09-25T15:10:58.276228+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700",
+          "selection_amount": "18988292.78",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:52416",
+          "selection_submission_period": "FY2026P06"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700"
+    },
+    "uei:HJGMJN1JKL46": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012/",
+          "description": "THE PURPOSE OF THIS TASK ORDER IS FOR COMPREHENSIVE DETENTION AND TRANSPORTATION SERVICES FOR HOUSING CRIMINAL ALIENS AT CALIFORNIA CITY DETENTION CENTER IN CALIFORNIA CITY, CA.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-C",
+            "recipient_name": "CORECIVIC, INC.",
+            "recipient_uei": "HJGMJN1JKL46"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:58.776446+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012",
+          "selection_amount": "36903343.89",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:257052",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012"
+    },
+    "uei:HK6RKYDJ5SZ5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-/",
+          "description": "COX CABLE AND INTERNET SERVICES FOR 2ND & 7TH FLOORS OF 1953 GALLOWS RD VIENNA, VA 22182. PAYMENTS WILL BE MAKE FROM PCARD NS23C065770.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "3274977b-cd2b-5896-c1d1-8cb0da6c17cc-C",
+            "recipient_name": "COXCOM, LLC",
+            "recipient_uei": "HK6RKYDJ5SZ5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:10:59.279978+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:125496",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-"
+    },
+    "uei:HMJ4CBSCDNY4": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Hispanic American Owned Business",
+              "Minority Owned Business",
+              "Partnership or Limited Liability Partnership",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "05c5ff1d-8454-fda7-7b86-6ec7c7d7f9fb-C",
+            "recipient_name": "ASSET PROTECTION & SECURITY SERVICES, L.P.",
+            "recipient_uei": "HMJ4CBSCDNY4"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012/",
+          "retrieved_at_utc": "2026-09-25T15:10:59.886709+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:249219",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012"
+    },
+    "uei:HT74GJ837NF8": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "fd66ae3e-b208-2742-fcbd-f01584c56698-C",
+            "recipient_name": "RECANA SOLUTIONS, L.L.C.",
+            "recipient_uei": "HT74GJ837NF8"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:00.396086+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:277712",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012"
+    },
+    "uei:HVR7BYAMSL27": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "cee53262-4c48-bc5c-162a-4794286ae98e-C",
+            "recipient_name": "GOTHAMS LLC",
+            "recipient_uei": "HVR7BYAMSL27"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:00.886190+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:152639",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012"
+    },
+    "uei:HWW3D6C5Y7X7": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-/",
+          "description": "IGF::OT::IGF ADULT DETAINEE SERVICES",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Government",
+              "U.S. Local Government",
+              "U.S. National Government",
+              "Not Designated a Small Business"
+            ],
+            "recipient_hash": "fd0bede3-632f-67c6-882d-e6f1ee04b2f2-C",
+            "recipient_name": "IMPERIAL COUNTY",
+            "recipient_uei": "HWW3D6C5Y7X7"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:01.374190+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-",
+          "selection_amount": "-18000.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:184813",
+          "selection_submission_period": "FY2025P07"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-"
+    },
+    "uei:J76AEWGPFZT1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "2336d237-1e37-b7fa-2583-34b260b2dce8-C",
+            "recipient_name": "LASALLE CORRECTIONS V LLC",
+            "recipient_uei": "J76AEWGPFZT1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:01.804644+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:8504",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012"
+    },
+    "uei:JMLKZZ1NL2Z6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000096_7012_70CDCR25D00000009_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000096_7012_70CDCR25D00000009_7012/",
+          "description": "THE PURPOSE OF THIS TASK ORDER IS FOR COMPREHENSIVE DETENTION AND TRANSPORATION SERVICES FOR HOUSING CRIMINAL ALIENS AT NORTH LAKE DETENTION CENTER IN BALDWIN MI.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "9b308edb-a62c-659b-704b-ef4e5cf3f795-C",
+            "recipient_name": "THE GEO GROUP, INC.",
+            "recipient_uei": "JMLKZZ1NL2Z6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000096_7012_70CDCR25D00000009_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:02.295836+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000096_7012_70CDCR25D00000009_7012",
+          "selection_amount": "43070943.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:30809",
+          "selection_submission_period": "FY2026P04"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012/",
+          "description": "TASK ORDER FOR DETENTION SERVICES AT RIVERS DETENTION CENTER IN WINTON, NC.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "9b308edb-a62c-659b-704b-ef4e5cf3f795-C",
+            "recipient_name": "THE GEO GROUP, INC.",
+            "recipient_uei": "JMLKZZ1NL2Z6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:03.315676+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012",
+          "selection_amount": "3179558.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:251828",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012"
+    },
+    "uei:K18HRGF7HW21": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529/",
+          "description": "INFORMATION TECHNOLOGY SUPPORT SERVICES (ITSS)",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Minority Owned Business",
+              "Other Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "550b25e6-a0ee-e1ef-d841-a42b53b287d5-C",
+            "recipient_name": "INSERSO CORPORATION",
+            "recipient_uei": "K18HRGF7HW21"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529/",
+          "retrieved_at_utc": "2026-09-25T15:11:02.811779+00:00",
+          "returned_award_key": "CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529",
+          "selection_amount": "15000.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:215741",
+          "selection_submission_period": "FY2026P03"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529"
+    },
+    "uei:K1B6MGA23WL3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "269b1b13-80fc-76b0-516a-30b246e8f13e-C",
+            "recipient_name": "RAPID DEPLOYMENT INC",
+            "recipient_uei": "K1B6MGA23WL3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:03.947632+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:210246",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012"
+    },
+    "uei:K8RNMK1CCQW3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012/",
+          "description": "THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SERVICES AT THE EL PASO SERVICE PROCESSING CENTER. THE PURPOSE OF THIS MODIFICATION IS TO ISSUE A NEW TASK ORDER AND ADD FUNDING FOR THESE SERVICES.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "a2a0931c-b3fd-8737-f260-ffb2cba740b1-C",
+            "recipient_name": "PARAGON PROFESSIONAL SERVICES LLC",
+            "recipient_uei": "K8RNMK1CCQW3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:04.452639+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012",
+          "selection_amount": "44485781.71",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:92542",
+          "selection_submission_period": "FY2026P06"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012"
+    },
+    "uei:KBETVELWWR23": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-/",
+          "description": "JUVENILE DETAINEE SERVICES",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Government",
+              "U.S. Local Government",
+              "U.S. National Government",
+              "Not Designated a Small Business"
+            ],
+            "recipient_hash": "75665f38-d47d-5b02-a76b-f33ebea52a94-C",
+            "recipient_name": "COUNTY OF IMPERIAL",
+            "recipient_uei": "KBETVELWWR23"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:04.969980+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-",
+          "selection_amount": "-14580.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:252548",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-"
+    },
+    "uei:KHFLCLB4BW91": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-/",
+          "description": "FURNITURE, DELIVERY, AND INSTALLATION SERVICES FOR OPLA PHOENIX, ELOY DETENTION CENTER SUB-OFFICE",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Government",
+              "U.S. National Government",
+              "Not Designated a Small Business"
+            ],
+            "recipient_hash": "ecd79af6-7b9e-5e0d-3f45-353ba17ec2d6-C",
+            "recipient_name": "FEDERAL PRISON INDUSTRIES, INC",
+            "recipient_uei": "KHFLCLB4BW91"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:05.457321+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:7214",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-"
+    },
+    "uei:KMXSSRURLT43": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-/",
+          "description": "THIS CONTRACT PROVIDES AMERICAN CORRECTIONAL ASSOCIATION (ACA) RE-ACCREDITATION SUPPORT AT THE PORT ISABEL DETENTION CENTER.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Tax Exempt",
+              "Nonprofit Organization",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "60b81742-8d3f-a853-e7f5-0a60c3cb7d84-C",
+            "recipient_name": "THE AMERICAN CORRECTIONAL ASSOCIATION",
+            "recipient_uei": "KMXSSRURLT43"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:06.033242+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-",
+          "selection_amount": "20550.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:20604",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-"
+    },
+    "uei:L3VCKMD7J585": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "aee3ebde-7484-0fac-c8b8-43896b620d02-C",
+            "recipient_name": "SOS INTERNATIONAL LLC",
+            "recipient_uei": "L3VCKMD7J585"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:06.650247+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:168738",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012"
+    },
+    "uei:L41JMCZK3GW6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "6868beca-8dcf-543e-476a-cc7e2be0af30-C",
+            "recipient_name": "ACUITY INTERNATIONAL, LLC",
+            "recipient_uei": "L41JMCZK3GW6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:07.143191+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:91093",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012"
+    },
+    "uei:L8BNTYVF45P7": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "8668bb72-3879-dbd8-7126-1288a2e04a0d-C",
+            "recipient_name": "BERING STRAITS PROFESSIONAL SERVICES, LLC",
+            "recipient_uei": "L8BNTYVF45P7"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:07.619832+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:214500",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012"
+    },
+    "uei:LCJ3MDABAV97": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-/",
+          "description": "GROUNDS AND CUSTODIAL SERVICES - PORT ISABEL SPC.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "AbilityOne Program Participant",
+              "Category Business",
+              "Corporate Entity Tax Exempt",
+              "Nonprofit Organization",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "6f4ae646-0f03-6a66-7867-c724e9a79ce5-C",
+            "recipient_name": "MAVAGI ENTERPRISES, INC.",
+            "recipient_uei": "LCJ3MDABAV97"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:07.880092+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-",
+          "selection_amount": "-9.83",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:36258",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-"
+    },
+    "uei:LLMHPD1Q3X51": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "a4571479-f96c-82d6-56d9-8f2d729aef6a-C",
+            "recipient_name": "TARGET LOGISTICS MANAGEMENT, LLC",
+            "recipient_uei": "LLMHPD1Q3X51"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:08.407505+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:196888",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012"
+    },
+    "uei:LTZPLD2SJKW3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-/",
+          "description": "JANITORIAL/CUSTODIAL SERVICES AT FORT BENNING, GA TO SUPPORT OFTP",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Black American Owned Business",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "DoT Certified Disadvantaged Business Enterprise",
+              "Economically Disadvantaged Women Owned Small Business",
+              "Minority Owned Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Veteran Owned Business",
+              "Woman Owned Business",
+              "Women Owned Small Business"
+            ],
+            "recipient_hash": "02877207-6deb-b557-0ea7-688d6ccce8c8-C",
+            "recipient_name": "A-ACTION FACILITY SERVICES, INC.",
+            "recipient_uei": "LTZPLD2SJKW3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:08.997888+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-",
+          "selection_amount": "228447.32",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:203533",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-"
+    },
+    "uei:LUDNH5K4XQU9": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000110_7012_70CDCR20D00000004_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000110_7012_70CDCR20D00000004_7012/",
+          "description": "THIS CONTRACT PROVIDES GUARD, FOOD, AND TRANSPORTATION SERVICES TO FLORENCE SERVICE PROCESSING CENTER. THIS TASK ORDER FUNDS OPTION YEAR 5.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "566dbc48-1f9d-f4fe-4b82-d44ed548c602-C",
+            "recipient_name": "AKIMA GLOBAL SERVICES, LLC",
+            "recipient_uei": "LUDNH5K4XQU9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000110_7012_70CDCR20D00000004_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:09.359743+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000110_7012_70CDCR20D00000004_7012",
+          "selection_amount": "11025576.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:84704",
+          "selection_submission_period": "FY2026P10"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012/",
+          "description": "DETENTION MANAGEMENT SERVICES PUERTO RICO",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "566dbc48-1f9d-f4fe-4b82-d44ed548c602-C",
+            "recipient_name": "AKIMA GLOBAL SERVICES, LLC",
+            "recipient_uei": "LUDNH5K4XQU9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:11.554235+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:43843",
+          "selection_submission_period": "FY2025P07"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012"
+    },
+    "uei:MJNJZE4LAHP6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732/",
+          "description": "IGF::OT::IGF OPERATIONS AND MAINTENANCE AT SPC BATAVIA, NY",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "ae2f4489-d823-c019-baaf-6886bb68e5fe-C",
+            "recipient_name": "CHENEGA FACILITIES MANAGEMENT LLC",
+            "recipient_uei": "MJNJZE4LAHP6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732/",
+          "retrieved_at_utc": "2026-09-25T15:11:09.864148+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732",
+          "selection_amount": "-127301.91",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:286121",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732"
+    },
+    "uei:MLBYE6TCRT59": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-/",
+          "description": "JANITORIAL SERVICES TO SUPPORT OFTP FACILITY IN PA",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Asian Pacific American Owned Business",
+              "Category Business",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Sole Proprietorship",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "b96b4394-9bd1-2ed8-305e-5b78d137e420-C",
+            "recipient_name": "PAUL LEE",
+            "recipient_uei": "MLBYE6TCRT59"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:10.840222+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:9751",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-"
+    },
+    "uei:MLLGWJ8ZZ2S3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "fd66f3f3-7573-80b7-f6ee-22e7a4f01da3-C",
+            "recipient_name": "DISASTER MANAGEMENT GROUP, LLC",
+            "recipient_uei": "MLLGWJ8ZZ2S3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:11.026077+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:85603",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012"
+    },
+    "uei:MMT4LGM4H9Z5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-/",
+          "description": "UNARMED GUARD SERVICES",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Government",
+              "Hospital",
+              "U.S. Local Government",
+              "U.S. National Government",
+              "Not Designated a Small Business",
+              "U.S. Regional/State Government",
+              "Special Designations"
+            ],
+            "recipient_hash": "dfa7ce4a-d4d7-797d-919b-8a8b8fa1eda3-C",
+            "recipient_name": "DENVER HEALTH AND HOSPITAL AUTHORITY",
+            "recipient_uei": "MMT4LGM4H9Z5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:11.942365+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-",
+          "selection_amount": "-2000.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:148034",
+          "selection_submission_period": "FY2026P04"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-"
+    },
+    "uei:MNA3EF2HHKE5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "American Indian Owned Business",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "309d0a19-442f-d98b-1839-d99d68295358-C",
+            "recipient_name": "VISION QUEST SOLUTIONS INC",
+            "recipient_uei": "MNA3EF2HHKE5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:13.122920+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:258272",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012"
+    },
+    "uei:MT3CJK6XGNF8": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "7e6bbbf3-7353-fa7a-f087-0dd6c8a38beb-C",
+            "recipient_name": "LUKE & ASSOCIATES, INC.",
+            "recipient_uei": "MT3CJK6XGNF8"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:12.973744+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:112109",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012"
+    },
+    "uei:MX89BGD5FK75": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732/",
+          "description": "ENTERPRISE INFRASTRUCTURE SERVICES (EIS) CONTRACT FOR THE TRANSITION -DATA.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "d96f3486-0fa5-045a-5da7-9cffc0b4a114-C",
+            "recipient_name": "AT&T ENTERPRISES, LLC",
+            "recipient_uei": "MX89BGD5FK75"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732/",
+          "retrieved_at_utc": "2026-09-25T15:11:13.381726+00:00",
+          "returned_award_key": "CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732",
+          "selection_amount": "7700.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:291515",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732"
+    },
+    "uei:N7GNTMBL69K5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "2c00cb27-6024-d96f-b692-7a4e15eb6a3b-C",
+            "recipient_name": "INDUSTRIAL TENT SYSTEMS, LLC",
+            "recipient_uei": "N7GNTMBL69K5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:14.241167+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:121285",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012"
+    },
+    "uei:P7HULKXXD154": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-/",
+          "description": "VEHICLE REPAIR",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "2d4f200d-e784-4125-0626-e9a7160c3db0-C",
+            "recipient_name": "DLK INC",
+            "recipient_uei": "P7HULKXXD154"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:14.467706+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:23979",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-"
+    },
+    "uei:PC8MDM9DDWT6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Hispanic American Owned Business",
+              "Minority Owned Business",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Woman Owned Business"
+            ],
+            "recipient_hash": "b7466c92-2509-0514-42e8-88d4b520d390-C",
+            "recipient_name": "INGENESIS INC",
+            "recipient_uei": "PC8MDM9DDWT6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:15.032567+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:82825",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012"
+    },
+    "uei:PUH4LGL9L1G9": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-/",
+          "description": "PURCHASE ORDER FOR FIREARMS RANGE FACILITY RENTAL FOR THE TRAINING OF LAW ENFORCEMENT OFFICERS AT ST. PAUL AREA OF RESPONSIBILITY",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Government",
+              "U.S. Local Government",
+              "U.S. National Government",
+              "Not Designated a Small Business"
+            ],
+            "recipient_hash": "c66ccc5b-80dd-f631-0d62-c5fb00dcb82c-C",
+            "recipient_name": "CITY OF COTTAGE GROVE",
+            "recipient_uei": "PUH4LGL9L1G9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:15.469394+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-",
+          "selection_amount": "4060.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:185916",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-"
+    },
+    "uei:QEMLRQA7PLG4": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-/",
+          "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT THE CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "fe5366b4-84c8-12ff-126f-f123de29819c-C",
+            "recipient_name": "AMENTUM SERVICES, INC.",
+            "recipient_uei": "QEMLRQA7PLG4"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:15.973307+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+          "selection_amount": "452855435.04",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:46698",
+          "selection_submission_period": "FY2026P06"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-"
+    },
+    "uei:RKF9M2VP5JS6": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-/",
+          "description": "ARMORED VEHICLE REPAIR",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "6030a4d1-de89-372b-4007-7f06b1328108-C",
+            "recipient_name": "OURISMAN DODGE, INC.",
+            "recipient_uei": "RKF9M2VP5JS6"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:17.171386+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:14603",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-"
+    },
+    "uei:RRFJZGASZJ41": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "385c148c-559c-6218-53ff-80836c64dc4c-C",
+            "recipient_name": "V2X SYSTEMS LLC",
+            "recipient_uei": "RRFJZGASZJ41"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:17.578891+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:197513",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012"
+    },
+    "uei:RW9CJ1Z2M9H1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732/",
+          "description": "THE PURPOSE OF THIS AWARD IS TO PROVIDE SPECIALIZED TACTICAL TRAINING FOR NATIONAL LEVEL SELECTION PROCESS FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP)",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Partnership or Limited Liability Partnership",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "3807426d-d835-d48c-e1f9-5c7a886e314b-C",
+            "recipient_name": "TOMAHAWK STRATEGIC SOLUTIONS LLC",
+            "recipient_uei": "RW9CJ1Z2M9H1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732/",
+          "retrieved_at_utc": "2026-09-25T15:11:18.177461+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732",
+          "selection_amount": "225000.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:14538",
+          "selection_submission_period": "FY2026P10"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732"
+    },
+    "uei:SFKFN7RQHNV3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-/",
+          "description": "OPERATIONS AND MAINTENANCE SERVICES FOR BROADVIEW, HUNTSVILLE, AND OAKDALE IRP FACILITIES",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Not Designated a Small Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "10772fcd-ed7d-a488-8d62-9e5b00c89f1a-C",
+            "recipient_name": "CHENEGA TRI-SERVICES, LLC",
+            "recipient_uei": "SFKFN7RQHNV3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:17.978411+00:00",
+          "returned_award_key": "CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:244085",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-"
+    },
+    "uei:SVC5U6D9JNQ5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Category Business",
+              "DoT Certified Disadvantaged Business Enterprise",
+              "HUBZone Firm",
+              "Limited Liability Corporation",
+              "Partnership or Limited Liability Partnership",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Woman Owned Business",
+              "Women Owned Small Business"
+            ],
+            "recipient_hash": "5812624e-9ef8-1323-cb8e-ea63b0765b29-C",
+            "recipient_name": "KASTEL ENTERPRISES MK LLC",
+            "recipient_uei": "SVC5U6D9JNQ5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:18.605475+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:65439",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012"
+    },
+    "uei:TTLUYN248DA1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Partnership or Limited Liability Partnership",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "ec8f7750-3100-32bc-3c1b-973861f605f8-C",
+            "recipient_name": "GUARDIAN 6 SOLUTIONS LLC",
+            "recipient_uei": "TTLUYN248DA1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:19.106135+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:154560",
+          "selection_submission_period": "FY2025P09"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012"
+    },
+    "uei:UF3FMLEAWT13": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Foreign Owned",
+              "Foreign-Owned and U.S.-Incorporated Business",
+              "Not Designated a Small Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations"
+            ],
+            "recipient_hash": "4422e221-b924-1c82-2364-3bfe43f5388c-C",
+            "recipient_name": "ASPEN MEDICAL USA INC",
+            "recipient_uei": "UF3FMLEAWT13"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:19.597275+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:97016",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012"
+    },
+    "uei:UKQUPVHWM6V9": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "cdd10768-69cb-edc6-c189-e399a4e7aee9-C",
+            "recipient_name": "UNIVERSAL STRATEGIC ADVISORS LLC",
+            "recipient_uei": "UKQUPVHWM6V9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:20.323561+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:103557",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012"
+    },
+    "uei:VYUMS7L1EGL1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732/",
+          "description": "HSI SAN DIEGO REQUIREMENT FOR MEDICAL GUARDS AND TRANSPORTATION SERVICES  FOR BASE YEAR 9/23/2024 TO 9/22/2025 PLUS FOUR (4) OPTION YEARS COR:: CYNTHIA M MANALO - [CONTACT PHONE REMOVED] ALT COR: ABRAHAM MOR",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Hispanic American Owned Business",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Woman Owned Business",
+              "Women Owned Small Business"
+            ],
+            "recipient_hash": "01420496-6951-a59d-e2a9-29d6cfd3347a-C",
+            "recipient_name": "STARSIDE SECURITY & INVESTIGATION INC",
+            "recipient_uei": "VYUMS7L1EGL1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732/",
+          "retrieved_at_utc": "2026-09-25T15:11:20.509483+00:00",
+          "returned_award_key": "CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732",
+          "selection_amount": "702228.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:209114",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732"
+    },
+    "uei:WGN2KJJD27Q3": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000092_7012_70CDCR24D00000009_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000092_7012_70CDCR24D00000009_7012/",
+          "description": "THIS IS A NEW TASK ORDER TO OBLIGATE FUNDING FOR HOUSING AND SAFEGUARDING ILLEGAL ALIENS IN SUPPORT OF ENFORCEMENT AND REMOVAL OPERATIONS (ERO) AT KROME SERVICE PROCESSING CENTER IN MIAMI, FL",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "89489661-f708-11de-514b-32f2cf26a42d-C",
+            "recipient_name": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+            "recipient_uei": "WGN2KJJD27Q3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000092_7012_70CDCR24D00000009_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:20.987134+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000092_7012_70CDCR24D00000009_7012",
+          "selection_amount": "52074481.00",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:18280",
+          "selection_submission_period": "FY2026P06"
+        },
+        {
+          "award_unique_key": "CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012/",
+          "description": "PORT ISABEL SERVICE PROCESSING CENTER GUARD, FOOD AND LOCAL TRANSPORTATION AWARD - FY24 TASK ORDER",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "8(a) Program Participant",
+              "Alaskan Native Corporation Owned Firm",
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Native American Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "89489661-f708-11de-514b-32f2cf26a42d-C",
+            "recipient_name": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+            "recipient_uei": "WGN2KJJD27Q3"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:22.960552+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012",
+          "selection_amount": "",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:26918",
+          "selection_submission_period": "FY2025P05"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012"
+    },
+    "uei:XXJXSMP4H4J1": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "f7631954-3bf7-8f0e-edf9-cd6d104e6ff2-C",
+            "recipient_name": "ACTIVE DEPLOYMENT SYSTEMS, LLC",
+            "recipient_uei": "XXJXSMP4H4J1"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:21.584687+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:144881",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012"
+    },
+    "uei:Y54FQAPG4TN5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Partnership or Limited Liability Partnership",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "a11a2c49-b200-c5b0-6719-7b2d0bb9764c-C",
+            "recipient_name": "LOYAL SOURCE GOVERNMENT SERVICES LLC",
+            "recipient_uei": "Y54FQAPG4TN5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:24.246234+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:194958",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012"
+    },
+    "uei:Y5U3BSK2G389": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700/",
+          "description": "ADMINISTRATIVE TRANSFER OF THE DEPARTMENT OF WAR TASK ORDER W9124J25FA075 TO THE US IMMIGRATION AND CUSTOMS ENFORCEMENT FOR DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Hispanic American Owned Business",
+              "Limited Liability Corporation",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "ea7deee4-8b05-e52c-bd8e-c9b2ebca673c-C",
+            "recipient_name": "ACQUISITION LOGISTICS LLC",
+            "recipient_uei": "Y5U3BSK2G389"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700/",
+          "retrieved_at_utc": "2026-09-25T15:11:22.462297+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700",
+          "selection_amount": "598444871.04",
+          "selection_source_row_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv:row:203114",
+          "selection_submission_period": "FY2026P02"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700"
+    },
+    "uei:Z5JLMFHLJF59": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "12fdd481-5209-a4cf-42e1-0b0694c85c9f-C",
+            "recipient_name": "KIG TECHNICAL SERVICES, LLC",
+            "recipient_uei": "Z5JLMFHLJF59"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:23.978751+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:236970",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012"
+    },
+    "uei:ZE2JVFS8ML75": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Self-Certified Small Disadvantaged Business",
+              "Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "71953475-2ddf-64ef-24dd-69abe0ea0ad2-C",
+            "recipient_name": "RESPONSE AI SOLUTIONS, LLC",
+            "recipient_uei": "ZE2JVFS8ML75"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:25.327833+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:128496",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012"
+    },
+    "uei:ZHJYA5NN32Z5": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-/",
+          "description": "INTERIM CONTRACT FOR MOC AT NAVAL STATION GUANTANAMO BAY, CUBA",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Hispanic American Owned Business",
+              "Minority Owned Business",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "79264273-149e-8ef6-92fd-e87fa83f9ca6-C",
+            "recipient_name": "MVM, INC.",
+            "recipient_uei": "ZHJYA5NN32Z5"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-/",
+          "retrieved_at_utc": "2026-09-25T15:11:25.451852+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-",
+          "selection_amount": "-1811718.14",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:48884",
+          "selection_submission_period": "FY2025P12"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-"
+    },
+    "uei:ZJFDNMA46LT9": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Limited Liability Corporation",
+              "Manufacturer of Goods",
+              "Not Designated a Small Business",
+              "Special Designations",
+              "U.S.-Owned Business"
+            ],
+            "recipient_hash": "e3be6629-1714-1015-6fc5-92ae6e24ccb1-C",
+            "recipient_name": "XATOR LLC",
+            "recipient_uei": "ZJFDNMA46LT9"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:25.245781+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:150648",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012"
+    },
+    "uei:ZX23KR32ZH32": {
+      "awards": [
+        {
+          "award_unique_key": "CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012",
+          "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012/",
+          "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+          "identity_matches": true,
+          "recipient": {
+            "business_categories": [
+              "Category Business",
+              "Corporate Entity Not Tax Exempt",
+              "Hispanic American Owned Business",
+              "HUBZone Firm",
+              "Minority Owned Business",
+              "Self-Certified Small Disadvantaged Business",
+              "Service Disabled Veteran Owned Business",
+              "Small Business",
+              "Special Designations",
+              "Subchapter S Corporation",
+              "U.S.-Owned Business",
+              "Veteran Owned Business"
+            ],
+            "recipient_hash": "0a0095f2-24a0-9cef-3e08-6e6f13e737df-C",
+            "recipient_name": "CADUCEUS INC.",
+            "recipient_uei": "ZX23KR32ZH32"
+          },
+          "request_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012/",
+          "retrieved_at_utc": "2026-09-25T15:11:26.066473+00:00",
+          "returned_award_key": "CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012",
+          "selection_amount": "250.00",
+          "selection_source_row_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:row:30176",
+          "selection_submission_period": "FY2025P08"
+        }
+      ],
+      "historical_award_key": "CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012"
+    }
+  },
+  "schema": "shared_25_4_award_check_v1",
+  "selection_rule": "Largest absolute individual source-row obligation; then latest period and lexical award key.",
+  "source_sha256": "b38b2010fe8b57f10d8896303a81b824e7c80e290398a85cdfc0dfd570fa3a59",
+  "updated_at_utc": "2026-09-25T15:11:26.066534+00:00"
+}

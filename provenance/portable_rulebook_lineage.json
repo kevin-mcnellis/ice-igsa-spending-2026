@@ -1,0 +1,17 @@
+{
+  "derived_sha256": "4d46c9d94f51b9f96dd7200103b8498d9002af4e3b25d32022bdf99a516d9d3f",
+  "link_counts": {
+    "2b737f0f5aa30520e254950c80449873ee3a45e99272542fffbdda19092135e9": 1,
+    "52e10b2d4480a3ef9553021268300161f979c8090788b7c70733e530a628dfe2": 1,
+    "7d3c8fcdee2956259da56f02fb03460fcf6b9d8f9e8d899a37fb1900f5aaefb1": 1,
+    "970fcb10a7cae9c78f0ad0b9f84c3bb05541a6fe2380a341d5fb128ce018a6fd": 1,
+    "b7652202477497fb237fa4a6181a19ae86ed90abe6208f26adefdf01db4e0731": 1,
+    "b83cba2eb7414ff6e6ccb022f51d560c5181934e5cab0eeed6ed2bfbbbddafcd": 1,
+    "be3c9136aaf447f776d496a1e6ded1bd51798cebcdd0f0e33292d67cdbc8e8a4": 1,
+    "c6c751bf238b83f3abb9f2e505f5d28089d7b37380f148814d84924076efb3a6": 2,
+    "d47b21a566a9e9aea4dec74a9e2530f130271d33214e159d702773c13ead6de0": 1
+  },
+  "original_sha256": "c76bb5c4066ad61d4e8da9970884e549fdaa4d6a04e85abd7b351ebc05972f9a",
+  "schema": "portable-rulebook-1",
+  "transform": "ten relative links replaced with unbundled reference labels and a release note"
+}

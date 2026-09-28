@@ -1,0 +1,36 @@
+{
+  "download_url": "https://files.usaspending.gov/generated_downloads/FY2025P01-P04_070_TAS_AccountData_2026-09-23_H21M46S28192087.zip",
+  "members": [
+    {
+      "bytes": 7485047,
+      "member": "FY2025P01-P04_All_TAS_AccountBreakdownByPA-OC_2026-09-23_H21M46S28_1.csv",
+      "sha256": "a70fb48d131efe67c51790f343547090821de912b5e0f0d75269c311b94a528e"
+    },
+    {
+      "bytes": 303944,
+      "member": "FY2025P01-P04_All_TAS_AccountBalances_2026-09-23_H21M46S30_1.csv",
+      "sha256": "da390e8ef2c2beedeec1d1f137b1a76dfd3af8776561626aa8d2baa2e1d8ff33"
+    }
+  ],
+  "portable_origin": {
+    "original_receipt_sha256": "5493b24a19f7ba26a7ad2a3e15d5546efe57ba6db4f53feb8e32b78ecc1697d5",
+    "path_contract": "release-relative-v1"
+  },
+  "requested": {
+    "account_level": "treasury_account",
+    "file_format": "csv",
+    "filters": {
+      "agency": "63",
+      "fy": "2025",
+      "period": 4,
+      "submission_types": [
+        "account_balances",
+        "object_class_program_activity"
+      ]
+    }
+  },
+  "retrieved_at_utc": "2026-09-23T21:47:51.258759+00:00",
+  "zip_bytes": 471839,
+  "zip_path": "data/raw/DHS_FY2025P04_ab/FY2025P01-P04_070_TAS_AccountData_2026-09-23_H21M46S28192087.zip",
+  "zip_sha256": "08a320da64477811c6d635509e7e02d3404ef6f7df1244ad32a7e97f3c8bfdeb"
+}

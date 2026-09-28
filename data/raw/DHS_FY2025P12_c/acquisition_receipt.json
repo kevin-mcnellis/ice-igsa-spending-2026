@@ -1,0 +1,49 @@
+{
+  "download_url": "https://files.usaspending.gov/generated_downloads/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip",
+  "members": [
+    {
+      "bytes": 715315733,
+      "member": "FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_02.csv",
+      "path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_02.csv",
+      "sha256": "5eaba9bf301d1afcbc7494d73fa08be8446297fed89328b5938a83661fb01a28"
+    },
+    {
+      "bytes": 715328875,
+      "member": "FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "sha256": "8a8e8a168b5c414d42f0206fb833f711a43015e0503a52e4f9e146779b1a6e5b"
+    },
+    {
+      "bytes": 447477923,
+      "member": "FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "bytes": 3091637,
+      "member": "FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "sha256": "46e0a16df0c838c6634c7f05319603e5098da7ec08d594b8335b25ed14b7d03f"
+    }
+  ],
+  "portable_origin": {
+    "original_receipt_sha256": "7a5d79f6366874e7b17eb65d3e093fa20ea117a02c101ae816073bf3a54703dc",
+    "path_contract": "release-relative-v1"
+  },
+  "requested": {
+    "account_level": "treasury_account",
+    "file_format": "csv",
+    "filters": {
+      "agency": "63",
+      "fy": "2025",
+      "period": 12,
+      "submission_types": [
+        "award_financial"
+      ]
+    }
+  },
+  "retrieved_at_utc": "2026-09-16T02:59:31.399670+00:00",
+  "zip_bytes": 102297521,
+  "zip_path": "data/raw/DHS_FY2025P12_c/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip",
+  "zip_sha256": "daf29490dbba7724c8dc3202c241937e857ec45380a66ef3cd0b439a8cb9744f"
+}

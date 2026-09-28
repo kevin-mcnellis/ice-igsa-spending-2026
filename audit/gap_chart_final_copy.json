@@ -1,0 +1,60 @@
+{
+  "before_construction_note_backup": "File_C_blog_post/outputs/gap_chart_before_construction_note_2026-09-28",
+  "before_construction_note_sha256": {
+    "gap_chart.png": "41773a5fc24661e575afbdb49ca45f0b944597300f191a5f762369a8226c5f83",
+    "gap_chart_mobile.png": "145cc6135c2a3b37daf111079ae195923979c86bd44b20396c1714eff7e42c85"
+  },
+  "copied_files": {
+    "chart_data.csv": {
+      "bytes": 2117,
+      "sha256": "8c811c691f450b0ebaa4ac6e1c700f88d614785805d32eb2c9781cbf950cb17c"
+    },
+    "gap_chart.png": {
+      "bytes": 448399,
+      "sha256": "ecf04c253783c38e03bc580649ad496c7842ebb018cc525ebec3abc82c6d0eb1"
+    },
+    "gap_chart.svg": {
+      "bytes": 158723,
+      "sha256": "1497d0a84b1bb7df430e6f08e4fc28b3092efafeadba3a85024a2dc6d9309133"
+    },
+    "gap_chart_mobile.png": {
+      "bytes": 453155,
+      "sha256": "6f50ba161f49770f18db8de908a4405ff92c04c3fcadd7590bdf47b9d5a77e93"
+    },
+    "gap_chart_mobile.svg": {
+      "bytes": 159090,
+      "sha256": "861e50bdc8980d7b90e5278cb48d993825057ae777ff1c4a2dd1c465a093033b"
+    },
+    "verification.json": {
+      "bytes": 14090,
+      "sha256": "24423d748c4fd40e37e679f31e198e3f1e4a39c59b71fb8ea79e829d502e553d"
+    }
+  },
+  "destination_directory": "File_C_blog_post/outputs/gap_chart_draft",
+  "previous_canonical_backup": "File_C_blog_post/outputs/gap_chart_draft/previous_canonical_20260928",
+  "previous_canonical_sha256": {
+    "chart_data.csv": "8c811c691f450b0ebaa4ac6e1c700f88d614785805d32eb2c9781cbf950cb17c",
+    "gap_chart.png": "d5392991329b8385b5b84bd88489086d216b6b07105594513943d8176dd43561",
+    "gap_chart_mobile.png": "e04f7ddc75e0d25faeb865800871460d505605ef6a5beabd7aec2c9a336d34bb",
+    "verification.json": "6e254b4c7c4ca6970cd67df506098d33e9f1667759b5ef98f4d254d424994404"
+  },
+  "schema_version": "file-c-gap-chart-copy-1",
+  "source_directory": "File_C_blog_post/outputs/gap_chart",
+  "source_lane_commit": "d8639b5",
+  "source_status": {
+    "cbs_claim_support_record_verified": false,
+    "cbs_report_facts_record_verified": true,
+    "cbs_residual_linkage_verified": false,
+    "deliverable_status": "FINAL_BUILD",
+    "interpretation_status": "WARN",
+    "technical_status": "PASS"
+  },
+  "supporting_receipt_outputs_not_copied": [
+    "construction_25_2_monthly.csv",
+    "construction_gap_by_object_class.csv",
+    "construction_recipient_check.csv",
+    "object_class_by_program_fy2026.csv",
+    "travel_21_recipient_totals.csv"
+  ],
+  "verification": "All six destination hashes match source; all prior canonical files and two pre-note PNGs were preserved. This is a local transfer, not a new calculation or publication approval."
+}

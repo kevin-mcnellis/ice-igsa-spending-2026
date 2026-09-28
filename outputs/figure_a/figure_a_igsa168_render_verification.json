@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "browser_version": "151.0.7922.34",
+  "node_version": "v24.1.0",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "os_release": "25.6.0",
+  "viewport": {
+    "width": 1120,
+    "height": 1400
+  },
+  "locale": "en-US",
+  "timezone": "UTC",
+  "fonts": {
+    "body": "\"Libre Franklin\", -apple-system, \"Helvetica Neue\", Arial, sans-serif",
+    "heading": "\"Source Serif 4\", Georgia, serif",
+    "devicePixelRatio": 2
+  },
+  "determinism_scope": "same browser, operating-system fonts, viewport and source/template bytes",
+  "panels": [
+    {
+      "date": "2026-07-09",
+      "observed_count": 208,
+      "plotted_count": 203,
+      "off_map_count": 5,
+      "png": "panel_2026-07-09.png",
+      "maximum_display_displacement": 15.997440725257857,
+      "width": 1832,
+      "height": 2328
+    }
+  ],
+  "external_requests": [],
+  "page_errors": []
+}

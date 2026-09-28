@@ -1,0 +1,11 @@
+metric_id,account,object_class,file_b,file_c,b_minus_c,file_c_status,file_c_share_percent,file_b_display,file_c_display,gap_display,note_file_b_display,note_gap_display,source_path,calculation_path
+operations_25_4,070-0540,25.4,5895246188.14,3124417995.77,2770828192.37,partial_blank,52.99894009610106352127560226,$5.90 billion,$3.12 billion,$2.77 billion,,,data/comparison_source_manifest.csv,scripts/bc_gap.py
+operations_31_0,070-0540,31.0,2113968126.96,882252801.68,1231715325.28,partial_blank,41.73444199221333750964757734,$2.11 billion,$882 million,$1.23 billion,,,data/comparison_source_manifest.csv,scripts/bc_gap.py
+operations_21_0,070-0540,21.0,2795246025.76,2242922233.94,552323791.82,partial_blank,80.24060183862246708772152713,$2.80 billion,$2.24 billion,$552 million,,,data/comparison_source_manifest.csv,scripts/bc_gap.py
+operations_25_2,070-0540,25.2,901387016.00,656771737.58,244615278.42,partial_blank,72.86234724064407868062745648,$901 million,$657 million,$245 million,,,data/comparison_source_manifest.csv,scripts/bc_gap.py
+construction_25_2,070-0545,25.2,5391453162.03,414725161.13,4976728000.90,partial_blank,7.692270500479446043082515537,$5.39 billion,$415 million,$4.98 billion,$5.4 billion,$5.0 billion,data/comparison_source_manifest.csv,scripts/bc_gap.py
+title_gap,070-0540,25.4+31.0+21.0+25.2,,,4799482587.89,,,,,$4.8 billion,,,data/comparison_source_manifest.csv,scripts/prepare_gap_chart.py
+board_care_25_8,070-0540,25.8,3676270.40,3568306.78,107963.62,partial_blank,,$3.68 million,$3.57 million,"$108,000",,,data/comparison_source_manifest.csv,scripts/bc_gap.py
+construction_p04_snapshot_change,070-0545,25.2,5630030000.00,,,,,,,,,,data/construction_monthly_source_manifest.csv,scripts/construction_monthly.py
+equipment_mission_support_fy26,070-0540,31.0,1067309865.84,428488331.20,638821534.64,partial_blank,,,,$639 million,,$639 million,object_class_by_program_fy2026.csv,scripts/gap_program_activity.py
+equipment_ero_fy26,070-0540,31.0,381493840.19,3326437.31,378167402.88,partial_blank,,,,$378 million,,,object_class_by_program_fy2026.csv,scripts/gap_program_activity.py

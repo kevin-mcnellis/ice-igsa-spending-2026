@@ -1,0 +1,74 @@
+{
+  "award_id": "CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012",
+  "page_metadata": {
+    "pages_fetched": 1,
+    "result_count": 5
+  },
+  "results": [
+    {
+      "action_date": "2026-02-03",
+      "action_type": null,
+      "action_type_description": null,
+      "description": "THIS IS TO ESTABLISH NEW TASK ORDER FOR DETENTION SERVICES AT THE MESA VERDE AND GOLDEN STATE ICE DETENTION FACILITY IN THE SAN FRANSCISCO AREA OF RESPONSIBILITY",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 16762626.49,
+      "id": "CONT_TX_7012_7012_70CDCR26FR0000042_0_70CDCR20D00000008_0",
+      "modification_number": "0",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-03-06",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "THIS MODIFICATION ADDS FUNDING FOR DETENTION AND TRANSPORTATION SERVICES FOR MESA VERDE AND GOLDEN STATE ANNEX DETENTION FACILITY IN THE SAN FRANCISCO AREA OF RESPONSIBILITY",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 10073576.0,
+      "id": "CONT_TX_7012_7012_70CDCR26FR0000042_P00001_70CDCR20D00000008_0",
+      "modification_number": "P00001",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-04-03",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "THIS MODIFICATION ADDS FUNDING FOR DETENTION AND TRANSPORTATION SERVICES FOR THE CENTRAL VALLEY ANNEX IN SUPPORT OF THE SAN FRANCISCO AREA OF RESPONSIBILITY",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 5869612.0,
+      "id": "CONT_TX_7012_7012_70CDCR26FR0000042_P00002_70CDCR20D00000008_0",
+      "modification_number": "P00002",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-05-22",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "THIS MODIFICATION ADDS FUNDING FOR DETENTION AND TRANSPORTATION SERVICES FOR THE MESA VERDE DETENTION FACILITY IN SUPPORT OF THE SAN FRANCISCO AREA OF RESPONSIBILITY",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 3563193.6,
+      "id": "CONT_TX_7012_7012_70CDCR26FR0000042_P00003_70CDCR20D00000008_0",
+      "modification_number": "P00003",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-06-26",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "THIS MODIFICATION ADDS FUNDING FOR DETENTION AND TRANSPORTATION SERVICES FOR THE GOLDEN STATE DETENTION FACILITY IN SUPPORT OF THE SAN FRANCISCO AREA OF RESPONSIBILITY.",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 4898964.63,
+      "id": "CONT_TX_7012_7012_70CDCR26FR0000042_P00004_70CDCR20D00000008_0",
+      "modification_number": "P00004",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "account_obligations_by_defc": [
+    {
+      "amount": 452855435.04,
+      "code": "Q"
+    }
+  ],
+  "account_outlays_by_defc": [
+    {
+      "amount": 0.0,
+      "code": "Q"
+    }
+  ],
+  "awarding_agency": {
+    "has_agency_page": true,
+    "id": 776,
+    "office_agency_name": "DETENTION COMPLIANCE AND REMOVALS",
+    "subtier_agency": {
+      "abbreviation": "ICE",
+      "code": "7012",
+      "name": "U.S. Immigration and Customs Enforcement"
+    },
+    "toptier_agency": {
+      "abbreviation": "DHS",
+      "code": "070",
+      "name": "Department of Homeland Security",
+      "slug": "department-of-homeland-security"
+    }
+  },
+  "base_and_all_options": 452855435.04,
+  "base_exercised_options": 452855435.04,
+  "category": "contract",
+  "date_signed": "2026-03-12",
+  "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT THE CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX.",
+  "executive_details": {
+    "officers": [
+      {
+        "amount": null,
+        "name": null
+      },
+      {
+        "amount": null,
+        "name": null
+      },
+      {
+        "amount": null,
+        "name": null
+      },
+      {
+        "amount": null,
+        "name": null
+      },
+      {
+        "amount": null,
+        "name": null
+      }
+    ]
+  },
+  "funding_agency": {
+    "has_agency_page": true,
+    "id": 776,
+    "office_agency_name": "ENFORCEMENT AND REMOVAL OPERATIONS EL PASO",
+    "subtier_agency": {
+      "abbreviation": "ICE",
+      "code": "7012",
+      "name": "U.S. Immigration and Customs Enforcement"
+    },
+    "toptier_agency": {
+      "abbreviation": "DHS",
+      "code": "070",
+      "name": "Department of Homeland Security",
+      "slug": "department-of-homeland-security"
+    }
+  },
+  "generated_unique_award_id": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+  "id": 355995518,
+  "latest_transaction_contract_data": {
+    "clinger_cohen_act_planning": "N",
+    "clinger_cohen_act_planning_description": "NO",
+    "commercial_item_acquisition": "A",
+    "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES",
+    "commercial_item_test_program": "N",
+    "commercial_item_test_program_description": "NO",
+    "consolidated_contract": "D",
+    "consolidated_contract_description": "NOT CONSOLIDATED",
+    "construction_wage_rate": "N",
+    "construction_wage_rate_description": "NO",
+    "cost_or_pricing_data": "N",
+    "cost_or_pricing_data_description": "NO",
+    "dod_acquisition_program": null,
+    "dod_acquisition_program_description": null,
+    "dod_claimant_program": null,
+    "dod_claimant_program_description": null,
+    "domestic_or_foreign_entity": "A",
+    "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+    "evaluated_preference": "NONE",
+    "evaluated_preference_description": "NO PREFERENCE USED",
+    "extent_competed": "C",
+    "extent_competed_description": "NOT COMPETED",
+    "fair_opportunity_limited": null,
+    "fair_opportunity_limited_description": null,
+    "fed_biz_opps": "X",
+    "fed_biz_opps_description": "NOT APPLICABLE",
+    "foreign_funding": "X",
+    "foreign_funding_description": "NOT APPLICABLE",
+    "idv_type_description": null,
+    "information_technology_commercial_item_category": null,
+    "information_technology_commercial_item_category_description": null,
+    "interagency_contracting_authority": "X",
+    "interagency_contracting_authority_description": "NOT APPLICABLE",
+    "labor_standards": "Y",
+    "labor_standards_description": "YES",
+    "major_program": null,
+    "materials_supplies": "N",
+    "materials_supplies_description": "NO",
+    "multi_year_contract": "N",
+    "multi_year_contract_description": "NO",
+    "multiple_or_single_award_description": null,
+    "naics": "561612",
+    "naics_description": "SECURITY GUARDS AND PATROL SERVICES",
+    "national_interest_action": null,
+    "national_interest_action_description": null,
+    "number_of_offers_received": "1",
+    "other_than_full_and_open": "ONE",
+    "other_than_full_and_open_description": "ONLY ONE SOURCE-OTHER (FAR 6.302-1 OTHER)",
+    "price_evaluation_adjustment": "0.00",
+    "product_or_service_code": "S206",
+    "product_or_service_description": "HOUSEKEEPING- GUARD",
+    "program_acronym": null,
+    "purchase_card_as_payment_method": "N",
+    "purchase_card_as_payment_method_description": "NO",
+    "referenced_idv_agency_desc": null,
+    "referenced_idv_agency_iden": null,
+    "sea_transportation": null,
+    "sea_transportation_description": null,
+    "small_business_competitive": false,
+    "solicitation_identifier": null,
+    "solicitation_procedures": "SSS",
+    "solicitation_procedures_description": "ONLY ONE SOURCE",
+    "subcontracting_plan": "G",
+    "subcontracting_plan_description": "COMMERCIAL SUBCONTRACT PLAN",
+    "type_of_contract_pricing": "J",
+    "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+    "type_of_idc_description": null,
+    "type_set_aside": "NONE",
+    "type_set_aside_description": "NO SET ASIDE USED."
+  },
+  "naics_hierarchy": {
+    "base_code": {
+      "code": "561612",
+      "description": "Security Guards and Patrol Services"
+    },
+    "midtier_code": {
+      "code": "5616",
+      "description": "Investigation and Security Services"
+    },
+    "toptier_code": {
+      "code": "56",
+      "description": "Administrative and Support and Waste Management and Remediation Services"
+    }
+  },
+  "parent_award": null,
+  "period_of_performance": {
+    "end_date": "2026-09-30",
+    "last_modified_date": "2026-03-13",
+    "potential_end_date": "2026-09-30 00:00:00",
+    "start_date": "2026-03-13"
+  },
+  "piid": "70CDCR26C00000016",
+  "place_of_performance": {
+    "address_line1": null,
+    "address_line2": null,
+    "address_line3": null,
+    "city_name": "EL PASO",
+    "congressional_code": "16",
+    "country_name": "UNITED STATES",
+    "county_code": "141",
+    "county_name": "EL PASO",
+    "foreign_postal_code": null,
+    "foreign_province": null,
+    "location_country_code": "USA",
+    "state_code": "TX",
+    "state_name": "TEXAS",
+    "zip4": "5256",
+    "zip5": "79906"
+  },
+  "psc_hierarchy": {
+    "base_code": {
+      "code": "S206",
+      "description": "HOUSEKEEPING- GUARD"
+    },
+    "midtier_code": {
+      "code": "S2",
+      "description": "HOUSEKEEPING SERVICES"
+    },
+    "subtier_code": {},
+    "toptier_code": {
+      "code": "S",
+      "description": "UTILITIES AND HOUSEKEEPING"
+    }
+  },
+  "recipient": {
+    "business_categories": [
+      "Category Business",
+      "Corporate Entity Not Tax Exempt",
+      "Not Designated a Small Business",
+      "Special Designations",
+      "U.S.-Owned Business"
+    ],
+    "location": {
+      "address_line1": "4800 WESTFIELDS BLVD STE 400",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "CHANTILLY",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "FAIRFAX",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "VA",
+      "state_name": "VIRGINIA",
+      "zip4": "4247",
+      "zip5": "20151"
+    },
+    "parent_recipient_hash": "75124b8a-985d-d0d6-fff7-43c9b4fb64a2-P",
+    "parent_recipient_name": "AMENTUM ENVIRONMENT & ENERGY  INC.",
+    "parent_recipient_uei": "Q3BYWA4EY5G3",
+    "parent_recipient_unique_id": null,
+    "recipient_hash": "fe5366b4-84c8-12ff-126f-f123de29819c-C",
+    "recipient_name": "AMENTUM SERVICES, INC.",
+    "recipient_uei": "QEMLRQA7PLG4",
+    "recipient_unique_id": null
+  },
+  "subaward_count": 0,
+  "total_account_obligation": 452855435.04,
+  "total_account_outlay": 0.0,
+  "total_obligation": 452855435.04,
+  "total_outlay": null,
+  "total_subaward_amount": null,
+  "type": "D",
+  "type_description": "DEFINITIVE CONTRACT"
+}

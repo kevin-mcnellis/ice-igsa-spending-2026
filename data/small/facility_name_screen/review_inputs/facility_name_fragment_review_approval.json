@@ -1,0 +1,14 @@
+{
+  "active_fragments_sha256": "fd18c2ac552f307f7dfd3062f10ca2637216fa7e4f19539e18f0fa7337ba1d2f",
+  "approved_at": "2026-09-26",
+  "approved_by": "Kevin McNellis",
+  "approved_for_production": true,
+  "candidate_csv_sha256": "d2fcf844f7c7629d51bde613730fdaa75db388a1a0fe5ffe335e78138a658f2a",
+  "derivation": "Registered source-row links were made release-relative; three internal workflow notes were shortened without changing decisions or award bases.",
+  "note": "Prior 24 decisions retained. The T DON HUTTO partial-name decision remains approved with the recorded reviewer and date. Production dated-attribution rule still requires separate confirmation.",
+  "original_active_fragments_sha256": "13510aa8ca004213c380a24c5444b63e69b9305ea028716579ea87c962081b19",
+  "original_candidate_csv_sha256": "c37f7490619e7f9cc29067743130b7fa056bb7bc3146510f5a0643f161da972b",
+  "original_review_approval_sha256": "abc01565d4b2129ff06c521460a35da894984591d3f0d0324df16456642d51c0",
+  "reviewed_candidate_rows": 25,
+  "source_manifest_sha256": "68933f4929a2e84644ad1a3f5348e86da92844d9b2cecdea48df4bc37cdefe01"
+}

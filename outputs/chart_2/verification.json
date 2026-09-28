@@ -1,0 +1,156 @@
+{
+  "analysis": {
+    "all_class_total": "9506513912.34",
+    "blank_amount_rows": 1961,
+    "crosswalk_path": "data/shared_recipient_crosswalk.csv",
+    "crosswalk_sha256": "d27b4e10ddad1b6f461d9c2969ae5f499b4574aa30e55c7b240dd02fd1fe85d5",
+    "file_c_total": "3136530747.79",
+    "government_coverage": "Reviewed current-chart identities plus verified candidates from the earlier government name screen; not an exhaustive all-class census.",
+    "government_over_10m_other_classes": false,
+    "named_recipients": 74,
+    "shared_decision_warnings": {
+      "uei:HWW3D6C5Y7X7": "conflicting_evidence",
+      "uei:KBETVELWWR23": "conflicting_evidence",
+      "uei:MMT4LGM4H9Z5": "conflicting_evidence",
+      "uei:PUH4LGL9L1G9": "conflicting_evidence"
+    },
+    "source_rows": 2405,
+    "source_sha256": "b38b2010fe8b57f10d8896303a81b824e7c80e290398a85cdfc0dfd570fa3a59",
+    "verified_members": [
+      {
+        "bytes": 715315733,
+        "hash_status": "verified",
+        "member": "FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_02.csv",
+        "scanned_rows": 522895,
+        "selected_rows": 9,
+        "sha256": "5eaba9bf301d1afcbc7494d73fa08be8446297fed89328b5938a83661fb01a28",
+        "source_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_02.csv",
+        "zip_path": "data/raw/DHS_FY2025P12_c/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip"
+      },
+      {
+        "bytes": 715328875,
+        "hash_status": "verified",
+        "member": "FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "scanned_rows": 522894,
+        "selected_rows": 12,
+        "sha256": "8a8e8a168b5c414d42f0206fb833f711a43015e0503a52e4f9e146779b1a6e5b",
+        "source_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "zip_path": "data/raw/DHS_FY2025P12_c/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip"
+      },
+      {
+        "bytes": 447477923,
+        "hash_status": "verified",
+        "member": "FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "scanned_rows": 299940,
+        "selected_rows": 30349,
+        "sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f",
+        "source_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "zip_path": "data/raw/DHS_FY2025P12_c/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip"
+      },
+      {
+        "bytes": 3091637,
+        "hash_status": "verified",
+        "member": "FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "scanned_rows": 5015,
+        "selected_rows": 246,
+        "sha256": "46e0a16df0c838c6634c7f05319603e5098da7ec08d594b8335b25ed14b7d03f",
+        "source_id": "DHS_FY2025P12_c:FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+        "zip_path": "data/raw/DHS_FY2025P12_c/FY2025P01-P12_070_TAS_AccountBreakdownByAward_2026-09-16_H02M54S16646960.zip"
+      },
+      {
+        "bytes": 272187565,
+        "hash_status": "verified",
+        "member": "FY2026P01-P10_070_TAS_Assistance_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "scanned_rows": 194937,
+        "selected_rows": 10,
+        "sha256": "e8c9b64afc28fd8ed52b9fc2ad0413a0e7f7206d32deeac3e9973188fffe26d5",
+        "source_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Assistance_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "zip_path": "data/raw/DHS_FY2026P10_c/FY2026P01-P10_070_TAS_AccountBreakdownByAward_2026-09-15_H22M11S11234807.zip"
+      },
+      {
+        "bytes": 372658568,
+        "hash_status": "verified",
+        "member": "FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "scanned_rows": 258525,
+        "selected_rows": 23522,
+        "sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed",
+        "source_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "zip_path": "data/raw/DHS_FY2026P10_c/FY2026P01-P10_070_TAS_AccountBreakdownByAward_2026-09-15_H22M11S11234807.zip"
+      },
+      {
+        "bytes": 6288392,
+        "hash_status": "verified",
+        "member": "FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "scanned_rows": 11431,
+        "selected_rows": 54,
+        "sha256": "0c026becd57030702f2a06fafaded3acd25ec358521c3fe910d1ae206807e215",
+        "source_id": "DHS_FY2026P10_c:FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+        "zip_path": "data/raw/DHS_FY2026P10_c/FY2026P01-P10_070_TAS_AccountBreakdownByAward_2026-09-15_H22M11S11234807.zip"
+      }
+    ]
+  },
+  "chart_1_unchanged_sha256": {
+    "comparison_accounting_keys.csv": "ecb2302a7af47481847b9f81055f175c2c3d1db5cc57e619c454ba6e6ae69b4b",
+    "comparison_by_period.csv": "a06acd9e641c43b01fe3f28f157b0797b1953fb2ca0b77c8fbaf491d54c85415",
+    "comparison_source_rows.csv": "b38b2010fe8b57f10d8896303a81b824e7c80e290398a85cdfc0dfd570fa3a59",
+    "comparison_totals.csv": "6604c58e76dd1610862e49422bc97d2922942cd327799a955021248b68975a9e",
+    "obligations_comparison_25_4.html": "857a05bf351f1565a08b0ec8365dc72f1bfe19d00be9cb1406603d26bcd519c2",
+    "obligations_comparison_25_4.png": "ba86a77677c4cd1ca00c232699c0a4e21011dc21966fb1dac580775ee9db2069",
+    "obligations_comparison_25_4.svg": "065ed1d3296179da9b5776de0f64080fcb7919cf987de5f0fc75c88c2f0fe0c4",
+    "obligations_comparison_25_4_mobile.png": "1960dfe564166e0d9ffcf0316a64f3ce098320959c99fba4ff1187db56b78194",
+    "obligations_comparison_25_4_mobile.svg": "3af86daf2cf181b9db6b7cba73cb58e9fa6981ea1fa66a8fd3ce19e1b8b47067",
+    "verification.json": "9c0bacc3c12fc6e31bc36ec3ddc0e9bed60c2c20c98e60512e103f18d91ba0cb"
+  },
+  "completed_at_utc": "2026-09-25T16:40:03.537298+00:00",
+  "interpretation_status": "WARN",
+  "output_sha256": {
+    "classified_source_rows.csv": "2146d62dab76a71aeaa81e07400718797d40db7ea5b04ccfff8c6f9513fa918c",
+    "government_all_object_classes.csv": "dd608a9691edaa0d2219318d8e529ba01812001983d7ff4dd29a2c7a75306abc",
+    "government_source_rows.csv": "9a751c015ee4380be2d8ee017a76d867d6f46080b46351edc1d9ba8b5a72fad8",
+    "recipient_classification.csv": "5148477810c7d4d449d7cc1543c9e2394015c24d0e0070597fb15ba420025285",
+    "recipient_totals.csv": "969ab13dfb93c4b518834cdeb93c1dc491325f9083ea7079c9644e4677ae86bb",
+    "recipient_type_totals.csv": "5d40e502de0f837f6c07a693434e9d51db377e27c9739d2312d9e4c1480d1c5c",
+    "recipient_types_25_4.html": "165d6607be50f1a36aaab83ca5c5a0e039ada2d4b1958b8715eeee3c92cbc166",
+    "recipient_types_25_4.png": "315b9efa85cd872ce124e6c41fb7f120fa95d16162b8399d68a74501cd0435bf",
+    "recipient_types_25_4.svg": "b0fefede0f92bd7c9e43ce04b88eb45e966c71c6ddb24cec6d574670241c6c76",
+    "recipient_types_25_4_mobile.png": "1bc336334f6a7d819cb183cb1fedacb82afe08be446a211a9f882a140e644275",
+    "recipient_types_25_4_mobile.svg": "b1df406908c940014b187372dbe84739fbada9a9a407e495deac9d207b3fa529"
+  },
+  "source_version": {
+    "file_sha256": {
+      "data/chart_2_recipient_crosswalk.csv": "ac37716008947a14a708f95dd17b1c135be910640739033ff17655b046453114",
+      "data/shared_recipient_crosswalk.csv": "d27b4e10ddad1b6f461d9c2969ae5f499b4574aa30e55c7b240dd02fd1fe85d5",
+      "data/source_manifest.csv": "47d346c3eb26dd7e5598c3fbf40f1b95b595f3a7f3b3db987840c83d44242f37",
+      "provenance/chart_2_entity_evidence.json": "e543b5724281eb67ea58d34adc2f5d59bb4ea3d3d0a22c5f63c773bf432203d6",
+      "provenance/object_class_25_2_entity_evidence.json": "7064ca290604d427cd41d4b1382347c2bcd1442b1384cfce914d69389b4fba48",
+      "provenance/object_class_25_2_source_context.json": "18fb2ed92d0d3a3964363647cf9c80ee0b5ebfdda0576b2922ae55c04d9104e9",
+      "provenance/private_entity_rule_v1.json": "9e0696aca2821308beec3cb610a2c841c16f634bad5e474ca94a33d46f59f69b",
+      "provenance/shared_25_4_award_check.json": "582774f5e574329e1484d9cc02a636862869a418b7dfec0991727bb150ba7706",
+      "pyproject.toml": "7a1bdfeb6df89b9f90f95ec4627d64839da89067d5381de920085cc656487d64",
+      "run.py": "db7bf2f56f3c6dbf24b50b4bcbbcfb7afd11149c8a147535cd875b15647920f0",
+      "run_chart_2.py": "9e6912e175c4607c229caf5a89bf1502483f76940d4050071fdef0d98f3aaf90",
+      "scripts/__init__.py": "2f9aa11db686103c03dfe1ef7f6c82d3b617aa81576de2a08b2d8901aa9e60c3",
+      "scripts/bc_gap.py": "402dfa22d719eeccdbc1fd42dfdbf26afcbec8c58410310c5d40104eebc779f3",
+      "scripts/chart_style.py": "1cc45c47d46f973431e2aff54d7e41239cf8690ac4f608f4e10b79716c959946",
+      "scripts/check_shared_award_evidence.py": "6fd5ea7d7926e0c80c08fe5aa67a41f0f6c4831cd60d159bf6eaa9f1c657d607",
+      "scripts/fetch_25_2_entity_evidence.py": "82ea0d3ef9d4decebbd5bab95cf8e89768c4cf780b0a7135fc02ae9bfda22b74",
+      "scripts/fetch_entity_evidence.py": "987c17f33fee54f4a1099c190dd83d0f44b8ad62b4029c2ca8c0a72c074c582c",
+      "scripts/object_class_25_2_recipients.py": "3e75faa890345027aaa08e6e16513615915847b7390622df7078c736f1707a18",
+      "scripts/plot_chart.py": "636084479406ea071938773ba19b6ffcd4b2b8299520945166acb8e785c62bfd",
+      "scripts/plot_chart_2.py": "ccdc2ea3b51809c36a8f28ba9ee5a485c3a42fe9899a677e2e8e7e7cdd6d76d3",
+      "scripts/plot_comparison.py": "a84ffa7c7ee15f3e7ff61c235124c23422353160df0ea447d78f5e8702d1e389",
+      "scripts/prepare_chart_2.py": "48701614619ea2105fb56dbd8e67819c990ff33cf2cb9846c197bb7fc7c8973f",
+      "scripts/prepare_chart_data.py": "f237068f4ab5017d299a965102ad52f7943e99498104b323fb490a4c409d47f9",
+      "scripts/prepare_comparison_data.py": "9f1a5a075a4d2443fd427632aeeedef47defacf370bfcbd4a8b694bc2b7e827d",
+      "scripts/prepare_historical_comparison.py": "ec116133894dd40b2a486c740d31f1ae84d071cf765eaa6e57ff3a3beec7b508",
+      "scripts/recipient_rules.py": "0e69a9843b011c4df290080cf04a083eab1485d8d2baeca0858582e1656268ac",
+      "scripts/screen_igsa_ddp_descriptions.py": "7fb89a09ac493fc1055416479acd077f1900985ebfed59c5b39aef83b45b5081",
+      "scripts/shared_recipients.py": "36c39b028e59d4255f38fb7b273fc065137c4f5e2ef578b5e344f7603f1919a6",
+      "uv.lock": "04fa4c434bfd4c1570eca04b33d63b16d626e5159f10174b80ae4a46411b75bc"
+    },
+    "git_commit": "7e55f0466b098475b4b13db12f5eecd8c5708c92",
+    "git_dirty": true,
+    "python": "3.12.12"
+  },
+  "technical_status": "PASS"
+}

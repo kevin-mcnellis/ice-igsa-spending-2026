@@ -1,0 +1,306 @@
+{
+  "manuscript_sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+  "decision_source": {
+    "path": "audit/updated_release_instructions_20260928.txt",
+    "sha256": "5c365e79be290896f466956dd26474ecc88600add0a1cfbeda8bfe5535c67b7b",
+    "attribution": "Original four Kevin decisions in September 28 release instructions"
+  },
+  "additional_decision_source_note": "Later dated decisions carry their own decision_source in each added record.",
+  "decisions": {
+    "P15.A1": {
+      "location": "P15",
+      "exact_text": "On April 30, the IGSAs expired",
+      "target_claim_id": "P15.S3.C1",
+      "source_sentence_ids": [
+        "P15.S3"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-27",
+      "reason": "readability; author's assessment of the facts.",
+      "evidence": "P00045 runs Torrance to April 30; Cibola was asked to end April 30; a reported county-manager account instead gives Torrance March 30. The locked Methodology discloses the difference. Author chose the short wording.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/ice_foia_torrance/70CDCR19DIG000009-P00045.pdf",
+          "sha256": "4b8f3ec3b56729438d5264c9bb132bc35f88efc6943a53957dafd1cfe77d2774",
+          "page": 1
+        },
+        {
+          "path": "provenance/claim_audit/source_receipts.json",
+          "sha256": "c2114696ac4b7f8d1e9d620356d34b1ec622767e735c1268fe16142b02930554",
+          "row": "santa_fe_new_mexican"
+        }
+      ]
+    },
+    "P20.A1": {
+      "location": "P20",
+      "exact_text": "Secure America Act",
+      "target_claim_id": "P20.S1.C2",
+      "source_sentence_ids": [
+        "P20.S1"
+      ],
+      "record_kind": "wording_decision",
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-27",
+      "reason": "readability; author's assessment of the facts.",
+      "evidence": "The handoff recorded author acceptance before the enacted text was registered. Official P.L. 119-98 §1(a) now verifies this short title; acceptance remains a wording decision.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/PLAW-119publ98.pdf",
+          "sha256": "6c5bcb9dbb863f480ea6c833fee6c779ac735a8bc7e76d009e28e05a40076f09",
+          "page": 1
+        }
+      ]
+    },
+    "P20.A2": {
+      "location": "P20",
+      "exact_text": "increased its IGSA payments",
+      "target_claim_id": "P20.S2",
+      "source_sentence_ids": [
+        "P20.S2"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-27",
+      "reason": "readability; author's assessment of the facts.",
+      "evidence": "Muscatine agreement is a U.S. Marshals Service agreement with an ICE rider. The cited news reports an increased agreement cap, not verified paid amounts. Author retained wording.",
+      "controlling_sources": [
+        {
+          "path": "provenance/claim_audit/source_receipts.json",
+          "sha256": "c2114696ac4b7f8d1e9d620356d34b1ec622767e735c1268fe16142b02930554",
+          "row": "daily_iowan/iowa_capital_dispatch"
+        }
+      ]
+    },
+    "P61.A1": {
+      "location": "P61",
+      "exact_text": "its three task orders. They carry $17,465,361.06",
+      "target_claim_id": "P61.S3.C1",
+      "source_sentence_ids": [
+        "P61.S2",
+        "P61.S3"
+      ],
+      "record_kind": "wording_decision",
+      "claim_statement": "The author accepted the pronoun linking $17,465,361.06 to the preceding three-task-order sentence; the amount comes from two ICE orders, and the parent has a third DOJ order.",
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-27",
+      "reason": "readability; author's assessment of the facts.",
+      "evidence": "Parent USAspending API lists three children. The $17,465,361.06 selected File C object-class 25.4 amount is from ICE’s two direct orders; the USMS third order has $3,335,386 in separate DOJ-funded award obligations. Author retained wording.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/torrance_parent_children.json",
+          "sha256": "c24bad523e20525fe5c1ed9cc269b8d3464629f67f3a7c622babdad012a002ee"
+        },
+        {
+          "path": "data/raw/final_audit/usms_torrance_order.json",
+          "sha256": "8dfd1f4a0a0d8167b97b3203b42c97801631f2861129e95004638c3de2da51fa"
+        },
+        {
+          "path": "outputs/facility_name_screen/statistics_check.json",
+          "sha256": "efc5accc11a86a8cc0d557623f247a893199f3692937f353f193d3c828e5b7b9"
+        }
+      ]
+    },
+    "FN1.A1": {
+      "location": "FN1",
+      "exact_text": "Federal Funding Accountability and Transparency Act of 2006, § 2(a)(4), 31 U.S.C. 6101 note, (https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6101&num=0&edition=prelim).",
+      "target_claim_id": "FN1.S1.C1",
+      "source_sentence_ids": [
+        "FN1.S1"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Cites the section numbering of the current codified text (31 U.S.C. 6101 note, as amended by the DATA Act); §2(a)(2) is the numbering as enacted in 2006.",
+      "evidence": "The official 2024 U.S. Code note prints the Federal award definition at §2(a)(4), while P.L. 109-282 as enacted printed it at §2(a)(2).",
+      "proposed_fix": "If citing the 2006 enacted text, use §2(a)(2); retain §2(a)(4) only with the current-codified-text source layer.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/USCODE-2024-title31-subtitleV-chap61-sec6101.pdf",
+          "sha256": "1761d970ede891f1dcfb2b02d2c6b7068d02cd58ed4bdbc4d7e3446b083d2679",
+          "page": 5
+        },
+        {
+          "path": "data/raw/legal_sources/PLAW-109publ282.pdf",
+          "sha256": "fac8d346dc31abfd839ef2cfc3230a115ebcf9020b82c10a99282e2f51e87cd1",
+          "page": 2
+        }
+      ]
+    },
+    "P7.A1": {
+      "location": "P7",
+      "exact_text": "The inspector general concluded that ICE had “no assurance” it executed detention agreements in “the best interest of the Federal Government, taxpayers, or detainees.\"",
+      "target_claim_id": "P7.S5",
+      "source_sentence_ids": [
+        "P7.S5"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Paraphrase; the OIG's wording ('detention center contracts') is in the linked report.",
+      "evidence": "OIG-18-53 printed pages 1 and 5 use detention center contracts; the published sentence says detention agreements.",
+      "proposed_fix": "For a verbatim account of the OIG conclusion, use detention center contracts.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/legal_sources/OIG-18-53.pdf",
+          "sha256": "14d9e0f3169dac9aaee3fef8f71bbf57960d072690368fc31f7bf1af28fda4b0",
+          "page": 8
+        }
+      ]
+    },
+    "P15.A2": {
+      "location": "P15",
+      "exact_text": "required local governments to terminate their IGSAs.",
+      "target_claim_id": "P15.S1.C3",
+      "source_sentence_ids": [
+        "P15.S1"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Summary of HB 9 §3; the earliest-permissible-date condition is in the linked law.",
+      "evidence": "H.B. 9 §3(B) requires termination at the earliest permissible date under the agreement terms.",
+      "proposed_fix": "Add the earliest-permissible-date condition for statutory precision.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/HB0009.pdf",
+          "sha256": "2979b7c4afdbe16ebc16ce2efc2a6343a143d500e392cd8da28ea6e0c3df32a7",
+          "page": 2
+        }
+      ]
+    },
+    "P19.A1": {
+      "location": "P19",
+      "exact_text": "including overpayments",
+      "target_claim_id": "P19.S1.C2",
+      "source_sentence_ids": [
+        "P19.S1"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Summary of OIG and GAO risk findings; the reports' 'may have overpaid' wording is in the linked sources.",
+      "evidence": "OIG-18-53 says ICE may have overpaid; the published phrase omits that uncertainty.",
+      "proposed_fix": "Say risk of overpayment or may have overpaid.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/legal_sources/OIG-18-53.pdf",
+          "sha256": "14d9e0f3169dac9aaee3fef8f71bbf57960d072690368fc31f7bf1af28fda4b0",
+          "page": 2
+        },
+        {
+          "path": "data/raw/legal_sources/OIG-18-53.pdf",
+          "sha256": "14d9e0f3169dac9aaee3fef8f71bbf57960d072690368fc31f7bf1af28fda4b0",
+          "page": 25
+        },
+        {
+          "path": "data/raw/legal_sources/OIG-19-18.pdf",
+          "sha256": "612201b03b540ccada067166fc9f2eb1c56bb342be0cdb11b2f9f0418c8144cf",
+          "page": 2
+        },
+        {
+          "url": "https://www.gao.gov/assets/gao-21-149.pdf",
+          "retrieval_receipt": "audit/web_receipts.json#gao",
+          "source_status": "WEB_VERIFIED",
+          "page": 28
+        }
+      ]
+    },
+    "P3.A1": {
+      "location": "P3",
+      "exact_text": "From February 2025 through July 2026, ICE obligated $5.91 billion to operate and maintain detention facilities",
+      "target_claim_id": "P3.S3.C1",
+      "source_sentence_ids": [
+        "P3.S3"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "The Methodology states that object class 25.4 is broader than detention.",
+      "evidence": "The $5.91 billion class 25.4 amount is verified; published Methodology P28 explicitly says the class covers more than detention.",
+      "proposed_fix": "Label the amount object class 25.4 rather than detention-only operating costs.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/published_page/2026-09-28T13-23-41Z.text.json",
+          "sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+          "row": "P28"
+        },
+        {
+          "path": "data/raw/final_audit/canonical_snapshots/File_C_blog_post/outputs/chart_1/verification.json",
+          "sha256": "9c0bacc3c12fc6e31bc36ec3ddc0e9bed60c2c20c98e60512e103f18d91ba0cb",
+          "row": "analysis.bar_totals"
+        },
+        {
+          "path": "data/raw/final_audit/omb_a11_2025.pdf",
+          "sha256": "7b0e6a3b018f6beea1c4b55ff377821fbd16def96354df5b319b2642ecd604c1",
+          "page": 262
+        },
+        {
+          "path": "audit/independent_recomputation.json",
+          "sha256": "2f33fbf81a316aecf5713753efbc7261fbb99b03771d8c6e3f12831af2d23a6d",
+          "row": "fresh independent check"
+        }
+      ]
+    },
+    "P31.A1": {
+      "location": "P31",
+      "exact_text": "Each File C record carries the recipient's Unique Entity Identifier (UEI).",
+      "target_claim_id": "P31.S2",
+      "source_sentence_ids": [
+        "P31.S2"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Methodology wording; the no-recipient rows are disclosed in the same section.",
+      "evidence": "Published Methodology P32 quantifies $9,498,809 in no-recipient rows, so each is not literally true across all File C rows.",
+      "proposed_fix": "Say linked File C records carry recipient UEIs; identify the no-recipient exception.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/published_page/2026-09-28T13-23-41Z.text.json",
+          "sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+          "row": "P32"
+        },
+        {
+          "path": "data/raw/final_audit/canonical_snapshots/File_C_blog_post/outputs/chart_2/recipient_type_totals.csv",
+          "sha256": "5d40e502de0f837f6c07a693434e9d51db377e27c9739d2312d9e4c1480d1c5c",
+          "row": "No recipient reported"
+        }
+      ]
+    },
+    "P48.A1": {
+      "location": "P48",
+      "exact_text": "Of that, $78,730,777 went to the three facilities ICE also listed under a federal or contract type.",
+      "target_claim_id": "P48.S2",
+      "source_sentence_ids": [
+        "P48.S2"
+      ],
+      "decided_by": "Kevin McNellis",
+      "decided_at": "2026-09-28",
+      "decision_source": "Kevin instruction relayed by coordinator task 01a0d96a-2d4d-7da3-bb3a-547d61e6b45a on 2026-09-28",
+      "reason": "Methodology wording; the section's Limits paragraph says a name match is not a facility allocation.",
+      "evidence": "Published Methodology P46 sums each matched award once and P50 says a name match does not identify the agreement; the $78,730,777 is not allocated to facilities.",
+      "proposed_fix": "Say $78,730,777 in matched awards named three facilities rather than went to those facilities.",
+      "controlling_sources": [
+        {
+          "path": "data/raw/final_audit/published_page/2026-09-28T13-23-41Z.text.json",
+          "sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+          "row": "P46"
+        },
+        {
+          "path": "data/raw/final_audit/published_page/2026-09-28T13-23-41Z.text.json",
+          "sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+          "row": "P50"
+        },
+        {
+          "path": "data/raw/final_audit/canonical_snapshots/File_C_blog_post/outputs/facility_name_screen/statistics_check.json",
+          "sha256": "efc5accc11a86a8cc0d557623f247a893199f3692937f353f193d3c828e5b7b9",
+          "row": "actual.iga_not_solely_25_4_amount"
+        },
+        {
+          "path": "audit/facility_screen_recheck.json",
+          "sha256": "1ea3fd6e44c60fbb2973c154480512864c264d4cf478cba8bc3ffec4fc7b0a17",
+          "row": "fresh read-only rerun"
+        }
+      ]
+    }
+  }
+}

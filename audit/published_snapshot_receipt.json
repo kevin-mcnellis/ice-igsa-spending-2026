@@ -1,0 +1,12 @@
+{
+  "url": "https://www.kevinmcnellis.com/posts/ICE_IGSA/",
+  "http_date_utc": "2026-09-28T13:23:41Z",
+  "snapshot_recorded_at_utc": "2026-09-28T13:26:09.993993+00:00",
+  "http_status": 200,
+  "original_html_sha256": "33c91a77197ec405a2a3fad8e99eafd72af1a5bf1c0c583123db08f58ac1d786",
+  "original_html_bytes": 70043,
+  "original_html_included": false,
+  "published_text_sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+  "published_text_file": "published_text.json",
+  "note": "Original HTML remains internal; this public receipt identifies its exact audited bytes."
+}

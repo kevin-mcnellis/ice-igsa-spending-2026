@@ -1,0 +1,683 @@
+{
+  "cases": [
+    {
+      "award_key": "CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "1",
+      "case_notes": "Seven archived child-order actions all name Otay Mesa and dedicated facility services. Propose all numeric in-scope rows where DDP period coverage passes. Original child PDF not found locally; archived official actions meet the approved evidence rule. D1 action amounts are not used.",
+      "direct_contract_flag": "true",
+      "evidence_ids": [
+        "C1-E1",
+        "C1-E2",
+        "C1-E3",
+        "C1-E4",
+        "C1-E5",
+        "C1-E6"
+      ],
+      "facility_ids": [
+        "fac_e47843e933905919a6ded4591fe520f2"
+      ],
+      "hold_reason": "",
+      "link_status": "supported",
+      "parent_award_id": "70CDCR20D00000007",
+      "piid": "70CDCR25FR0000011",
+      "scope_status": "bounded",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR24FR0000057_7012_70CDCR24D00000009_7012",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "2",
+      "case_notes": "Krome SPC is explicit in File C award metadata, but the dated child-order/action dossier is incomplete. Parent modifications do not establish full child scope. Obtain the dated child award/action record before assigning money.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C2-E1",
+        "C2-E2"
+      ],
+      "facility_ids": [
+        "fac_8dedec600a8d54239cda868bd68ab097"
+      ],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "70CDCR24D00000009",
+      "piid": "70CDCR24FR0000057",
+      "scope_status": "unknown",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR25FR0000004_7012_HSCEDM15D00015_7012",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "3",
+      "case_notes": "Tacoma city and ZIP support a candidate only; the description does not name Northwest or a unique street address. Obtain a facility-specific child-order or documented alias/address.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C3-E1",
+        "C3-E2"
+      ],
+      "facility_ids": [
+        "fac_05379451b2a354a9a781c7c96896cc92"
+      ],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "HSCEDM15D00015",
+      "piid": "70CDCR25FR0000004",
+      "scope_status": "unknown",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "4",
+      "case_notes": "The award names Mesa Verde and Golden State, but P00002 on 2026-04-03 adds Central Valley Annex. Its first in-window DDP observation is 2026-07-09. No row-specific split/temporal scope trace has been established; retain all amounts unresolved rather than treating this as a two-site award.",
+      "direct_contract_flag": "true",
+      "evidence_ids": [
+        "C4-E1",
+        "C4-E2",
+        "C4-E3",
+        "C4-E4",
+        "C4-E5",
+        "C4-E3-F2",
+        "C4-E3-F3"
+      ],
+      "facility_ids": [
+        "fac_db8ab1001ba3541383b036f773f9af2f",
+        "fac_4357df2c2db55bdead9c08f8f2790e3d",
+        "fac_8d7dd3307acc5e6e91e82603058ec846"
+      ],
+      "hold_reason": "scope_addition_requires_row_trace",
+      "link_status": "supported",
+      "parent_award_id": "70CDCR20D00000008",
+      "piid": "70CDCR26FR0000042",
+      "scope_status": "bounded",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700",
+      "awarding_agency_id": "7012",
+      "camp_east_override": true,
+      "case_id": "5",
+      "case_notes": "Kevin approved assigning all selected Camp East Montana File C 25.4 obligations to this federal facility in the pilot CDF/SPC group. Count this transferred order's signed File C rows once; preserve the approved Camp East DOD-type override. Its April 2026 termination and overlap with the standalone contract remain interpretation caveats, not exclusions or evidence of nonoverlapping services.",
+      "direct_contract_flag": "true",
+      "evidence_ids": [
+        "C5-E1",
+        "C5-E2",
+        "C5-E3",
+        "C5-E4",
+        "C5-E5",
+        "C5-E6"
+      ],
+      "facility_ids": [
+        "fac_c69513f1707e5984b9f89d701eda82e3"
+      ],
+      "hold_reason": "",
+      "link_status": "supported",
+      "parent_award_id": "N0002325D0004",
+      "piid": "70CDCR26FR0000001",
+      "scope_status": "bounded",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+      "awarding_agency_id": "7012",
+      "camp_east_override": true,
+      "case_id": "6",
+      "case_notes": "Kevin approved assigning all selected Camp East Montana File C 25.4 obligations to this federal facility in the pilot CDF/SPC group. Count this standalone contract's signed File C rows once. Its overlapping performance with the transferred order remains an interpretation caveat, not an exclusion or evidence of nonoverlapping services.",
+      "direct_contract_flag": "true",
+      "evidence_ids": [
+        "C6-E1",
+        "C6-E2",
+        "C6-E3",
+        "C6-E4",
+        "C6-E5",
+        "C6-E6"
+      ],
+      "facility_ids": [
+        "fac_c69513f1707e5984b9f89d701eda82e3"
+      ],
+      "hold_reason": "",
+      "link_status": "supported",
+      "parent_award_id": "",
+      "piid": "70CDCR26C00000016",
+      "scope_status": "bounded",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR25FR0000041_7012_DJJODT9C0001_1501",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "7",
+      "case_notes": "The description names Central Arizona Florence Correctional Complex, but dated source evidence does not yet tie that phrase to the candidate roster ID. Multiple Florence entities exist. The candidate also changes from USMS IGA to USMS CDF across Sep-Nov2025; resolve identity before period assignment.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C7-E1",
+        "C7-E2"
+      ],
+      "facility_ids": [
+        "fac_2f4e5d06635352e38d691a7ee2f81ca0"
+      ],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "DJJODT9C0001",
+      "piid": "70CDCR25FR0000041",
+      "scope_status": "unknown",
+      "splits": {}
+    },
+    {
+      "award_key": "CONT_AWD_70CDCR25FR0000013_7012_70CDCR20D00000008_7012",
+      "awarding_agency_id": "7012",
+      "camp_east_override": false,
+      "case_id": "8",
+      "case_notes": "Housing for detainees, recipient GEO, parent and ZIP do not uniquely identify facilities or full service scope. Obtain the child-order/action description or contract.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C8-E1",
+        "C8-E2"
+      ],
+      "facility_ids": [],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "70CDCR20D00000008",
+      "piid": "70CDCR25FR0000013",
+      "scope_status": "unknown",
+      "splits": {}
+    },
+    {
+      "award_key": "",
+      "awarding_agency_id": "",
+      "camp_east_override": false,
+      "case_id": "9",
+      "case_notes": "Unlinked financial rows have no linked award key, parent, agency or description. Recover exact award identity before any facility link; keep signed corrections and blank rows in exception review.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C9-E1",
+        "C9-E2"
+      ],
+      "facility_ids": [],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "",
+      "piid": "70CDCR25FR0000108",
+      "scope_status": "unknown",
+      "splits": {}
+    },
+    {
+      "award_key": "",
+      "awarding_agency_id": "",
+      "camp_east_override": false,
+      "case_id": "10",
+      "case_notes": "Unlinked financial row has no linked award key, parent, agency or description. Recover exact award identity before any facility link.",
+      "direct_contract_flag": "unknown",
+      "evidence_ids": [
+        "C10-E1"
+      ],
+      "facility_ids": [],
+      "hold_reason": "",
+      "link_status": "unresolved",
+      "parent_award_id": "",
+      "piid": "70CDCR26FIGR00056",
+      "scope_status": "unknown",
+      "splits": {}
+    }
+  ],
+  "ddp_cutoff": "2026-07-09",
+  "ddp_start": "2025-01-20",
+  "evidence": [
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "1",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C1-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 229162,229168,229173,229180,229193,229207,229208,229214,229216,229222,229225",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "1",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C1-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 15381,15385,15386,15389,15395,15396,15401,15404,15407,15411,15419,15422,15425,15430,15433,15439,15443,15446,15451,15454,15456,15460,15461,15468,15472",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "1",
+      "conclusion": "Archived official award identifies exact child/instrument, parent and awarding subagency.",
+      "evidence_id": "C1-E3",
+      "facility_entity_id": "",
+      "limitation": "Frozen archive; later changes are not presumed covered. No action or award-value amounts used.",
+      "source_date": "2026-07-18",
+      "source_locator": "generated_unique_award_id, piid, parent_award, awarding_agency",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012.json",
+      "source_sha256": "4c46d00d8e9cf694483c684e3f5d51e21b7b541fa7e8f569c785216f350e04d6"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "1",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C1-E4",
+      "facility_entity_id": "fac_e47843e933905919a6ded4591fe520f2",
+      "limitation": "Seven archived child-order actions all name Otay Mesa and dedicated facility services. Propose all numeric in-scope rows where DDP period coverage passes. Original child PDF not found locally; archived official actions meet the approved evidence rule. D1 action amounts are not used.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012.json",
+      "source_sha256": "a0f03332f7e1ac3e4e4fe68f4646d2f33fdb8f290d96479135e91f0a0ca770d9"
+    },
+    {
+      "assertion_kind": "service_scope",
+      "case_id": "1",
+      "conclusion": "Dated descriptions identify facility-associated detention and supporting services.",
+      "evidence_id": "C1-E5",
+      "facility_entity_id": "",
+      "limitation": "Seven archived child-order actions all name Otay Mesa and dedicated facility services. Propose all numeric in-scope rows where DDP period coverage passes. Original child PDF not found locally; archived official actions meet the approved evidence rule. D1 action amounts are not used.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and action_date",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012.json",
+      "source_sha256": "a0f03332f7e1ac3e4e4fe68f4646d2f33fdb8f290d96479135e91f0a0ca770d9"
+    },
+    {
+      "assertion_kind": "contracting_relationship",
+      "case_id": "1",
+      "conclusion": "Federal contract award to named private corporate recipient.",
+      "evidence_id": "C1-E6",
+      "facility_entity_id": "",
+      "limitation": "Does not itself establish the facility group, subcontracting chain, or instrument additivity.",
+      "source_date": "2026-07-18",
+      "source_locator": "category, awarding_agency, recipient",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012.json",
+      "source_sha256": "4c46d00d8e9cf694483c684e3f5d51e21b7b541fa7e8f569c785216f350e04d6"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "2",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C2-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 237763,237764,237766,237767,237770,237772,237774,237775,237776,237777,237779,237780,237781,237782,237785,237787,237788",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "2",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C2-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 242517,242520,242521,242524,242525,242526,242528,242529,242530,242532,242534,242536,242538,242539,242540,242543,242544,242545,242546,242547,242549,242551,242552,242553,242556",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "3",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C3-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 97733,97735,97739,97741,97744,97745,97749,97751,97752,97753,97758,97759,97764,97766,97770,97772,97773,97775",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "3",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C3-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 33704,33706,33707,33710,33711,33712,33716,33717,33719,33721,33725,33728,33731,33739,33741,33744,33747,33750,33753,33756,33757,33761,33762,33765,33771,33774",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "4",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C4-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 57811,57813,57815,57817,57819,57821,57824,57825,57826,57827,57828,57830,57831,57833,57834",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "4",
+      "conclusion": "Archived official award identifies exact child/instrument, parent and awarding subagency.",
+      "evidence_id": "C4-E2",
+      "facility_entity_id": "",
+      "limitation": "Frozen archive; later changes are not presumed covered. No action or award-value amounts used.",
+      "source_date": "2026-07-18",
+      "source_locator": "generated_unique_award_id, piid, parent_award, awarding_agency",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "2deac3edfce4742d96295ee16453fe8cf3d3486a7616c75457c2e5ccf769e0e2"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "4",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C4-E3",
+      "facility_entity_id": "fac_db8ab1001ba3541383b036f773f9af2f",
+      "limitation": "The award names Mesa Verde and Golden State, but P00002 on 2026-04-03 adds Central Valley Annex. Its first in-window DDP observation is 2026-07-09. No row-specific split/temporal scope trace has been established; retain all amounts unresolved rather than treating this as a two-site award.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "c9847df1d5be4675862c84a9693ef5f813d88a7bead01038b997fd8559315b76"
+    },
+    {
+      "assertion_kind": "service_scope",
+      "case_id": "4",
+      "conclusion": "Dated descriptions identify facility-associated detention and supporting services.",
+      "evidence_id": "C4-E4",
+      "facility_entity_id": "",
+      "limitation": "The award names Mesa Verde and Golden State, but P00002 on 2026-04-03 adds Central Valley Annex. Its first in-window DDP observation is 2026-07-09. No row-specific split/temporal scope trace has been established; retain all amounts unresolved rather than treating this as a two-site award.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and action_date",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "c9847df1d5be4675862c84a9693ef5f813d88a7bead01038b997fd8559315b76"
+    },
+    {
+      "assertion_kind": "contracting_relationship",
+      "case_id": "4",
+      "conclusion": "Federal contract award to named private corporate recipient.",
+      "evidence_id": "C4-E5",
+      "facility_entity_id": "",
+      "limitation": "Does not itself establish the facility group, subcontracting chain, or instrument additivity.",
+      "source_date": "2026-07-18",
+      "source_locator": "category, awarding_agency, recipient",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "2deac3edfce4742d96295ee16453fe8cf3d3486a7616c75457c2e5ccf769e0e2"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "5",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C5-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 203112,203113,203114,203115,203116,203117,203118,203119,203120",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "5",
+      "conclusion": "Archived official award identifies exact child/instrument, parent and awarding subagency.",
+      "evidence_id": "C5-E2",
+      "facility_entity_id": "",
+      "limitation": "Frozen archive; later changes are not presumed covered. No action or award-value amounts used.",
+      "source_date": "2026-07-18",
+      "source_locator": "generated_unique_award_id, piid, parent_award, awarding_agency",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700.json",
+      "source_sha256": "2ac753b9dc79346c691509b534233cee344b6b090fb0e7913fd34004875ad032"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "5",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C5-E3",
+      "facility_entity_id": "fac_c69513f1707e5984b9f89d701eda82e3",
+      "limitation": "Camp East link and dedicated site scope are supported. This transferred DoD/Navy order was terminated in April 2026; performance overlaps the separate Amentum contract. Resolve transfer, replacement, settlement/deobligation and non-overlapping scope before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700.json",
+      "source_sha256": "0be1881b29ded0f30ca7a23176e364b9d2355eba0cc43dd5a2ebec87124f1df3"
+    },
+    {
+      "assertion_kind": "service_scope",
+      "case_id": "5",
+      "conclusion": "Dated descriptions identify facility-associated detention and supporting services.",
+      "evidence_id": "C5-E4",
+      "facility_entity_id": "",
+      "limitation": "Camp East link and dedicated site scope are supported. This transferred DoD/Navy order was terminated in April 2026; performance overlaps the separate Amentum contract. Resolve transfer, replacement, settlement/deobligation and non-overlapping scope before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and action_date",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700.json",
+      "source_sha256": "0be1881b29ded0f30ca7a23176e364b9d2355eba0cc43dd5a2ebec87124f1df3"
+    },
+    {
+      "assertion_kind": "contracting_relationship",
+      "case_id": "5",
+      "conclusion": "Federal contract award to named private corporate recipient.",
+      "evidence_id": "C5-E5",
+      "facility_entity_id": "",
+      "limitation": "Does not itself establish the facility group, subcontracting chain, or instrument additivity.",
+      "source_date": "2026-07-18",
+      "source_locator": "category, awarding_agency, recipient",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700.json",
+      "source_sha256": "2ac753b9dc79346c691509b534233cee344b6b090fb0e7913fd34004875ad032"
+    },
+    {
+      "assertion_kind": "instrument_lineage",
+      "case_id": "5",
+      "conclusion": "Transferred order and distinct definitive contract; transition/additivity unresolved.",
+      "evidence_id": "C5-E6",
+      "facility_entity_id": "",
+      "limitation": "Camp East link and dedicated site scope are supported. This transferred DoD/Navy order was terminated in April 2026; performance overlaps the separate Amentum contract. Resolve transfer, replacement, settlement/deobligation and non-overlapping scope before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*]; compare case5 and case6 award performance dates",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700.json",
+      "source_sha256": "0be1881b29ded0f30ca7a23176e364b9d2355eba0cc43dd5a2ebec87124f1df3"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "6",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C6-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 46698,46699",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "6",
+      "conclusion": "Archived official award identifies exact child/instrument, parent and awarding subagency.",
+      "evidence_id": "C6-E2",
+      "facility_entity_id": "",
+      "limitation": "Frozen archive; later changes are not presumed covered. No action or award-value amounts used.",
+      "source_date": "2026-07-18",
+      "source_locator": "generated_unique_award_id, piid, parent_award, awarding_agency",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-.json",
+      "source_sha256": "1be055b0b8fccf0821cdf60467ac0119d4691b4a294d0fed47b208e3c2f96d0e"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "6",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C6-E3",
+      "facility_entity_id": "fac_c69513f1707e5984b9f89d701eda82e3",
+      "limitation": "Camp East standalone Amentum contract begins March 2026 and overlaps the prior transferred order. Link and bounded scope are supported; resolve transition/settlement and obligation lineage before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-.json",
+      "source_sha256": "098e20fdd39fe0aa7040e92e7c671b1abf3829488d9d08306daae5737e0168c7"
+    },
+    {
+      "assertion_kind": "service_scope",
+      "case_id": "6",
+      "conclusion": "Dated descriptions identify facility-associated detention and supporting services.",
+      "evidence_id": "C6-E4",
+      "facility_entity_id": "",
+      "limitation": "Camp East standalone Amentum contract begins March 2026 and overlaps the prior transferred order. Link and bounded scope are supported; resolve transition/settlement and obligation lineage before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and action_date",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-.json",
+      "source_sha256": "098e20fdd39fe0aa7040e92e7c671b1abf3829488d9d08306daae5737e0168c7"
+    },
+    {
+      "assertion_kind": "contracting_relationship",
+      "case_id": "6",
+      "conclusion": "Federal contract award to named private corporate recipient.",
+      "evidence_id": "C6-E5",
+      "facility_entity_id": "",
+      "limitation": "Does not itself establish the facility group, subcontracting chain, or instrument additivity.",
+      "source_date": "2026-07-18",
+      "source_locator": "category, awarding_agency, recipient",
+      "source_path": "data/small/facility_name_screen/source_api/award_details/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-.json",
+      "source_sha256": "1be055b0b8fccf0821cdf60467ac0119d4691b4a294d0fed47b208e3c2f96d0e"
+    },
+    {
+      "assertion_kind": "instrument_lineage",
+      "case_id": "6",
+      "conclusion": "Transferred order and distinct definitive contract; transition/additivity unresolved.",
+      "evidence_id": "C6-E6",
+      "facility_entity_id": "",
+      "limitation": "Camp East standalone Amentum contract begins March 2026 and overlaps the prior transferred order. Link and bounded scope are supported; resolve transition/settlement and obligation lineage before accepting additive spending.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*]; compare case5 and case6 award performance dates",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-.json",
+      "source_sha256": "098e20fdd39fe0aa7040e92e7c671b1abf3829488d9d08306daae5737e0168c7"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "7",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C7-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 273446,273447,273448,273449,273450",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "7",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C7-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 207863,207864,207865,207866,207867,207869,207870,207871,207872,207874,207875,207876,207878,207879,207880,207881,207882,207883,207884,207885",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "8",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C8-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 297793,297795,297797,297801,297808,297813,297816,297824,297828,297831,297832,297833,297835,297836,297844",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "8",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C8-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 196947,196950,196952,196953,196956,196958,196963,196968,196971,196974,196980,196984,196988,196991,196995,197001,197004",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "9",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C9-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-16T02:59:31.399670+00:00",
+      "source_locator": "physical lines 502,686,1669",
+      "source_path": "data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv",
+      "source_sha256": "46e0a16df0c838c6634c7f05319603e5098da7ec08d594b8335b25ed14b7d03f"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "9",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C9-E2",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 2324,2855,4691,5582,5589",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "0c026becd57030702f2a06fafaded3acd25ec358521c3fe910d1ae206807e215"
+    },
+    {
+      "assertion_kind": "award_identity",
+      "case_id": "10",
+      "conclusion": "Frozen selected financial rows and exact raw award identity fields.",
+      "evidence_id": "C10-E1",
+      "facility_entity_id": "",
+      "limitation": "Award metadata can be later-enriched; linked fields are absent in Unlinked rows. A financial record is not proof of facility scope.",
+      "source_date": "2026-09-15T22:19:19.225611+00:00",
+      "source_locator": "physical lines 5570",
+      "source_path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "source_sha256": "0c026becd57030702f2a06fafaded3acd25ec358521c3fe910d1ae206807e215"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "4",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C4-E3-F2",
+      "facility_entity_id": "fac_4357df2c2db55bdead9c08f8f2790e3d",
+      "limitation": "The award names Mesa Verde and Golden State, but P00002 on 2026-04-03 adds Central Valley Annex. Its first in-window DDP observation is 2026-07-09. No row-specific split/temporal scope trace has been established; retain all amounts unresolved rather than treating this as a two-site award.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "c9847df1d5be4675862c84a9693ef5f813d88a7bead01038b997fd8559315b76"
+    },
+    {
+      "assertion_kind": "facility_link",
+      "case_id": "4",
+      "conclusion": "Dated archived descriptions explicitly name the case facilities.",
+      "evidence_id": "C4-E3-F3",
+      "facility_entity_id": "fac_8d7dd3307acc5e6e91e82603058ec846",
+      "limitation": "The award names Mesa Verde and Golden State, but P00002 on 2026-04-03 adds Central Valley Annex. Its first in-window DDP observation is 2026-07-09. No row-specific split/temporal scope trace has been established; retain all amounts unresolved rather than treating this as a two-site award.",
+      "source_date": "2026-07-18",
+      "source_locator": "results[*].description and modification_number",
+      "source_path": "data/small/facility_name_screen/source_api/transactions/CONT_AWD_70CDCR26FR0000042_7012_70CDCR20D00000008_7012.json",
+      "source_sha256": "c9847df1d5be4675862c84a9693ef5f813d88a7bead01038b997fd8559315b76"
+    }
+  ],
+  "panel_sha256": "021d3f49c5e9893b11cfb2f9d84778634dcca2735de911ef4a1259872135ae6c",
+  "selected_submission_periods": [
+    "FY2025P05",
+    "FY2025P06",
+    "FY2025P07",
+    "FY2025P08",
+    "FY2025P09",
+    "FY2025P10",
+    "FY2025P11",
+    "FY2025P12",
+    "FY2026P02",
+    "FY2026P03",
+    "FY2026P04",
+    "FY2026P05",
+    "FY2026P06",
+    "FY2026P07",
+    "FY2026P08",
+    "FY2026P09",
+    "FY2026P10"
+  ],
+  "source_status_note": "As of the September 24, 2026 scope check, FY2026 P10 was the latest available USAspending period. The frozen DHS P10 source was reported as published August 31 but not yet certified; certification is due November 17, 2026. Recheck agency submission history before publication. No source refresh was performed for this pilot."
+}

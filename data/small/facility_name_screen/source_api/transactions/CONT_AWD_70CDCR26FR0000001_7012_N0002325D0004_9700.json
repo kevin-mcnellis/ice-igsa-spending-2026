@@ -1,0 +1,35 @@
+{
+  "award_id": "CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700",
+  "page_metadata": {
+    "pages_fetched": 1,
+    "result_count": 2
+  },
+  "results": [
+    {
+      "action_date": "2025-11-14",
+      "action_type": null,
+      "action_type_description": null,
+      "description": "ADMINISTRATIVE TRANSFER OF THE DEPARTMENT OF WAR TASK ORDER W9124J25FA075 TO THE US IMMIGRATION AND CUSTOMS ENFORCEMENT FOR DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 598444871.04,
+      "id": "CONT_TX_7012_9700_70CDCR26FR0000001_0_N0002325D0004_0",
+      "modification_number": "0",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-04-17",
+      "action_type": "F",
+      "action_type_description": "TERMINATE FOR CONVENIENCE (COMPLETE OR PARTIAL)",
+      "description": "CONTRACT TERMINATION IN FULL FOR THE GOVERNMENT'S CONVENIENCE AT CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 0.0,
+      "id": "CONT_TX_7012_9700_70CDCR26FR0000001_P00001_N0002325D0004_0",
+      "modification_number": "P00001",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    }
+  ]
+}

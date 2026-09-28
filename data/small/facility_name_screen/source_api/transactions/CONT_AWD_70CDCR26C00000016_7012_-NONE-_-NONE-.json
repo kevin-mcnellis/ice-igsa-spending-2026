@@ -1,0 +1,22 @@
+{
+  "award_id": "CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+  "page_metadata": {
+    "pages_fetched": 1,
+    "result_count": 1
+  },
+  "results": [
+    {
+      "action_date": "2026-03-12",
+      "action_type": null,
+      "action_type_description": null,
+      "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT THE CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX.",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 452855435.04,
+      "id": "CONT_TX_7012_-NONE-_70CDCR26C00000016_0_-NONE-_0",
+      "modification_number": "0",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "D",
+      "type_description": "DEFINITIVE CONTRACT"
+    }
+  ]
+}

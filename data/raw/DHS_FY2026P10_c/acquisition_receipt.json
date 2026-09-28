@@ -1,0 +1,43 @@
+{
+  "download_url": "https://files.usaspending.gov/generated_downloads/FY2026P01-P10_070_TAS_AccountBreakdownByAward_2026-09-15_H22M11S11234807.zip",
+  "members": [
+    {
+      "bytes": 272187565,
+      "member": "FY2026P01-P10_070_TAS_Assistance_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Assistance_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "sha256": "e8c9b64afc28fd8ed52b9fc2ad0413a0e7f7206d32deeac3e9973188fffe26d5"
+    },
+    {
+      "bytes": 372658568,
+      "member": "FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "sha256": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed"
+    },
+    {
+      "bytes": 6288392,
+      "member": "FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "path": "data/raw/DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv",
+      "sha256": "0c026becd57030702f2a06fafaded3acd25ec358521c3fe910d1ae206807e215"
+    }
+  ],
+  "portable_origin": {
+    "original_receipt_sha256": "7f5cb074db21b4dc0b475e8890041cf1e332beedea8ce2db3eeb4722658b7d68",
+    "path_contract": "release-relative-v1"
+  },
+  "requested": {
+    "account_level": "treasury_account",
+    "file_format": "csv",
+    "filters": {
+      "agency": "63",
+      "fy": "2026",
+      "period": 10,
+      "submission_types": [
+        "award_financial"
+      ]
+    }
+  },
+  "retrieved_at_utc": "2026-09-15T22:19:19.225611+00:00",
+  "zip_bytes": 21004074,
+  "zip_path": "data/raw/DHS_FY2026P10_c/FY2026P01-P10_070_TAS_AccountBreakdownByAward_2026-09-15_H22M11S11234807.zip",
+  "zip_sha256": "dc30777a44de5d9008dc9d9ae350725fbd01efcba78920d6d422357e6221d643"
+}

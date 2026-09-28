@@ -1,0 +1,7 @@
+type,amount,value_status,numeric_row_count,blank_row_count,share_of_file_c,recipient_count
+Selected private detention contractors,3080063769.55,partial_blank,336,1344,0.9819969951578550152262526308,12
+Other private contractors,46978149.07,partial_blank,97,580,0.01497774224056333908145009558,55
+State and local governments,-28520.00,partial_blank,3,17,-0.000009092848849033345506452851951,3
+Other public or nonprofit entities,18540.17,partial_blank,3,8,0.000005911043599066709725048105616,4
+No recipient reported,9498809.00,partial_blank,5,12,0.003028444406831612328078678408,0
+Unresolved,0.00,empty,0,0,0,0

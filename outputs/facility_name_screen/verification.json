@@ -1,0 +1,299 @@
+{
+  "accepted_fragment_evidence": [
+    {
+      "facility_entity_id": "fac_4248bc807b7f536a82964cda4d1807d0",
+      "fragment": "T DON HUTTO",
+      "notes": "Approved partial name; matches award 70CDCR24FR0000039. Existing legacy search lead, not an identity alias.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "T DON HUTTO DETENTION CENTER"
+    },
+    {
+      "facility_entity_id": "fac_adfbf7374f71509ea73aa2889e7fb08c",
+      "fragment": "PORT ISABEL",
+      "notes": "Retain facility-specific descriptions; exclude only award 70CMSW25FR0000077 because it names Port Isabel TX without identifying the detention center.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "PORT ISABEL SPC"
+    },
+    {
+      "facility_entity_id": "fac_e47843e933905919a6ded4591fe520f2",
+      "fragment": "OTAY MESA",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "OTAY MESA DETENTION CENTER"
+    },
+    {
+      "facility_entity_id": "fac_db8ab1001ba3541383b036f773f9af2f",
+      "fragment": "MESA VERDE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "MESA VERDE ICE PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_4f822bee451c5911a5f7646071a3b8c2",
+      "fragment": "DELANEY HALL",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "DELANEY HALL DETENTION FACILITY"
+    },
+    {
+      "facility_entity_id": "fac_4357df2c2db55bdead9c08f8f2790e3d",
+      "fragment": "GOLDEN STATE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "GOLDEN STATE ANNEX"
+    },
+    {
+      "facility_entity_id": "fac_1b2baa65c79651129ca5a5c764ebecb2",
+      "fragment": "SOUTH TEXAS ICE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "SOUTH TEXAS ICE PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_1b2baa65c79651129ca5a5c764ebecb2",
+      "fragment": "TEXAS ICE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "SOUTH TEXAS ICE PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_5622b45d559c556d847a9098d4705c78",
+      "fragment": "CALIFORNIA CITY",
+      "notes": "Retain facility-specific descriptions; exclude only award 70CTD025FC0000023 because it names an ERO city site without identifying the detention facility.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "CALIFORNIA CITY IMMIGRATION PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_402cc3f99758504c94a7d245766fbd61",
+      "fragment": "DESERT VIEW",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "DESERT VIEW ANNEX"
+    },
+    {
+      "facility_entity_id": "fac_2f4e5d06635352e38d691a7ee2f81ca0",
+      "fragment": "FLORENCE CORRECTIONAL",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "CCA, FLORENCE CORRECTIONAL CENTER"
+    },
+    {
+      "facility_entity_id": "fac_b04398cf32b55627b451ecfa272aa194",
+      "fragment": "NORTH LAKE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "NORTH LAKE CORRECTIONAL FACILITY"
+    },
+    {
+      "facility_entity_id": "fac_5622b45d559c556d847a9098d4705c78",
+      "fragment": "CALIFORNIA CITY CORRECTIONAL",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "CALIFORNIA CITY IMMIGRATION PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_5622b45d559c556d847a9098d4705c78",
+      "fragment": "CITY CORRECTIONAL",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "CALIFORNIA CITY IMMIGRATION PROCESSING CENTER"
+    },
+    {
+      "facility_entity_id": "fac_05379451b2a354a9a781c7c96896cc92",
+      "fragment": "NORTHWEST ICE",
+      "notes": "This is sufficient match.",
+      "review_date": "2026-09-26",
+      "reviewer": "Kevin McNellis",
+      "target_display_name": "NORTHWEST ICE PROCESSING CENTER"
+    }
+  ],
+  "ambiguous_full_aliases_excluded": [
+    "CLINTON COUNTY JAIL",
+    "DAVIESS COUNTY DETENTION",
+    "KENTON COUNTY JAIL",
+    "LOUISIANA ICE PROCESSING",
+    "MARION COUNTY JAIL",
+    "PHELPS COUNTY JAIL",
+    "POLK COUNTY JAIL",
+    "ROCKINGHAM COUNTY JAIL"
+  ],
+  "blank_descriptions": 300,
+  "candidate_pairs": 80,
+  "distinct_matched_award_25_4_amount": "2247046384.22",
+  "distinct_matched_awards": 78,
+  "family_totals": {
+    "other_type_family": {
+      "distinct_awards": 76,
+      "numeric_25_4_awards": 46,
+      "selected_25_4_amount": "2229581023.16"
+    },
+    "state_local_type_family": {
+      "distinct_awards": 12,
+      "numeric_25_4_awards": 11,
+      "selected_25_4_amount": "96196138.33"
+    }
+  },
+  "fragment_review_approval": {
+    "active_fragments_sha256": "fd18c2ac552f307f7dfd3062f10ca2637216fa7e4f19539e18f0fa7337ba1d2f",
+    "approved_at": "2026-09-26",
+    "approved_by": "Kevin McNellis",
+    "approved_for_production": true,
+    "candidate_csv_sha256": "d2fcf844f7c7629d51bde613730fdaa75db388a1a0fe5ffe335e78138a658f2a",
+    "derivation": "Registered source-row links were made release-relative; three internal workflow notes were shortened without changing decisions or award bases.",
+    "note": "Prior 24 decisions retained. The T DON HUTTO partial-name decision remains approved with the recorded reviewer and date. Production dated-attribution rule still requires separate confirmation.",
+    "original_active_fragments_sha256": "13510aa8ca004213c380a24c5444b63e69b9305ea028716579ea87c962081b19",
+    "original_candidate_csv_sha256": "c37f7490619e7f9cc29067743130b7fa056bb7bc3146510f5a0643f161da972b",
+    "original_review_approval_sha256": "abc01565d4b2129ff06c521460a35da894984591d3f0d0324df16456642d51c0",
+    "reviewed_candidate_rows": 25,
+    "source_manifest_sha256": "68933f4929a2e84644ad1a3f5348e86da92844d9b2cecdea48df4bc37cdefe01"
+  },
+  "ice_rows": 54202,
+  "input_sha256": {
+    "financial_rows": "5548234b4df8a715aa0119ec3fc5ee515df2709a5b65ffcb844db8a16cdb3276",
+    "panel": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b",
+    "pilot_files": {
+      "data/small/facility_name_screen/review_inputs/camp_east_v6_decisions.csv": "491023fbc54350e2005b2a775b976293d118f47096c98c99c1f0f7cd412789dd",
+      "data/small/facility_name_screen/v6/award_period_review.csv": "3a12271c2d3a63e7975f26de0f1a83059e98c9fa188250d7f5e1e99a9eec2a79",
+      "data/small/facility_name_screen/v6/review_facilities.csv": "a270f8a76be79c358266c31743a7b900f056df7e4bd4059ccade43715968519b"
+    },
+    "reviewed_fragments": "fd18c2ac552f307f7dfd3062f10ca2637216fa7e4f19539e18f0fa7337ba1d2f",
+    "source_manifest": "9352f2a69f9302f1e13dc0b9e4917484a226bb27c13bf423fa262f18cd6304e0",
+    "source_members": {
+      "DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv": "8a8e8a168b5c414d42f0206fb833f711a43015e0503a52e4f9e146779b1a6e5b",
+      "DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Assistance_AccountBreakdownByAward_2026-09-16_H02M56S53_02.csv": "5eaba9bf301d1afcbc7494d73fa08be8446297fed89328b5938a83661fb01a28",
+      "DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv": "83d99c7fa8410c2646e8a5addcab378dd4642c645ca5e4d27e4ce37773d4349f",
+      "DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv": "46e0a16df0c838c6634c7f05319603e5098da7ec08d594b8335b25ed14b7d03f",
+      "DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Assistance_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv": "e8c9b64afc28fd8ed52b9fc2ad0413a0e7f7206d32deeac3e9973188fffe26d5",
+      "DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Contracts_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv": "383faf369f987aaf1e2684fe3ab10bb208bec043818a72270188ec3401eb12ed",
+      "DHS_FY2026P10_c/extracted/FY2026P01-P10_070_TAS_Unlinked_AccountBreakdownByAward_2026-09-15_H22M13S36_01.csv": "0c026becd57030702f2a06fafaded3acd25ec358521c3fe910d1ae206807e215"
+    }
+  },
+  "interpretation_status": "WARN",
+  "legacy_iga_subset": {
+    "candidate_pairs": 9,
+    "distinct_awards": 9,
+    "matched_roster_entities": 4,
+    "matched_source_rows": 245,
+    "numeric_25_4_awards": 8,
+    "roster_entities": 224,
+    "selected_25_4_amount": "55731217.33"
+  },
+  "matched_awards_with_numeric_25_4_amount": 48,
+  "matched_roster_entities": 23,
+  "matched_source_rows": 2567,
+  "new_fragment_additions_to_legacy_iga_subset": {
+    "award_unique_keys": [
+      "CONT_AWD_70CDCR24FR0000037_7012_DJJODT9C0001_1501",
+      "CONT_AWD_70CDCR25FR0000041_7012_DJJODT9C0001_1501",
+      "CONT_AWD_70CDCR26FR0000069_7012_DJJODT9C0001_1501"
+    ],
+    "distinct_awards": 3,
+    "numeric_25_4_awards": 3,
+    "selected_25_4_amount": "40464921.00"
+  },
+  "overall_total": {
+    "distinct_awards": 78,
+    "numeric_25_4_awards": 48,
+    "selected_25_4_amount": "2247046384.22"
+  },
+  "pair_csv_sha256": "152e33621b144b0b64d412c8c917b8d2d300fc59d52848b75b72f19cdca3f38f",
+  "pilot_conflicts": [],
+  "pilot_input_sha256": {
+    "data/small/facility_name_screen/review_inputs/camp_east_v6_decisions.csv": "491023fbc54350e2005b2a775b976293d118f47096c98c99c1f0f7cd412789dd",
+    "data/small/facility_name_screen/v6/award_period_review.csv": "3a12271c2d3a63e7975f26de0f1a83059e98c9fa188250d7f5e1e99a9eec2a79",
+    "data/small/facility_name_screen/v6/review_facilities.csv": "a270f8a76be79c358266c31743a7b900f056df7e4bd4059ccade43715968519b"
+  },
+  "prior_unreproduced_figures": [
+    {
+      "amount": "2420000000 (approx, as stated)",
+      "computed_minus_prior_amount": "-190418976.84",
+      "computed_other_type_family_amount": "2229581023.16",
+      "label": "prior federal-facility prose figure",
+      "needs_rereview": true,
+      "source": "IGSA_DDP_DESCRIPTION_SCREEN.md @ eb9c344"
+    }
+  ],
+  "retained_reviewed_fragments": [
+    "CALIFORNIA CITY",
+    "CALIFORNIA CITY CORRECTIONAL",
+    "CITY CORRECTIONAL",
+    "DELANEY HALL",
+    "DESERT VIEW",
+    "FLORENCE CORRECTIONAL",
+    "GOLDEN STATE",
+    "MESA VERDE",
+    "NORTH LAKE",
+    "NORTHWEST ICE",
+    "OTAY MESA",
+    "PORT ISABEL",
+    "SOUTH TEXAS ICE",
+    "T DON HUTTO",
+    "TEXAS ICE"
+  ],
+  "reviewed_award_exclusions_applied": [
+    {
+      "award_unique_key": "CONT_AWD_70CTD025FC0000023_7012_70CTD025A00000001_7012",
+      "fragment": "CALIFORNIA CITY",
+      "reason": "Equipment description names an ERO city site, not the detention facility",
+      "source_row_link": "[source row](<data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:251745>)"
+    },
+    {
+      "award_unique_key": "CONT_AWD_70CMSW25FR0000077_7012_47QMCA20D004S_4732",
+      "fragment": "PORT ISABEL",
+      "reason": "Utility vehicle description names Port Isabel, TX, not the detention center",
+      "source_row_link": "[source row](<data/raw/DHS_FY2025P12_c/extracted/FY2025P01-P12_070_TAS_Contracts_AccountBreakdownByAward_2026-09-16_H02M56S53_01.csv:144303>)"
+    }
+  ],
+  "reviewed_award_exclusions_not_observed": [],
+  "roster_entities": 271,
+  "source_members_verified": 7,
+  "target_types": [
+    "BOP",
+    "CDF",
+    "DIGSA",
+    "DOD",
+    "FAMILY",
+    "IGSA",
+    "JUVENILE",
+    "MOC",
+    "SPC",
+    "STAGING",
+    "STATE",
+    "USMS CDF",
+    "USMS IGA"
+  ],
+  "technical_status": "PASS",
+  "type_families": {
+    "other_type_family": [
+      "BOP",
+      "CDF",
+      "DOD",
+      "MOC",
+      "SPC",
+      "STAGING",
+      "USMS CDF"
+    ],
+    "state_local_type_family": [
+      "DIGSA",
+      "FAMILY",
+      "IGSA",
+      "JUVENILE",
+      "STATE",
+      "USMS IGA"
+    ]
+  }
+}

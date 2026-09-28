@@ -1,0 +1,13 @@
+{
+  "api_snapshot_paths_relocated": 20,
+  "derived_non_path_sha256": "eb7eaed580b600815173c006a078ea2aa9524506bd4ad6c8d63ed00d27dc5de8",
+  "derived_sha256": "44c023443b88dfb19fd3a08387b49e6642d058aa8b7af063541d6b0375351207",
+  "evidence_rows": 36,
+  "limits": "Only source_path locators changed. Case identities, assertions, review status, source hashes, and source locators remain unchanged.",
+  "original_manifest_sha256": "68933f4929a2e84644ad1a3f5348e86da92844d9b2cecdea48df4bc37cdefe01",
+  "original_non_path_sha256": "eb7eaed580b600815173c006a078ea2aa9524506bd4ad6c8d63ed00d27dc5de8",
+  "original_sha256": "40e39aa512507e848f220081248936e5b6cefe185f20d158a19a37f062f36fd9",
+  "raw_member_paths_relocated": 16,
+  "schema": "portable-camp-east-cases-1",
+  "verified_unique_source_files": 12
+}

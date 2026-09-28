@@ -1,0 +1,4 @@
+metric,label,numerator,denominator,share_percent,unit,source_path,ice_only_numerator,ice_only_share_percent
+facilities,Detention facilities listed under state or local agreements,168,208,80.76923076923076923076923077,facilities,data/small/facility_name_screen/detention_roster_facility_snapshot_panel.csv,64,30.76923076923076923076923077
+reported_adp,Detainees held at those facilities (average daily population),35790.871887,62516.733098,57.25006748336470791956224942,derived reported ADP,data/small/facility_name_screen/detention_roster_facility_snapshot_panel.csv,29834.274026,47.72206183460095299940108204
+facility_obligations,Award-linked facility obligations to state or local governments,-28520.00,3136530747.79,-0.0009092848849033345506452851951,signed dollars,outputs/chart_2/recipient_type_totals.csv,,

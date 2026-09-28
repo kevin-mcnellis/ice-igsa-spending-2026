@@ -1,0 +1,25 @@
+{
+  "receipts": {
+    "data/raw/DHS_FY2025P04_ab/acquisition_receipt.json": {
+      "original_sha256": "5493b24a19f7ba26a7ad2a3e15d5546efe57ba6db4f53feb8e32b78ecc1697d5",
+      "public_sha256": "f3b7f221fae99b0b205f2bfcb1602acc797c30c52b4bb0689f290eb1e95dab19"
+    },
+    "data/raw/DHS_FY2025P12_ab/acquisition_receipt.json": {
+      "original_sha256": "03e477794bacb38fa64d75f8eda2fdef2328e10c686eb7783239716731e71505",
+      "public_sha256": "b632efea068239ff0ee5b5f1ef3474241c74232ef594dc677b10b0e87a5fe602"
+    },
+    "data/raw/DHS_FY2025P12_c/acquisition_receipt.json": {
+      "original_sha256": "7a5d79f6366874e7b17eb65d3e093fa20ea117a02c101ae816073bf3a54703dc",
+      "public_sha256": "c3d57fc743ca9ca09d1a77f714a0ef34236c2b0694f4d45aade80d5d620dad00"
+    },
+    "data/raw/DHS_FY2026P10_ab/acquisition_receipt.json": {
+      "original_sha256": "783bff845f4732a3a77d28cec1df4803e7c4de4c013868544d830b7cf034ec2d",
+      "public_sha256": "b814d0116fed7763fadbd39efc24baac03e4e3f9951b4f9428711c8dc2bd190d"
+    },
+    "data/raw/DHS_FY2026P10_c/acquisition_receipt.json": {
+      "original_sha256": "7f5cb074db21b4dc0b475e8890041cf1e332beedea8ce2db3eeb4722658b7d68",
+      "public_sha256": "2d9861238528c65ba80f0c9fe21fbeabdf01d8d46cded9b4f14bc75ca99b8899"
+    }
+  },
+  "schema_version": 1
+}

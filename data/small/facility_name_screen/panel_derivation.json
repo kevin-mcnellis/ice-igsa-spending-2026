@@ -1,0 +1,12 @@
+{
+  "changed_column": "raw_address",
+  "derived_non_address_sha256": "bdced152c2bb7ae291946ef75e650ff24a6dd663580a946cc4dc8ca52f274160",
+  "derived_panel_sha256": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b",
+  "facility_entity_id": "fac_6c470c88dc005b12b1e3fcb3021d1cff",
+  "original_non_address_sha256": "bdced152c2bb7ae291946ef75e650ff24a6dd663580a946cc4dc8ca52f274160",
+  "original_panel_sha256": "021d3f49c5e9893b11cfb2f9d84778634dcca2735de911ef4a1259872135ae6c",
+  "reason": "The original address field contains a phone-shaped segment; the release omits only those address cells.",
+  "redacted_rows": 27,
+  "rows": 7317,
+  "status": "PASS"
+}

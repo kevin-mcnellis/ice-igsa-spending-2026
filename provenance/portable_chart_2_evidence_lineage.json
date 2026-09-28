@@ -1,0 +1,81 @@
+{
+  "context_change": {
+    "derived_value": "https://github.com/fedspendingtransparency/usaspending-api/blob/ef39ac12e08f22bf4f2d6e2921f02a21e6219530/usaspending_api/common/helpers/business_categories_helper.py",
+    "field": "helper_source",
+    "original_value_sha256": "0b57ef1fdeecc797d53910cc3553e0f98a87ea04df1a5c31bf5ed7a83877b559",
+    "protected_chart_2_evidence_sha256": "821aecbae681bd6804e9fc295ae880ef1cdca811166857e7467aa5c70dbf95a9"
+  },
+  "derived_sha256": {
+    "chart_2_entity_evidence.json": "821aecbae681bd6804e9fc295ae880ef1cdca811166857e7467aa5c70dbf95a9",
+    "object_class_25_2_entity_evidence.json": "4eefe4c51b0fce91db7ad7f914e28ab071c514b233825a6d6824e0b838e1d326",
+    "object_class_25_2_source_context.json": "f47b3132faf770fc90b57dd994632f171ae821bb862d9ad809f82aca5cc3e55f",
+    "shared_25_4_award_check.json": "f5c1de512828b39a00f3fe3cf4a94e3a04ad3e63b3f18e432e65248081cf2682"
+  },
+  "original_sha256": {
+    "chart_2_entity_evidence.json": "e543b5724281eb67ea58d34adc2f5d59bb4ea3d3d0a22c5f63c773bf432203d6",
+    "object_class_25_2_entity_evidence.json": "7064ca290604d427cd41d4b1382347c2bcd1442b1384cfce914d69389b4fba48",
+    "object_class_25_2_source_context.json": "3b5f97caa94df6d6b2557b0c165342bc84fdd19b2c3fb3df39dd71b1288c31f2",
+    "shared_25_4_award_check.json": "582774f5e574329e1484d9cc02a636862869a418b7dfec0991727bb150ba7706"
+  },
+  "redactions": [
+    {
+      "award_index": null,
+      "derived_description_sha256": "c1af7c5fa5034ffee926f10209b31f1327e77d2e0261bad27d7bd8ad3756b490",
+      "derived_record_sha256": "fd5e2b32b1dc6ff09609638a9e12a111fdb3f77be36eecd021401e60dd482161",
+      "email_count": 1,
+      "file": "chart_2_entity_evidence.json",
+      "original_description_sha256": "e787a5cc7a241ecbf5e3a615413b763019ac03da9f313a15311a68ad5cde93f9",
+      "original_record_sha256": "3c4f23eb3aac0d59f7c481bf07f33c136c06f2c740de24f6b6d59c4baa55eb90",
+      "phone_count": 1,
+      "record_key": "RW46YPUKDTV5"
+    },
+    {
+      "award_index": null,
+      "derived_description_sha256": "7310b6334edc97ebd329244f0f6ffbed320f2ae072b7055b06c20a4475be92ca",
+      "derived_record_sha256": "7d28969e8d81bdae9ece19486fe95471329868b59dc80d91b3a6fc03c070d055",
+      "email_count": 0,
+      "file": "chart_2_entity_evidence.json",
+      "original_description_sha256": "682cb32da1d6691d2f62c908201c6e133ffe7584fce738d90fb22850460c05cc",
+      "original_record_sha256": "1bd94e6e6311a107b2cf1089a62afd7a32a75225e9ed3169b9273c037e504fe1",
+      "phone_count": 1,
+      "record_key": "VYUMS7L1EGL1"
+    },
+    {
+      "award_index": 0,
+      "derived_description_sha256": "a8de84220e3712dd88ecf2927406aabc0f52cfbb9c579772739fb6ccee383366",
+      "derived_record_sha256": "7a6300a1645aef1a2dadea27e31413370579a51510858d60eaac46543fe2cbfc",
+      "email_count": 1,
+      "file": "object_class_25_2_entity_evidence.json",
+      "original_description_sha256": "b261d53e1289624c2e38d6e32f5390ffce34f28074a1338b01c619c9a029f464",
+      "original_record_sha256": "01c0552bd43e3d9bb64cbdfac26ade95171d8b11ede01f63b44be9a649267ccd",
+      "phone_count": 1,
+      "record_key": "uei:K5WASFGRFAG5"
+    },
+    {
+      "award_index": 0,
+      "derived_description_sha256": "7310b6334edc97ebd329244f0f6ffbed320f2ae072b7055b06c20a4475be92ca",
+      "derived_record_sha256": "468ef83302ff5cbd392bc7985172eca2903b5b583e6db5b76b1f250096fc3104",
+      "email_count": 0,
+      "file": "shared_25_4_award_check.json",
+      "original_description_sha256": "682cb32da1d6691d2f62c908201c6e133ffe7584fce738d90fb22850460c05cc",
+      "original_record_sha256": "42c8a5a818de64f56b4eaf5e3fb6d89bcd1f7dfd52dc6a064fbd6c7d3025ade4",
+      "phone_count": 1,
+      "record_key": "uei:VYUMS7L1EGL1"
+    }
+  ],
+  "schema": "portable-chart-2-evidence-1",
+  "source_context_rebaseline": {
+    "changed_protected_files": {
+      "scripts/chart_style.py": {
+        "current_sha256": "2b60b3fc05d16679db97daea3004b5f118c8396e036eee9391cbf3d2a9cdaa15",
+        "previous_sha256": "1cc45c47d46f973431e2aff54d7e41239cf8690ac4f608f4e10b79716c959946"
+      },
+      "scripts/prepare_chart_data.py": {
+        "current_sha256": "7a7d488d9efbf8efa69a045d31703ead7f44a45a1628b5fba77202a0d55237f6",
+        "previous_sha256": "f237068f4ab5017d299a965102ad52f7943e99498104b323fb490a4c409d47f9"
+      }
+    },
+    "check": "Pinned and current File C readers produced identical selected rows and checks for both frozen FY2025 and FY2026 source ZIPs; the style change adds Figure B colors only.",
+    "previous_context_sha256": "18fb2ed92d0d3a3964363647cf9c80ee0b5ebfdda0576b2922ae55c04d9104e9"
+  }
+}

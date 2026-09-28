@@ -1,0 +1,26 @@
+fragment,facility_entity_id,target_display_name,reviewer,review_date,decision,notes
+T DON HUTTO,fac_4248bc807b7f536a82964cda4d1807d0,T DON HUTTO DETENTION CENTER,Kevin McNellis,2026-09-26,accept,"Approved partial name; matches award 70CDCR24FR0000039. Existing legacy search lead, not an identity alias."
+AT FORT,fac_c69513f1707e5984b9f89d701eda82e3,CAMP EAST MONTANA,Kevin McNellis,2026-09-26,reject,This is not for detention or linked to a facility.
+SAN DIEGO,fac_3df3a6344da15cc2b61947f842e62b21,SAN DIEGO DISTRICT STAGING,Kevin McNellis,2026-09-26,reject,This is not for detention or linked to a facility.
+PORT ISABEL,fac_adfbf7374f71509ea73aa2889e7fb08c,PORT ISABEL SPC,Kevin McNellis,2026-09-26,accept,Retain facility-specific descriptions; exclude only award 70CMSW25FR0000077 because it names Port Isabel TX without identifying the detention center.
+OTAY MESA,fac_e47843e933905919a6ded4591fe520f2,OTAY MESA DETENTION CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+KANSAS CITY,fac_8e0e99a4e157524c8e0cf6f15f371231,KANSAS CITY HOLDROOM,Kevin McNellis,2026-09-26,reject,This not for detention or linked to facility
+MESA VERDE,fac_db8ab1001ba3541383b036f773f9af2f,MESA VERDE ICE PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+DELANEY HALL,fac_4f822bee451c5911a5f7646071a3b8c2,DELANEY HALL DETENTION FACILITY,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+SALT LAKE,fac_54ed0d209eb2532b87ed8dd9dbe85fd7,SALT LAKE COUNTY METRO JAIL,Kevin McNellis,2026-09-26,reject,This not for detention or linked to facility
+GOLDEN STATE,fac_4357df2c2db55bdead9c08f8f2790e3d,GOLDEN STATE ANNEX,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+SOUTH TEXAS,fac_1b2baa65c79651129ca5a5c764ebecb2,SOUTH TEXAS ICE PROCESSING CENTER,Kevin McNellis,2026-09-26,reject,Broad phrase also matches a South Texas Area of Responsibility guard-services award without naming the facility; SOUTH TEXAS ICE retains the facility-specific match.
+SOUTH TEXAS ICE,fac_1b2baa65c79651129ca5a5c764ebecb2,SOUTH TEXAS ICE PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+TEXAS ICE,fac_1b2baa65c79651129ca5a5c764ebecb2,SOUTH TEXAS ICE PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+CALIFORNIA CITY,fac_5622b45d559c556d847a9098d4705c78,CALIFORNIA CITY IMMIGRATION PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,Retain facility-specific descriptions; exclude only award 70CTD025FC0000023 because it names an ERO city site without identifying the detention facility.
+DESERT VIEW,fac_402cc3f99758504c94a7d245766fbd61,DESERT VIEW ANNEX,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+CORRECTIONAL COMPLEX,fac_0c9498d3571255fe838227b675748b97,ANCHORAGE CORRECTIONAL COMPLEX,Kevin McNellis,2026-09-26,reject,Award description names Central Arizona Florence Correctional Complex; this fragment would falsely link it to Anchorage.
+FLORENCE CORRECTIONAL,fac_2f4e5d06635352e38d691a7ee2f81ca0,"CCA, FLORENCE CORRECTIONAL CENTER",Kevin McNellis,2026-09-26,accept,This is sufficient match.
+NORTH LAKE,fac_b04398cf32b55627b451ecfa272aa194,NORTH LAKE CORRECTIONAL FACILITY,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+S OFFICE,fac_3c9863c627735e6f9e48e0cf03a6eb68,OZARK COUNTY SHERIFF'S OFFICE,Kevin McNellis,2026-09-26,reject,This not for detention or linked to facility
+FORT BLISS,fac_c69513f1707e5984b9f89d701eda82e3,CAMP EAST MONTANA,Kevin McNellis,2026-09-26,reject,This not for detention or linked to facility
+BROWARD COUNTY,fac_09ed177653c65cf682d8120d755330ec,BROWARD COUNTY JAIL,Kevin McNellis,2026-09-26,reject,"Does not have full name and multilple faciliites contain the string ""Broward"""
+MAIN A,fac_c7e951f792b85f4aa9c8826c5ce2e662,MIGRANT OPS CENTER MAIN A,Kevin McNellis,2026-09-26,reject,This not for detention or linked to facility
+CALIFORNIA CITY CORRECTIONAL,fac_5622b45d559c556d847a9098d4705c78,CALIFORNIA CITY IMMIGRATION PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+CITY CORRECTIONAL,fac_5622b45d559c556d847a9098d4705c78,CALIFORNIA CITY IMMIGRATION PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.
+NORTHWEST ICE,fac_05379451b2a354a9a781c7c96896cc92,NORTHWEST ICE PROCESSING CENTER,Kevin McNellis,2026-09-26,accept,This is sufficient match.

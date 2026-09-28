@@ -1,0 +1,11 @@
+[project]
+name = "file-c-blog-chart"
+version = "0.1.0"
+description = "Self-contained, source-traceable File C obligation chart for the working blog draft"
+requires-python = "==3.12.*"
+dependencies = ["matplotlib==3.9.4"]
+
+[tool.uv]
+package = false
+# Matplotlib 3.9 uses parser APIs deprecated in pyparsing 3.3.
+constraint-dependencies = ["pyparsing<3.3"]

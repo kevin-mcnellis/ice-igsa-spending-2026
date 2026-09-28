@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "original_path": "File_C_blog_post/outputs/figure_b/figure_b_data.csv",
+  "original_sha256": "885e101b3d8f9e5b8ecbe6973ffe243a42b6be811730c6f9619b5ebefe900c54",
+  "portable_path": "outputs/figure_b/figure_b_data.csv",
+  "portable_sha256": "88f4d436df97ba2ef80c6b57a7004260842d4ccc4d4e6233e7f64873f1fba45a",
+  "changed_columns": ["source_path"],
+  "changed_rows": 2,
+  "analytical_cells_identical": true,
+  "portable_panel_sha256": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b"
+}

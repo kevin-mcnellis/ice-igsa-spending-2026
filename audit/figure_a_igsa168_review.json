@@ -1,0 +1,63 @@
+{
+  "changed_ids": [
+    "fac_c4ee62ad80155a6caa879e7c9f16214b"
+  ],
+  "counts": {
+    "federal": 38,
+    "other": 2,
+    "state_local": 168
+  },
+  "date": "2026-07-09",
+  "definition": "IGSA, DIGSA and USMS IGA; federal types; other STATE and FAMILY",
+  "invariants": {
+    "all_208_panel_ids_and_types_checked": true,
+    "only_baker_contracting_group_changed": true,
+    "operator_categories_adp_marker_geometry_off_map_and_sources_preserved": true,
+    "preview_changes_operator_label_only": true
+  },
+  "original_png_sha256": "6251658338864e3e257e7213a8c2f8f4716a5b32e8e4a943f477a808b2bdaa0a",
+  "original_receipt_sha256": "44278af572cf2093c307019cfb0aaf7b8496094379877bf76164f0c8111ee14a",
+  "other_facilities": [
+    {
+      "facility_entity_id": "fac_c4ee62ad80155a6caa879e7c9f16214b",
+      "facility_name": "BAKER CORRECTIONAL INSTITUTION",
+      "original_group": "state_local",
+      "reported_type": "STATE",
+      "review_group": "other"
+    },
+    {
+      "facility_entity_id": "fac_8dea310c845d597890c2b8f27f01e998",
+      "facility_name": "DILLEY IMMIGRATION PROCESSING CENTER",
+      "original_group": "other",
+      "reported_type": "FAMILY",
+      "review_group": "other"
+    }
+  ],
+  "output_sha256": {
+    "figure_a_igsa168_groups.csv": "fe08e407057c67e4aa3310d37b32b0a5f3dcdd26c0934857381c88d855c6d8af",
+    "figure_a_igsa168_operator_label_PREVIEW_verification.json": "4f6964525f997008836dc27a0046ffb176a61319eeb1babc3f46de506349a7db",
+    "figure_a_igsa168_render_verification.json": "4f6964525f997008836dc27a0046ffb176a61319eeb1babc3f46de506349a7db",
+    "figure_a_provenance_original.json": "44278af572cf2093c307019cfb0aaf7b8496094379877bf76164f0c8111ee14a",
+    "panel_2026-07-09_igsa168.png": "00bb8b7af3839bd92dbf28a7c2561098bfe21f2534a6e83e953f3cd2060f3fc8",
+    "panel_2026-07-09_igsa168_operator_label_PREVIEW.png": "1c50b8b089796d1a5a5b3fe29924d4aa132382ee9d047d309e74d23875ca90d0"
+  },
+  "publication_status": "Neither review variant replaces the published map; operator-label PREVIEW awaits Kevin selection.",
+  "rendered_variants": [
+    "panel_2026-07-09_igsa168.png",
+    "panel_2026-07-09_igsa168_operator_label_PREVIEW.png"
+  ],
+  "review_code_sha256": {
+    "File_C_blog_post/run_figure_a_igsa168.py": "7f65a54d852b8b49efa3593bb414672a4a3288882467a73283be3ce83315e0c4",
+    "File_C_blog_post/scripts/figure_a_igsa168.py": "932ac00401ee3b5e77b9b455683cd2becadc047eb116a6f87d587f67d03d21bd",
+    "File_C_blog_post/scripts/render_figure_a_igsa168.mjs": "443983f6efe0e800691e146d19b34710fe0799162f65a8d7142ec6b58b267263"
+  },
+  "schema_version": "file-c-figure-a-igsa168-review-1",
+  "source_sha256": {
+    "controlling_panel": "021d3f49c5e9893b11cfb2f9d84778634dcca2735de911ef4a1259872135ae6c",
+    "map_run_manifest": "637a99bf72a194a6d75a27751e8ec1c6fe232e8a8273acde53c91d82fa6139ce",
+    "original_package_png": "6251658338864e3e257e7213a8c2f8f4716a5b32e8e4a943f477a808b2bdaa0a",
+    "rendered_map_data": "1288316a0edd1398d407eff597867a7ccb5f8376f57e47963aea7c329f99cd8c"
+  },
+  "status": "REVIEW_ONLY_NOT_PUBLISHED",
+  "updated_receipt_sha256": "eacbf9ce0cbd5d1d7b91d244e11cdfdcfe759238d421f1be4ef2999a388f7326"
+}

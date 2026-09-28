@@ -1,0 +1,3865 @@
+{
+  "checked_at_utc": "2026-09-24T01:00:49.544709+00:00",
+  "parent_idv_checks": [
+    {
+      "description": "BASE OPERATIONS AND LIFE SUPPORT SERVICE",
+      "key": "CONT_IDV_N0002325D0032_9700",
+      "recipient_uei": "FJLMN2N34M93",
+      "url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_N0002325D0032_9700/"
+    },
+    {
+      "description": "BASE OPERATIONS AND LIFE SUPPORT SERVICE",
+      "key": "CONT_IDV_N0002325D0048_9700",
+      "recipient_uei": "HERXJEEWZFL7",
+      "url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_N0002325D0048_9700/"
+    }
+  ],
+  "records": [
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "LEMOINE DISASTER RECOVERY LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "07620cc7-0f1f-0b64-4f77-d8758939f445-C",
+        "recipient_name": "LEMOINE DISASTER RECOVERY LLC",
+        "recipient_uei": "C182PM2K1463"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000055_7012_70CDCR25D00000048_7012/",
+      "uei": "C182PM2K1463"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "RESPONSIVE DEPLOYMENT LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "c17f0404-e4e9-7098-24a7-63ca8d214a05-C",
+        "recipient_name": "RESPONSIVE DEPLOYMENT LLC",
+        "recipient_uei": "C1G6S1HJFEQ4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000074_7012_70CDCR25D00000027_7012/",
+      "uei": "C1G6S1HJFEQ4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000103_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES INTERNET SERVICES, WHICH ALLOWS HOMELAND SECURITY INVESTIGATIONS PERSONNEL TO ACCESS ICE INTRANET WEBSITES AND DATABASES ON A SECURED CONNECTION TO SUPPORT ONGOING CRIMINAL INVESTIGATIONS.",
+      "frozen_name": "COX VIRGINIA TELCOM, L.L.C",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "abfc1915-32f5-0797-a471-1eec078bea9f-C",
+        "recipient_name": "COX VIRGINIA TELCOM, L.L.C",
+        "recipient_uei": "C2NPR6G6LU55"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000103_7012_-NONE-_-NONE-/",
+      "uei": "C2NPR6G6LU55"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23FR0000080_7012_47QRAA22D008D_4732",
+      "description": "PROGRAM AND ADMINISTRATIVE SUPPORT SERVICES",
+      "frozen_name": "GEM TECHNOLOGY INTERNATIONAL, CORP",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Economically Disadvantaged Women Owned Small Business",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "acb1489e-ecd9-8e1c-a593-aef9be3be214-C",
+        "recipient_name": "GEM TECHNOLOGY INTERNATIONAL, CORP",
+        "recipient_uei": "CBHQBYK7BBN4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23FR0000080_7012_47QRAA22D008D_4732/",
+      "uei": "CBHQBYK7BBN4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000140_7012_70LGLY25DGLB00008_7015",
+      "description": "THE AWARD PROCURES 9MM MARKING TRAINING AMMUNITION TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.",
+      "frozen_name": "GEORGE J. PETRONIS ENTERPRISES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "167f0fb8-3402-d706-dfad-95d081f589c2-C",
+        "recipient_name": "GEORGE J. PETRONIS ENTERPRISES, INC.",
+        "recipient_uei": "CJMQQJZ325N4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000140_7012_70LGLY25DGLB00008_7015/",
+      "uei": "CJMQQJZ325N4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR21P00000035_7012_-NONE-_-NONE-",
+      "description": "PROVIDE SECURE PARKING SPACES DHS/ICE/ERO NEW YORK",
+      "frozen_name": "HUDSON RIVER PARK TRUST",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "U.S. Government Authorities",
+          "Category Business",
+          "Council of Governments",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "166cef7f-4917-af46-badf-326a15a2a212-C",
+        "recipient_name": "HUDSON RIVER PARK TRUST",
+        "recipient_uei": "CMJDW5CP7WA8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR21P00000035_7012_-NONE-_-NONE-/",
+      "uei": "CMJDW5CP7WA8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000175_7012_-NONE-_-NONE-",
+      "description": "FENTANYL CONTAINMENT HOOD",
+      "frozen_name": "THOMAS SCIENTIFIC, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "57b253c2-516a-d9e3-a34d-f6c43264d885-C",
+        "recipient_name": "THOMAS SCIENTIFIC, LLC",
+        "recipient_uei": "CN1DHDM1HDZ5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000175_7012_-NONE-_-NONE-/",
+      "uei": "CN1DHDM1HDZ5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ISS ACTION INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Woman Owned Business"
+        ],
+        "recipient_hash": "fb4c4b25-dca3-74a9-18d1-ba6c90557516-C",
+        "recipient_name": "ISS ACTION INC",
+        "recipient_uei": "CN6JHWKMSCD5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000082_7012_70CDCR25D00000056_7012/",
+      "uei": "CN6JHWKMSCD5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "LONGVIEW INTERNATIONAL TECHNOLOGY SOLUTIONS, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "8e8a2a65-e4c3-e30d-eb84-e36d22c9fa41-C",
+        "recipient_name": "LONGVIEW INTERNATIONAL TECHNOLOGY SOLUTIONS, INC.",
+        "recipient_uei": "CNM4U3TPGUE7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000045_7012_70CDCR25D00000053_7012/",
+      "uei": "CNM4U3TPGUE7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000044_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES ACCESS TO THE AUTOMATED REGIONAL JUSTICE INFORMATION SYSTEM FOR THE HOMELAND SECURITY INVESTIGATIONS SAN DIEGO OFFICE TO GATHER INFORMATION FOR CRIMINAL INVESTIGATIONS.",
+      "frozen_name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Council of Governments",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "4fadda93-703a-8e01-1cbc-994dce596906-C",
+        "recipient_name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
+        "recipient_uei": "CU82DUZEEL81"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000044_7012_-NONE-_-NONE-/",
+      "uei": "CU82DUZEEL81"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-",
+      "description": "FT. BENNING OPERATION AND MAINTENANCE",
+      "frozen_name": "KCORP RELIANCE COMPANY, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "22e6d40b-eaa4-94ec-83b0-9d2365604cd7-C",
+        "recipient_name": "KCORP RELIANCE COMPANY, INC.",
+        "recipient_uei": "CYD1SSRL8EM8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23C00000001_7012_-NONE-_-NONE-/",
+      "uei": "CYD1SSRL8EM8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26FR0000048_7012_47QRAA18D00CA_4732",
+      "description": "THE AWARD PROVIDES SPECIALIZED CIVIL SERVICE LEADERSHIP PROGRAM COURSE FOR THE ICE- OFFICE OF ASSET AND FACILITIES MANAGEMENT.",
+      "frozen_name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Educational Institution",
+          "Higher Education",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Higher Education (Public)",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f371179b-9f27-8013-f81c-4fd314b1f981-C",
+        "recipient_name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+        "recipient_uei": "D3LHU66KBLD5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26FR0000048_7012_47QRAA18D00CA_4732/",
+      "uei": "D3LHU66KBLD5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000076_7012_GS02F0197V_4730",
+      "description": "THIS AWARD PROCURES TOOL KITS TO SUPPORT LAW ENFORCEMENT OPERATIONS FOR THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.",
+      "frozen_name": "GREAT FALLS PAPER COMPANY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b47cb305-6f02-e848-3716-cdc5a3364139-C",
+        "recipient_name": "GREAT FALLS PAPER COMPANY",
+        "recipient_uei": "D3U7NJHKKEW3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000076_7012_GS02F0197V_4730/",
+      "uei": "D3U7NJHKKEW3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD024P00000003_7012_-NONE-_-NONE-",
+      "description": "NEW IHSC DENTAL DIGITAL RADIOGRAPHY PURCHASE ORDER",
+      "frozen_name": "HENRY SCHEIN, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "35fa98fd-c013-db37-80d6-fee624bcf7bc-C",
+        "recipient_name": "HENRY SCHEIN, INC.",
+        "recipient_uei": "D6MTSKS115L9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD024P00000003_7012_-NONE-_-NONE-/",
+      "uei": "D6MTSKS115L9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR21P00000062_7012_-NONE-_-NONE-",
+      "description": "FLORENCE DETENTION CENTER - HAND SOAP- VENDOR: STATE INDUSTRIAL PRODUCTS",
+      "frozen_name": "STATE INDUSTRIAL PRODUCTS CORP",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Manufacturer of Goods",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "71b72aff-0a09-f48f-b7d5-687ad6889863-C",
+        "recipient_name": "STATE INDUSTRIAL PRODUCTS CORP",
+        "recipient_uei": "D9A9DHAJ9WE6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR21P00000062_7012_-NONE-_-NONE-/",
+      "uei": "D9A9DHAJ9WE6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26P00000016_7012_-NONE-_-NONE-",
+      "description": "PAYMENT OF OUTSANDING INVOICES 16257, 16259, AND 16260, FOR THE OFFICE OF HOMELAND SECURITY INVESTIGATIONS (HSI) ST PAUL FENCE INSTALLATION",
+      "frozen_name": "WARNING LITES OF MINNESOTA INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b9113801-8629-7dff-dafa-b53196746ae2-C",
+        "recipient_name": "WARNING LITES OF MINNESOTA INC",
+        "recipient_uei": "DBSSZDEJKKS8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26P00000016_7012_-NONE-_-NONE-/",
+      "uei": "DBSSZDEJKKS8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000032_7012_-NONE-_-NONE-",
+      "description": "REPLACE GENERATOR TRANSFER SWITCH",
+      "frozen_name": "CLARKE ELECTRIC LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "05f161c7-5256-5635-090f-b881d905ecd5-C",
+        "recipient_name": "CLARKE ELECTRIC LLC",
+        "recipient_uei": "DDDTTA5TK265"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000032_7012_-NONE-_-NONE-/",
+      "uei": "DDDTTA5TK265"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000",
+      "description": "THE PURPOSE OF THIS AWARD IS TO PROVIDE AUTOCAD LICENSE SUBSCRIPTION SERVICES FOR THE OFFICE OF ASSETS AND FACILITIES MANAGEMENT",
+      "frozen_name": "GOVSMART, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "HUBZone Firm",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "Indian (Subcontinent) American Owned Business",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "a4ce814d-f601-2150-98bf-6f203db0ea2f-C",
+        "recipient_name": "GOVSMART, INC.",
+        "recipient_uei": "DJACUETFQUL8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000094_7012_NNG15SD11B_8000/",
+      "uei": "DJACUETFQUL8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "AMI EXPEDITIONARY HEALTHCARE, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d6b2cf34-678a-96ba-04cb-3472f1cedcb2-C",
+        "recipient_name": "AMI EXPEDITIONARY HEALTHCARE, LLC",
+        "recipient_uei": "DL1VNK64YL14"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000051_7012_70CDCR25D00000042_7012/",
+      "uei": "DL1VNK64YL14"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD22P00000049_7012_-NONE-_-NONE-",
+      "description": "TLK100S RADIOS AND SERVICE",
+      "frozen_name": "DAY MANAGEMENT CORP.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b24d42ee-47e8-2366-7256-ccdfa4540598-C",
+        "recipient_name": "DAY MANAGEMENT CORP.",
+        "recipient_uei": "DLD3TZDSFMD5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD22P00000049_7012_-NONE-_-NONE-/",
+      "uei": "DLD3TZDSFMD5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23FR0000108_7012_GS07F0407X_4732",
+      "description": "PURCHASE OF GENERAC DIESEL GENERATOR WITH ATS & OPTIONAL EQUIPMENT UPGRADES FOR HNL IRP AT HONOLULU, HAWAII",
+      "frozen_name": "GENERAC POWER SYSTEMS, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Manufacturer of Goods",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "96bb1f6a-ec27-367c-b8a6-82b9b623094d-C",
+        "recipient_name": "GENERAC POWER SYSTEMS, INC.",
+        "recipient_uei": "DP7KERAZ7LY3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23FR0000108_7012_GS07F0407X_4732/",
+      "uei": "DP7KERAZ7LY3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000009_7012_47QRCA25DU131_4732",
+      "description": "THIS TASK ORDER PROVIDES COMPREHENSIVE LAW ENFORCEMENT SYSTEMS AND ANALYSIS (LESA) PROFESSIONAL SUPPORT SERVICES FOR ICE- ENFORCEMENT AND REMOVAL OPERATIONS (ERO).",
+      "frozen_name": "ERNST & YOUNG LLP",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "dd8305ba-1d9b-c594-9391-076ac5a963ad-C",
+        "recipient_name": "ERNST & YOUNG LLP",
+        "recipient_uei": "ECMMFNMSLXM7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000009_7012_47QRCA25DU131_4732/",
+      "uei": "ECMMFNMSLXM7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "INTERNATIONAL SOS GOVERNMENT MEDICAL SERVICES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Not Designated a Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "21f12428-da90-1231-acfa-eff8153c0512-C",
+        "recipient_name": "INTERNATIONAL SOS GOVERNMENT MEDICAL SERVICES, INC.",
+        "recipient_uei": "EEANN2A3SSQ4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000081_7012_70CDCR25D00000049_7012/",
+      "uei": "EEANN2A3SSQ4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000038_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES SAFETY MODIFICATIONS TO HOMELAND SECURITY INVESTIGATIONS (HSI) FLEET VEHICLES WHICH IS REQUIRED TO KEEP PERSONNEL SAFE DURING LAW ENFORCEMENT OPERATIONS.",
+      "frozen_name": "ALPINE ARMORING INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Manufacturer of Goods",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "1bbc3a81-c23b-2359-853a-1b99dd8065f0-C",
+        "recipient_name": "ALPINE ARMORING INC.",
+        "recipient_uei": "EGZ1QM1L2NN1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000038_7012_-NONE-_-NONE-/",
+      "uei": "EGZ1QM1L2NN1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW24FR0000044_7012_47QTCB21D0207_4732",
+      "description": "FREEDOM OF INFORMATION ACT (FOIA) SUPPORT SERVICES",
+      "frozen_name": "WESTERN DOOR FEDERAL, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "American Indian Owned Business",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "Tribally Owned Firm",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "e4de6a96-7d30-8880-6a7b-e142b83ef1cd-C",
+        "recipient_name": "WESTERN DOOR FEDERAL, LLC",
+        "recipient_uei": "EJVWRH7GWKM3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW24FR0000044_7012_47QTCB21D0207_4732/",
+      "uei": "EJVWRH7GWKM3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26P00000010_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES M4 SEMI-AUTOMATIC 12 GAUGE SHOTGUNS TO SUPPORT LAW ENFORCEMENT OPERATIONS AND ICE- OFFICE OF FIREARMS AND TRAINING PROGRAMS AT FORT BENNING, GA.",
+      "frozen_name": "THOMAS J. MORRIS III",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "6343c85b-9dcf-b175-ccb9-021f9ec5381c-C",
+        "recipient_name": "THOMAS J. MORRIS III",
+        "recipient_uei": "ELA6K9ERGLF8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26P00000010_7012_-NONE-_-NONE-/",
+      "uei": "ELA6K9ERGLF8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000144_7012_-NONE-_-NONE-",
+      "description": "RENTAL OF FIRING RANGE FACILITY",
+      "frozen_name": "MONTGOMERY COUNTY FIRE ACADEMY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "69dd1a5d-8e6d-ed95-7021-16b12fd28a73-C",
+        "recipient_name": "MONTGOMERY COUNTY FIRE ACADEMY",
+        "recipient_uei": "EMJ7NFQSNK93"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000144_7012_-NONE-_-NONE-/",
+      "uei": "EMJ7NFQSNK93"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "SLSCO, LTD.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b29a9f1d-008d-dc42-9a77-f87a8a4635a4-C",
+        "recipient_name": "SLSCO, LTD.",
+        "recipient_uei": "F1PMZXNJ7NM5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000047_7012_70CDCR25D00000050_7012/",
+      "uei": "F1PMZXNJ7NM5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732",
+      "description": "PROVIDE O&M FOR EL CENTRO, CALIFORNIA SPC",
+      "frozen_name": "GLOBAL PRECISION SYSTEMS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "37d327cf-cf42-125f-f84f-bdc6f5170e0e-C",
+        "recipient_name": "GLOBAL PRECISION SYSTEMS, LLC",
+        "recipient_uei": "F5JZUL8JTEK3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW20FR0000034_7012_GS06Q17BQDS208_4732/",
+      "uei": "F5JZUL8JTEK3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000140_7012_-NONE-_-NONE-",
+      "description": "TRANS UNION SUPPORT SERVICES",
+      "frozen_name": "TRANS UNION LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "e9fa1dd4-d4d5-b862-879c-a06f2e2128d6-C",
+        "recipient_name": "TRANS UNION LLC",
+        "recipient_uei": "F6FDTGCVN3U4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000140_7012_-NONE-_-NONE-/",
+      "uei": "F6FDTGCVN3U4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700",
+      "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SUPRISE, AZ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+      "detention_evidence": {
+        "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700",
+        "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SUPRISE, AZ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+        "period_of_performance": {
+          "end_date": "2027-03-05",
+          "last_modified_date": "2026-08-28",
+          "potential_end_date": "2029-02-17 00:00:00",
+          "start_date": "2026-03-06"
+        },
+        "recipient_uei": "FJLMN2N34M93",
+        "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/"
+      },
+      "frozen_name": "GARDAWORLD FEDERAL SERVICES LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "c64a1e55-9377-3bab-1df4-2431bb4a5e86-C",
+        "recipient_name": "GARDAWORLD FEDERAL SERVICES LLC",
+        "recipient_uei": "FJLMN2N34M93"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/",
+      "uei": "FJLMN2N34M93"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000073_7012_-NONE-_-NONE-",
+      "description": "PUBLIC SAFETY RADIO NETWORK SERVICE",
+      "frozen_name": "RIO GRANDE VALLEY COMMUNICATIONS GROUP",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "30e94bbb-d760-6d7a-bef7-278a31f559cf-C",
+        "recipient_name": "RIO GRANDE VALLEY COMMUNICATIONS GROUP",
+        "recipient_uei": "FRAYUVFEU2K9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000073_7012_-NONE-_-NONE-/",
+      "uei": "FRAYUVFEU2K9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD26FR0000030_7012_GS07F0172V_4730",
+      "description": "THIS AWARD PROCURES A CONTRABAND INSPECTION KIT, WHICH SUPPORTS HOMELAND SECURITY INVESTIGATIONS IN CONDUCTING CRIMINAL INVESTIGATIONS.",
+      "frozen_name": "A&A HARRIS ENTERPRISES",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Black American Owned Business",
+          "Category Business",
+          "Manufacturer of Goods",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "98439a12-8d5a-359b-de5c-34693ccb87ca-C",
+        "recipient_name": "A&A HARRIS ENTERPRISES",
+        "recipient_uei": "FRHDEAQDVG16"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD26FR0000030_7012_GS07F0172V_4730/",
+      "uei": "FRHDEAQDVG16"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001",
+      "description": "THIS ORDER PROVIDES ENFORCEMENT REMOVAL OPERATIONS MODERNIZATION AND OPERATIONAL CAPABILITY FOR THE ENFORCEMENT CASE MANAGEMENT SYSTEM ON THE CASE MANAGEMENT AND ANALYTICS PLATFORM IN SUPPORT OF THE U.S. IMMIGRATIONS CUSTOMS ENFORCEMENT MISSION.",
+      "frozen_name": "PALANTIR TECHNOLOGIES INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "1ea8a9a4-3726-3491-9040-66950bb67606-C",
+        "recipient_name": "PALANTIR TECHNOLOGIES INC.",
+        "recipient_uei": "FSY4LVSBGWB7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD026FC0000012_7012_70RTAC26A00000001_7001/",
+      "uei": "FSY4LVSBGWB7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24P00000013_7012_-NONE-_-NONE-",
+      "description": "UNIVERSITY OF MINNESOTA FIREARMS RANGE RENTAL",
+      "frozen_name": "REGENTS OF UNIVERSITY OF MINNESOTA",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Educational Institution",
+          "Government",
+          "Higher Education",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "Higher Education (Public)",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "0affd290-f9ca-98b0-9922-71763751ce2e-C",
+        "recipient_name": "REGENTS OF UNIVERSITY OF MINNESOTA",
+        "recipient_uei": "FVJMNPLMEEJ2"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24P00000013_7012_-NONE-_-NONE-/",
+      "uei": "FVJMNPLMEEJ2"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012",
+      "description": "TASK ORDER FOR DETENTION SERVICES, TRANSPORTATION SERVICES, FACILITY UPGRADES, DETAINEE WORK PROGRAM, AND CASE PROCESSING SPECIALISTS AT IMPERIAL REGIONAL DETENTION FACILITY IN SAN DIEGO, CA.",
+      "frozen_name": "MANAGEMENT & TRAINING CORPORATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "05d0fd70-3b91-2efe-b533-5d973d1ea671-C",
+        "recipient_name": "MANAGEMENT & TRAINING CORPORATION",
+        "recipient_uei": "G58ZEJ7HJGM1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000010_7012_70CDCR20D00000006_7012/",
+      "uei": "G58ZEJ7HJGM1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_HSCECR16P00001_7012_-NONE-_-NONE-",
+      "description": "IGF::OT::IGF CONTINUE ACCESS TO ENHANCE ABILITY TO IDENTIFY&LOCATE CREIMINAL ALIENS",
+      "frozen_name": "PUBLIC SAFETY & CORRECTIONAL SERVICES, MARYLAND DEPT OF",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "be7c95f4-7d61-79ad-8324-b12743f82d23-C",
+        "recipient_name": "PUBLIC SAFETY & CORRECTIONAL SERVICES, MARYLAND DEPT OF",
+        "recipient_uei": "G5CPENQNTPK1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_HSCECR16P00001_7012_-NONE-_-NONE-/",
+      "uei": "G5CPENQNTPK1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-",
+      "description": "PERIMETER FENCE INTRUSION DETECTION SYSTEM AT THE PORT ISABEL DETENTION CENTER",
+      "frozen_name": "AXIS GLOBAL ENTERPRISES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "DoT Certified Disadvantaged Business Enterprise",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "67e45544-6e7b-4d21-d3ec-7e7bb1c43215-C",
+        "recipient_name": "AXIS GLOBAL ENTERPRISES, INC.",
+        "recipient_uei": "GAE3BQFCPWM5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22P00000027_7012_-NONE-_-NONE-/",
+      "uei": "GAE3BQFCPWM5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732",
+      "description": "IGF::OT::IGF EL PASO CO-LOCATION OPERATION AND MAINTENANCE",
+      "frozen_name": "ACEPEX MANAGEMENT CORPORATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Asian Pacific American Owned Business",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "8dd21ab3-7beb-3159-6383-4be9326f91d4-C",
+        "recipient_name": "ACEPEX MANAGEMENT CORPORATION",
+        "recipient_uei": "GCPTKFRJSPJ9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19FR0000030_7012_GS06Q17BQDS201_4732/",
+      "uei": "GCPTKFRJSPJ9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "DEPLOYED RESOURCES LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "c7182f2d-51c0-8f51-d5cc-02630b0a90c2-C",
+        "recipient_name": "DEPLOYED RESOURCES LLC",
+        "recipient_uei": "GFTGQRJ8F959"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000064_7012_70CDCR25D00000051_7012/",
+      "uei": "GFTGQRJ8F959"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FC0000104_7012_70CMSW21A00000003_7012",
+      "description": "THIS AWARD PROVIDES LAW ENFORCEMENT EQUIPMENT (DUTY WEAPON HOLSTERS) TO SUPPORT THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.",
+      "frozen_name": "ATLANTIC DIVING SUPPLY, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "9c708c7c-f339-5fc8-0455-a5aaea1d2da5-C",
+        "recipient_name": "ATLANTIC DIVING SUPPLY, INC.",
+        "recipient_uei": "GJMSFBCNMSK3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FC0000104_7012_70CMSW21A00000003_7012/",
+      "uei": "GJMSFBCNMSK3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-",
+      "description": "RE-KEY AND CHANGE LOCKS AT 2451 CRYSTAL DR STE 200, ARLINGTON, VA.",
+      "frozen_name": "FEDERAL LOCK & SAFE INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d7816e8c-4193-4cd7-6ea5-0609ff7d95a9-C",
+        "recipient_name": "FEDERAL LOCK & SAFE INC",
+        "recipient_uei": "GX7VU27CC847"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000149_7012_-NONE-_-NONE-/",
+      "uei": "GX7VU27CC847"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001",
+      "description": "THIS AWARD IS FOR BLACKBERRY ATHOC PERSONNEL EMERGENCY NOTIFICATION SOFTWARE.",
+      "frozen_name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "2a4d3db7-e268-7b36-3610-c75337f0b7e1-C",
+        "recipient_name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+        "recipient_uei": "H1KHJPJH9R51"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD024FR0000007_7012_70RDAD23D00000008_7001/",
+      "uei": "H1KHJPJH9R51"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-",
+      "description": "PURCHASE OF LAWN CARE SERVICES FOR OFTP AT FORT BENNING, GA.",
+      "frozen_name": "MAINSCAPE INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d4c4e0e8-ed9f-2193-e76c-b57978f79248-C",
+        "recipient_name": "MAINSCAPE INC",
+        "recipient_uei": "H2N5CDZKJ1F6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19P00000022_7012_-NONE-_-NONE-/",
+      "uei": "H2N5CDZKJ1F6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "CENTERRA GROUP, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "170470f0-8d47-72dd-c09c-8affb0d48e5b-C",
+        "recipient_name": "CENTERRA GROUP, LLC",
+        "recipient_uei": "H4H3J7SJCT76"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000056_7012_70CDCR25D00000039_7012/",
+      "uei": "H4H3J7SJCT76"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012",
+      "description": "FUNDING FOR SAN ANTONIO FIELD OFFICE TRANSPORTATION CONTRACT WITH G4S SECURE SOLUTIONS USA, INC CONTRACT 70CDCR20D00000017, OPTION YEAR FOUR TASK ORDER",
+      "frozen_name": "G4S SECURE SOLUTIONS (USA) INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Not Designated a Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "0cebd10f-2867-7a03-efeb-12c0743b6c92-C",
+        "recipient_name": "G4S SECURE SOLUTIONS (USA) INC.",
+        "recipient_uei": "H5M2KCZCA9M3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000014_7012_70CDCR20D00000017_7012/",
+      "uei": "H5M2KCZCA9M3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ROCKWELL AMERICAN SERVICES, LTD.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "d8858a6b-d78c-cd7c-3745-6dba0bf1b728-C",
+        "recipient_name": "ROCKWELL AMERICAN SERVICES, LTD.",
+        "recipient_uei": "H6NCLMPBP565"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000076_7012_70CDCR25D00000021_7012/",
+      "uei": "H6NCLMPBP565"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW24P00000004_7012_-NONE-_-NONE-",
+      "description": "LEASING SPACE AT HIGHLANDS RANCH LAW ENFORCEMENT TRAINING FACILITY FOR ERO OFFICER QUALIFYING PURPOSES",
+      "frozen_name": "THE HIGHLANDS RANCH LAW ENFORCEMENT TRAINING FOUNDATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Foundation",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "0139a7dc-5e8f-5047-39e0-058a7d25dd9c-C",
+        "recipient_name": "THE HIGHLANDS RANCH LAW ENFORCEMENT TRAINING FOUNDATION",
+        "recipient_uei": "H8YFF5F9TM53"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW24P00000004_7012_-NONE-_-NONE-/",
+      "uei": "H8YFF5F9TM53"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25FR0000142_7012_GS07F161BA_4732",
+      "description": "THIS AWARD PROVIDES A HANDHELD ANALYZER THAT ALLOWS FIELD AGENTS TO EFFECTIVELY TEST FOR NARCOTICS ONSITE TO GATHER FORENSIC DATA FOR THE HOMELAND SECURITY INVESTIGATIONS DENVER OFFICE.",
+      "frozen_name": "FISHER SCIENTIFIC COMPANY L.L.C.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "3ee01a00-4dde-00ec-47a4-b57a516233bf-C",
+        "recipient_name": "FISHER SCIENTIFIC COMPANY L.L.C.",
+        "recipient_uei": "HE7NJQGP4ED6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25FR0000142_7012_GS07F161BA_4732/",
+      "uei": "HE7NJQGP4ED6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700",
+      "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN HAGERSTOWN, MD TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+      "detention_evidence": {
+        "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700",
+        "description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN HAGERSTOWN, MD TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+        "period_of_performance": {
+          "end_date": "2026-10-31",
+          "last_modified_date": "2026-08-28",
+          "potential_end_date": "2029-03-05 00:00:00",
+          "start_date": "2026-03-06"
+        },
+        "recipient_uei": "HERXJEEWZFL7",
+        "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700/"
+      },
+      "frozen_name": "KVG LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "ac0d73da-c014-f60f-168a-4160d25c5bd4-C",
+        "recipient_name": "KVG LLC",
+        "recipient_uei": "HERXJEEWZFL7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000035_7012_N0002325D0048_9700/",
+      "uei": "HERXJEEWZFL7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD19P00000101_7012_-NONE-_-NONE-",
+      "description": "FIRING RANGE RENTAL",
+      "frozen_name": "CITY OF HAVRE DE GRACE",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "88600fa8-7279-7b55-617e-944bc9a080c7-C",
+        "recipient_name": "CITY OF HAVRE DE GRACE",
+        "recipient_uei": "HH2TV6FXKD46"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD19P00000101_7012_-NONE-_-NONE-/",
+      "uei": "HH2TV6FXKD46"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012",
+      "description": "THE PURPOSE OF THIS TASK ORDER IS FOR COMPREHENSIVE DETENTION AND TRANSPORTATION SERVICES FOR HOUSING CRIMINAL ALIENS AT CALIFORNIA CITY DETENTION CENTER IN CALIFORNIA CITY, CA.",
+      "frozen_name": "CORECIVIC, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-C",
+        "recipient_name": "CORECIVIC, INC.",
+        "recipient_uei": "HJGMJN1JKL46"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000122_7012_70CDCR25D00000010_7012/",
+      "uei": "HJGMJN1JKL46"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-",
+      "description": "COX CABLE AND INTERNET SERVICES FOR 2ND & 7TH FLOORS OF 1953 GALLOWS RD VIENNA, VA 22182. PAYMENTS WILL BE MAKE FROM PCARD NS23C065770.",
+      "frozen_name": "COXCOM, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "3274977b-cd2b-5896-c1d1-8cb0da6c17cc-C",
+        "recipient_name": "COXCOM, LLC",
+        "recipient_uei": "HK6RKYDJ5SZ5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000110_7012_-NONE-_-NONE-/",
+      "uei": "HK6RKYDJ5SZ5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000154_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES INTELLA INVESTIGATOR LICENSE AND MAINTENANCE TO ENABLE COMPUTER FORENSICS AGENTS TO PROCESS, SEARCH, AND ANALYZE ELECTRONICALLY STORED INFORMATION FOR HOMELAND SECURITY INVESTIGATIONS WASHINGTON, DC.",
+      "frozen_name": "VOUND COLORADO, LTD.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "c4cdcfe4-634d-f7aa-4317-6a5ae0c2900c-C",
+        "recipient_name": "VOUND COLORADO, LTD.",
+        "recipient_uei": "HKV5SEGCT3L6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000154_7012_-NONE-_-NONE-/",
+      "uei": "HKV5SEGCT3L6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD20P00000061_7012_-NONE-_-NONE-",
+      "description": "COURIER SERVICE FOR EL PASO",
+      "frozen_name": "RICHARD TERRY TIFT",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "60f1f8f4-40f4-3141-e99d-d7d152ecd9c4-C",
+        "recipient_name": "RICHARD TERRY TIFT",
+        "recipient_uei": "HL38C2CWLAD1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD20P00000061_7012_-NONE-_-NONE-/",
+      "uei": "HL38C2CWLAD1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23P00000018_7012_-NONE-_-NONE-",
+      "description": "THE ICE ERO WASHINGTON FIELD OFFICE REQUIRES ACCESS TO A LOCAL SHOOTING FACILITY THAT HAS BOTH, A SHOOTING RANGE AND SHOOTING TRAINING FACILITY FOR 86 ICE OFFICERS, ALLOWING ICE OFFICERS TO CONDUCT FIREARMS TRAINING, PRACTICE, AND QUALIFICATIONS. THE",
+      "frozen_name": "SILVER EAGLE GROUP NORTHERN VIRGINIA LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "ba5db45e-5936-548e-2b9e-68156f598210-C",
+        "recipient_name": "SILVER EAGLE GROUP NORTHERN VIRGINIA LLC",
+        "recipient_uei": "HM9KTBAGDTJ7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23P00000018_7012_-NONE-_-NONE-/",
+      "uei": "HM9KTBAGDTJ7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ASSET PROTECTION & SECURITY SERVICES, L.P.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "05c5ff1d-8454-fda7-7b86-6ec7c7d7f9fb-C",
+        "recipient_name": "ASSET PROTECTION & SECURITY SERVICES, L.P.",
+        "recipient_uei": "HMJ4CBSCDNY4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000067_7012_70CDCR25D00000035_7012/",
+      "uei": "HMJ4CBSCDNY4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FC0000101_7012_70RDAD22A00000003_7001",
+      "description": "THIS AWARD PROCURES CHAIRS, INSTALLATION, AND ASSEMBLY SERVICES FOR THE OFFICE OF CHIEF INFORMATION OFFICER IN CHANDLER, AZ.",
+      "frozen_name": "BIALEK CORPORATION OF MARYLAND",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "f0128fb3-931e-002d-528d-8fbb1e29cc9d-C",
+        "recipient_name": "BIALEK CORPORATION OF MARYLAND",
+        "recipient_uei": "HP25SQ2BMJ13"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FC0000101_7012_70RDAD22A00000003_7001/",
+      "uei": "HP25SQ2BMJ13"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "RECANA SOLUTIONS, L.L.C.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "fd66ae3e-b208-2742-fcbd-f01584c56698-C",
+        "recipient_name": "RECANA SOLUTIONS, L.L.C.",
+        "recipient_uei": "HT74GJ837NF8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000071_7012_70CDCR25D00000025_7012/",
+      "uei": "HT74GJ837NF8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "GOTHAMS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "cee53262-4c48-bc5c-162a-4794286ae98e-C",
+        "recipient_name": "GOTHAMS LLC",
+        "recipient_uei": "HVR7BYAMSL27"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000070_7012_70CDCR25D00000032_7012/",
+      "uei": "HVR7BYAMSL27"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-",
+      "description": "IGF::OT::IGF ADULT DETAINEE SERVICES",
+      "frozen_name": "IMPERIAL COUNTY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "fd0bede3-632f-67c6-882d-e6f1ee04b2f2-C",
+        "recipient_name": "IMPERIAL COUNTY",
+        "recipient_uei": "HWW3D6C5Y7X7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD18P00000133_7012_-NONE-_-NONE-/",
+      "uei": "HWW3D6C5Y7X7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24P00000004_7012_-NONE-_-NONE-",
+      "description": "CLEMIS (OAKLAND COUNTY COURT AND LAW ENFORCEMENT MANAGEMENT INFORMATION SYSTEM) DATABASE FOR ICE OFFICERS ASSIGNED TO THE ICE/ERO/DETROIT AREA OF RESPONSIBILITY (AOR).",
+      "frozen_name": "COUNTY OF OAKLAND",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "26421d0a-02da-23dd-2539-f17d30922e49-C",
+        "recipient_name": "COUNTY OF OAKLAND",
+        "recipient_uei": "HZ4EUKDD7AB4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24P00000004_7012_-NONE-_-NONE-/",
+      "uei": "HZ4EUKDD7AB4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "LASALLE CORRECTIONS V LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "2336d237-1e37-b7fa-2583-34b260b2dce8-C",
+        "recipient_name": "LASALLE CORRECTIONS V LLC",
+        "recipient_uei": "J76AEWGPFZT1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000049_7012_70CDCR25D00000040_7012/",
+      "uei": "J76AEWGPFZT1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000002_7012_GS35F386DA_4732",
+      "description": "EO14042 DHS ICE REQUIRES DESIGN, DEVELOPMENT AND DATA ANALYTICS SUPPORT FOR THE DHS ICE HOMELAND SECURITY INVESTIGATIONS (HSI) REPOSITORY FOR ANALYTICS IN VIRTUALIZED ENVIRONMENT (RAVEN) PROGRAM.",
+      "frozen_name": "BOOZ ALLEN HAMILTON INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "ffca72e5-fba2-798a-6969-2a6c45e9f985-C",
+        "recipient_name": "BOOZ ALLEN HAMILTON INC",
+        "recipient_uei": "JCBMLGPE6Z71"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD022FR0000002_7012_GS35F386DA_4732/",
+      "uei": "JCBMLGPE6Z71"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23FR0000093_7012_HSBP1017D00003_7014",
+      "description": "PURCHASING SOFT BODY ARMOR KITS FOR FPS ACADEMY STUDENTS OFF THE DHS SSV III VEHICLE",
+      "frozen_name": "CENTRAL LAKE ARMOR EXPRESS INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "HUBZone Firm",
+          "Manufacturer of Goods",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d16a5e48-af62-0b38-5caf-634715e12828-C",
+        "recipient_name": "CENTRAL LAKE ARMOR EXPRESS INC",
+        "recipient_uei": "JCWBXRQCL8K7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23FR0000093_7012_HSBP1017D00003_7014/",
+      "uei": "JCWBXRQCL8K7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000154_7012_-NONE-_-NONE-",
+      "description": "CHAINLINK FENCE",
+      "frozen_name": "SOUTH BAY FENCE, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "3e8c9d09-e83c-c2e9-00b8-6b7fa3813058-C",
+        "recipient_name": "SOUTH BAY FENCE, INC.",
+        "recipient_uei": "JD21AMFZVKH1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000154_7012_-NONE-_-NONE-/",
+      "uei": "JD21AMFZVKH1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012",
+      "description": "TASK ORDER FOR DETENTION SERVICES AT RIVERS DETENTION CENTER IN WINTON, NC.",
+      "frozen_name": "THE GEO GROUP, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "9b308edb-a62c-659b-704b-ef4e5cf3f795-C",
+        "recipient_name": "THE GEO GROUP, INC.",
+        "recipient_uei": "JMLKZZ1NL2Z6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000108_7012_70CDCR26D00000001_7012/",
+      "uei": "JMLKZZ1NL2Z6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD21P00000075_7012_-NONE-_-NONE-",
+      "description": "FIREARM RANGE USE FEES",
+      "frozen_name": "HURON VALLEY GUNS",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "dcf67bb9-6ef5-f05c-c132-9e067f333f32-C",
+        "recipient_name": "HURON VALLEY GUNS",
+        "recipient_uei": "JPTVGBDD3EK4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD21P00000075_7012_-NONE-_-NONE-/",
+      "uei": "JPTVGBDD3EK4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25P00000058_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES CUBICLES, FURNITURE AND ASSOCIATED SERVICES FOR HOMELAND SECURITY INVESTIGATIONS, PHOENIX, AZ.",
+      "frozen_name": "OFFICE CONCEPTS ARIZONA LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "23c05494-bfc9-cebc-842f-d2b410f259e1-C",
+        "recipient_name": "OFFICE CONCEPTS ARIZONA LLC",
+        "recipient_uei": "JTKZNB24MRU7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25P00000058_7012_-NONE-_-NONE-/",
+      "uei": "JTKZNB24MRU7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24FR0000057_7012_47QREA21D000R_4732",
+      "description": "COURT REPORTING AND TRANSCRIPTION SERVICE",
+      "frozen_name": "BURKE COURT REPORTING LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "5d5f10a5-6df1-45c8-eab7-6ff135f2f279-C",
+        "recipient_name": "BURKE COURT REPORTING LLC",
+        "recipient_uei": "JWM8K8HUPMQ1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24FR0000057_7012_47QREA21D000R_4732/",
+      "uei": "JWM8K8HUPMQ1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529",
+      "description": "INFORMATION TECHNOLOGY SUPPORT SERVICES (ITSS)",
+      "frozen_name": "INSERSO CORPORATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Minority Owned Business",
+          "Other Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "550b25e6-a0ee-e1ef-d841-a42b53b287d5-C",
+        "recipient_name": "INSERSO CORPORATION",
+        "recipient_uei": "K18HRGF7HW21"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD022FR0000018_7012_75N98120D00162_7529/",
+      "uei": "K18HRGF7HW21"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "RAPID DEPLOYMENT INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "269b1b13-80fc-76b0-516a-30b246e8f13e-C",
+        "recipient_name": "RAPID DEPLOYMENT INC",
+        "recipient_uei": "K1B6MGA23WL3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000069_7012_70CDCR25D00000019_7012/",
+      "uei": "K1B6MGA23WL3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD020FR0000276_7012_47QTCH18D0004_4732",
+      "description": "CALEA NETWORK AND INTERCEPT OPERATIONS SUPPORT SERVICES TO SUPPORT ICE/HSI",
+      "frozen_name": "HIGH PRAIRIE SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "d8702639-f2f2-7c98-c37c-a68d3409b3a7-C",
+        "recipient_name": "HIGH PRAIRIE SERVICES, LLC",
+        "recipient_uei": "K45PLHZ5MMS3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD020FR0000276_7012_47QTCH18D0004_4732/",
+      "uei": "K45PLHZ5MMS3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR20P00000040_7012_-NONE-_-NONE-",
+      "description": "DALLAS AREA OF RESPONSIBILITY PACKAGED FOOD AND BEVERAGE DELIVERY",
+      "frozen_name": "MORRIS BRADLEY L",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "2b104f3c-5b33-3878-3023-9ba88027a672-C",
+        "recipient_name": "MORRIS BRADLEY L",
+        "recipient_uei": "K4W1LMDTLUB5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR20P00000040_7012_-NONE-_-NONE-/",
+      "uei": "K4W1LMDTLUB5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22C00000012_7012_-NONE-_-NONE-",
+      "description": "OCCUPATIONAL HEALTH SERVICES",
+      "frozen_name": "EAGLE HEALTH, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "fe07b8d1-2726-5fe1-3d0d-a04a5e482063-C",
+        "recipient_name": "EAGLE HEALTH, LLC",
+        "recipient_uei": "K7MPSQUS6XC3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22C00000012_7012_-NONE-_-NONE-/",
+      "uei": "K7MPSQUS6XC3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012",
+      "description": "THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SERVICES AT THE EL PASO SERVICE PROCESSING CENTER. THE PURPOSE OF THIS MODIFICATION IS TO ISSUE A NEW TASK ORDER AND ADD FUNDING FOR THESE SERVICES.",
+      "frozen_name": "PARAGON PROFESSIONAL SERVICES LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "a2a0931c-b3fd-8737-f260-ffb2cba740b1-C",
+        "recipient_name": "PARAGON PROFESSIONAL SERVICES LLC",
+        "recipient_uei": "K8RNMK1CCQW3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000112_7012_70CDCR22D00000012_7012/",
+      "uei": "K8RNMK1CCQW3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23P00000017_7012_-NONE-_-NONE-",
+      "description": "UNIVERSITY OF MINNESOTA FIREARMS RANGE RENTAL",
+      "frozen_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Educational Institution",
+          "Higher Education",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Higher Education (Public)",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "75c0ae0f-6a5f-aead-72df-d28c71c0d348-C",
+        "recipient_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+        "recipient_uei": "KABJZBBJ4B54"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23P00000017_7012_-NONE-_-NONE-/",
+      "uei": "KABJZBBJ4B54"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-",
+      "description": "JUVENILE DETAINEE SERVICES",
+      "frozen_name": "COUNTY OF IMPERIAL",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "75665f38-d47d-5b02-a76b-f33ebea52a94-C",
+        "recipient_name": "COUNTY OF IMPERIAL",
+        "recipient_uei": "KBETVELWWR23"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000069_7012_-NONE-_-NONE-/",
+      "uei": "KBETVELWWR23"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22P00000011_7012_-NONE-_-NONE-",
+      "description": "PURCHASE OF ACCESS AND USE OF THE WORCESTER COUNTY FIREARM'S TRAINING CENTER FOR ERO.",
+      "frozen_name": "WORCESTER COUNTY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "c44e5ad9-8def-0fde-cdc5-fe7a6754b552-C",
+        "recipient_name": "WORCESTER COUNTY",
+        "recipient_uei": "KEA9KRV8GPG3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22P00000011_7012_-NONE-_-NONE-/",
+      "uei": "KEA9KRV8GPG3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-",
+      "description": "FURNITURE, DELIVERY, AND INSTALLATION SERVICES FOR OPLA PHOENIX, ELOY DETENTION CENTER SUB-OFFICE",
+      "frozen_name": "FEDERAL PRISON INDUSTRIES, INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "ecd79af6-7b9e-5e0d-3f45-353ba17ec2d6-C",
+        "recipient_name": "FEDERAL PRISON INDUSTRIES, INC",
+        "recipient_uei": "KHFLCLB4BW91"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23P00000022_7012_-NONE-_-NONE-/",
+      "uei": "KHFLCLB4BW91"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24FC0000010_7012_70RTAC23A00000001_7001",
+      "description": "REQUIRED SHREDDING SERVICES FOR ERO",
+      "frozen_name": "IRON MOUNTAIN INFORMATION MANAGEMENT LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "c26fd0ee-9777-5d09-8189-a9b89ea1ece5-C",
+        "recipient_name": "IRON MOUNTAIN INFORMATION MANAGEMENT LLC",
+        "recipient_uei": "KJB1WJG4NXS7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24FC0000010_7012_70RTAC23A00000001_7001/",
+      "uei": "KJB1WJG4NXS7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000102_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES THE ICE-OFFICE OF PRINCIPAL LEGAL ADVISOR WITH MONTHLY SHREDDING SERVICES FOR HOUSTON AND ITS SUB-OFFICES LOCATIONS.",
+      "frozen_name": "TEXAS BEB INVESTMENTS CORP",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "4e516132-62e1-48e2-7aa8-c1a0f8b7f5ef-C",
+        "recipient_name": "TEXAS BEB INVESTMENTS CORP",
+        "recipient_uei": "KMPML32GXV33"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000102_7012_-NONE-_-NONE-/",
+      "uei": "KMPML32GXV33"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-",
+      "description": "THIS CONTRACT PROVIDES AMERICAN CORRECTIONAL ASSOCIATION (ACA) RE-ACCREDITATION SUPPORT AT THE PORT ISABEL DETENTION CENTER.",
+      "frozen_name": "THE AMERICAN CORRECTIONAL ASSOCIATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "60b81742-8d3f-a853-e7f5-0a60c3cb7d84-C",
+        "recipient_name": "THE AMERICAN CORRECTIONAL ASSOCIATION",
+        "recipient_uei": "KMXSSRURLT43"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000014_7012_-NONE-_-NONE-/",
+      "uei": "KMXSSRURLT43"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR21P00000049_7012_-NONE-_-NONE-",
+      "description": "PROPANE DELIVERY & TANK MAINTENANCE AT KROME SPC",
+      "frozen_name": "MERRIMAC PETROLEUM, INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Woman Owned Business"
+        ],
+        "recipient_hash": "cad09967-84bb-1580-5c3c-08b7aed9fe3b-C",
+        "recipient_name": "MERRIMAC PETROLEUM, INC",
+        "recipient_uei": "KNYFTL68DM54"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR21P00000049_7012_-NONE-_-NONE-/",
+      "uei": "KNYFTL68DM54"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD19FR0000096_7012_GS02F0095T_4730",
+      "description": "SPEED OF TRUST TRAINING PROGRAM.",
+      "frozen_name": "FRANKLIN COVEY CLIENT SALES INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "31a0f4f0-4e5c-cf4f-9085-3c3153d83bde-C",
+        "recipient_name": "FRANKLIN COVEY CLIENT SALES INC",
+        "recipient_uei": "KSE1ME58AQ17"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD19FR0000096_7012_GS02F0095T_4730/",
+      "uei": "KSE1ME58AQ17"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD024FR0000071_7012_NNG15SE09B_8000",
+      "description": "CISCO SMARTNET HARDWARE MAINTENANCE AND LICENSES",
+      "frozen_name": "GREENBRIER GOVERNMENT SOLUTIONS INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "HUBZone Firm",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "5ca88440-a6c3-e664-edc6-4cff137c4fa1-C",
+        "recipient_name": "GREENBRIER GOVERNMENT SOLUTIONS INC",
+        "recipient_uei": "KVMTJANNET58"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD024FR0000071_7012_NNG15SE09B_8000/",
+      "uei": "KVMTJANNET58"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "SOS INTERNATIONAL LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "aee3ebde-7484-0fac-c8b8-43896b620d02-C",
+        "recipient_name": "SOS INTERNATIONAL LLC",
+        "recipient_uei": "L3VCKMD7J585"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000065_7012_70CDCR25D00000037_7012/",
+      "uei": "L3VCKMD7J585"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ACUITY INTERNATIONAL, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "6868beca-8dcf-543e-476a-cc7e2be0af30-C",
+        "recipient_name": "ACUITY INTERNATIONAL, LLC",
+        "recipient_uei": "L41JMCZK3GW6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000061_7012_70CDCR25D00000028_7012/",
+      "uei": "L41JMCZK3GW6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW20C00000003_7012_-NONE-_-NONE-",
+      "description": "JANITORIAL/CUSTODIAL AND GROUNDS MAINTENANCE SERVICES AT THE EL CENTRO SPC.",
+      "frozen_name": "ARC - IMPERIAL VALLEY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "AbilityOne Program Participant",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "5773ee38-faf6-c231-bd6d-16678b643cc4-C",
+        "recipient_name": "ARC - IMPERIAL VALLEY",
+        "recipient_uei": "L8B6G753K3Y5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW20C00000003_7012_-NONE-_-NONE-/",
+      "uei": "L8B6G753K3Y5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "BERING STRAITS PROFESSIONAL SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "8668bb72-3879-dbd8-7126-1288a2e04a0d-C",
+        "recipient_name": "BERING STRAITS PROFESSIONAL SERVICES, LLC",
+        "recipient_uei": "L8BNTYVF45P7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000052_7012_70CDCR25D00000026_7012/",
+      "uei": "L8BNTYVF45P7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000087_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES FOUR VIDEO SPECTRAL COMPARATORS 9000, REQUIRED TO CONDUCT DETAILED COMPARATIVE EXAMINATIONS OF DOCUMENTS VALIDITY TO SUPPORT FORENSIC FINDINGS FOR ICE HOMELAND SECURITY INVESTIGATIONS FORENSIC LABORATORY.",
+      "frozen_name": "FOSTER & FREEMAN USA INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Manufacturer of Goods",
+          "Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "17c21b89-b03c-8d96-cb7b-27acdc568018-C",
+        "recipient_name": "FOSTER & FREEMAN USA INC",
+        "recipient_uei": "LC1TJNRE6KX7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000087_7012_-NONE-_-NONE-/",
+      "uei": "LC1TJNRE6KX7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-",
+      "description": "GROUNDS AND CUSTODIAL SERVICES - PORT ISABEL SPC.",
+      "frozen_name": "MAVAGI ENTERPRISES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "AbilityOne Program Participant",
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "6f4ae646-0f03-6a66-7867-c724e9a79ce5-C",
+        "recipient_name": "MAVAGI ENTERPRISES, INC.",
+        "recipient_uei": "LCJ3MDABAV97"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW18C00000006_7012_-NONE-_-NONE-/",
+      "uei": "LCJ3MDABAV97"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD21FR0000161_7012_47QRAD20D1144_4732",
+      "description": "TECHNICAL WRITER II SERVICES",
+      "frozen_name": "CHUGACH TECHNICAL SOLUTIONS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Tribally Owned Firm",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "9b406649-9b1a-1c70-c72a-de5d9fb6f986-C",
+        "recipient_name": "CHUGACH TECHNICAL SOLUTIONS LLC",
+        "recipient_uei": "LG4AXJ2HMHN3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD21FR0000161_7012_47QRAD20D1144_4732/",
+      "uei": "LG4AXJ2HMHN3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "TARGET LOGISTICS MANAGEMENT, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "a4571479-f96c-82d6-56d9-8f2d729aef6a-C",
+        "recipient_name": "TARGET LOGISTICS MANAGEMENT, LLC",
+        "recipient_uei": "LLMHPD1Q3X51"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000066_7012_70CDCR25D00000054_7012/",
+      "uei": "LLMHPD1Q3X51"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-",
+      "description": "JANITORIAL/CUSTODIAL SERVICES AT FORT BENNING, GA TO SUPPORT OFTP",
+      "frozen_name": "A-ACTION FACILITY SERVICES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Black American Owned Business",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "DoT Certified Disadvantaged Business Enterprise",
+          "Economically Disadvantaged Women Owned Small Business",
+          "Minority Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Veteran Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "02877207-6deb-b557-0ea7-688d6ccce8c8-C",
+        "recipient_name": "A-ACTION FACILITY SERVICES, INC.",
+        "recipient_uei": "LTZPLD2SJKW3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW22C00000006_7012_-NONE-_-NONE-/",
+      "uei": "LTZPLD2SJKW3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012",
+      "description": "DETENTION MANAGEMENT SERVICES PUERTO RICO",
+      "frozen_name": "AKIMA GLOBAL SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "566dbc48-1f9d-f4fe-4b82-d44ed548c602-C",
+        "recipient_name": "AKIMA GLOBAL SERVICES, LLC",
+        "recipient_uei": "LUDNH5K4XQU9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23FR0000036_7012_70CDCR23D00000004_7012/",
+      "uei": "LUDNH5K4XQU9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW20P00000014_7012_-NONE-_-NONE-",
+      "description": "AIR QUALITY TESTING",
+      "frozen_name": "H. M. PITT LABS, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "9de717d9-23ba-fb37-453c-89614ecc02b3-C",
+        "recipient_name": "H. M. PITT LABS, INC.",
+        "recipient_uei": "M6F7EMK12F83"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW20P00000014_7012_-NONE-_-NONE-/",
+      "uei": "M6F7EMK12F83"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000077_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES ICE OFFICE OF HUMAN CAPITAL WITH A 3-DAY VENUE FOR THE ICE HIRING EXPO IN ARLINGTON TEXAS TO RECRUIT FEDERAL LAW ENFORCEMENT CANDIDATES",
+      "frozen_name": "CITY OF ARLINGTON",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "7242bd4f-d286-d9b7-7425-ac67765ef820-C",
+        "recipient_name": "CITY OF ARLINGTON",
+        "recipient_uei": "M9S6A9ZTVB11"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000077_7012_-NONE-_-NONE-/",
+      "uei": "M9S6A9ZTVB11"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732",
+      "description": "IGF::OT::IGF OPERATIONS AND MAINTENANCE AT SPC BATAVIA, NY",
+      "frozen_name": "CHENEGA FACILITIES MANAGEMENT LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "ae2f4489-d823-c019-baaf-6886bb68e5fe-C",
+        "recipient_name": "CHENEGA FACILITIES MANAGEMENT LLC",
+        "recipient_uei": "MJNJZE4LAHP6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW18FR0000002_7012_GS06Q16BQDS105_4732/",
+      "uei": "MJNJZE4LAHP6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-",
+      "description": "JANITORIAL SERVICES TO SUPPORT OFTP FACILITY IN PA",
+      "frozen_name": "PAUL LEE",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Asian Pacific American Owned Business",
+          "Category Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b96b4394-9bd1-2ed8-305e-5b78d137e420-C",
+        "recipient_name": "PAUL LEE",
+        "recipient_uei": "MLBYE6TCRT59"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23C00000021_7012_-NONE-_-NONE-/",
+      "uei": "MLBYE6TCRT59"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "DISASTER MANAGEMENT GROUP, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "fd66f3f3-7573-80b7-f6ee-22e7a4f01da3-C",
+        "recipient_name": "DISASTER MANAGEMENT GROUP, LLC",
+        "recipient_uei": "MLLGWJ8ZZ2S3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000058_7012_70CDCR25D00000055_7012/",
+      "uei": "MLLGWJ8ZZ2S3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-",
+      "description": "UNARMED GUARD SERVICES",
+      "frozen_name": "DENVER HEALTH AND HOSPITAL AUTHORITY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "Hospital",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government",
+          "Special Designations"
+        ],
+        "recipient_hash": "dfa7ce4a-d4d7-797d-919b-8a8b8fa1eda3-C",
+        "recipient_name": "DENVER HEALTH AND HOSPITAL AUTHORITY",
+        "recipient_uei": "MMT4LGM4H9Z5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23P00000029_7012_-NONE-_-NONE-/",
+      "uei": "MMT4LGM4H9Z5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "VISION QUEST SOLUTIONS INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "American Indian Owned Business",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "309d0a19-442f-d98b-1839-d99d68295358-C",
+        "recipient_name": "VISION QUEST SOLUTIONS INC",
+        "recipient_uei": "MNA3EF2HHKE5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000084_7012_70CDCR25D00000029_7012/",
+      "uei": "MNA3EF2HHKE5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000138_7012_GS07F0235U_4730",
+      "description": "THIS AWARD PROVIDES BALLISTIC HELMET MOUNTS TO SUPPORT LAW ENFORCEMENT OPERATIONS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.",
+      "frozen_name": "NORD/ATLANTIC TRADING, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f1c65298-a5dc-75b2-df78-fd7b6d8fab7b-C",
+        "recipient_name": "NORD/ATLANTIC TRADING, INC.",
+        "recipient_uei": "MNKVKE1GA1N5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000138_7012_GS07F0235U_4730/",
+      "uei": "MNKVKE1GA1N5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "LUKE & ASSOCIATES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "7e6bbbf3-7353-fa7a-f087-0dd6c8a38beb-C",
+        "recipient_name": "LUKE & ASSOCIATES, INC.",
+        "recipient_uei": "MT3CJK6XGNF8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000063_7012_70CDCR25D00000059_7012/",
+      "uei": "MT3CJK6XGNF8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000129_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD IS FOR THE PROCUREMENT OF POLYGRAPH SYSTEMS AND SUPPLIES TO SUPPORT THE IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) OFFICE OF PROFESSIONAL RESPONSIBILITY (OPR).  THESE ARE REQUIRED TO FACILITATE OPR'S MISSION TO IMPROVE TACTICAL PROFICI",
+      "frozen_name": "LAFAYETTE INSTRUMENT COMPANY, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Manufacturer of Goods",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "087099fb-3052-5a44-1d97-fd0b377b2804-C",
+        "recipient_name": "LAFAYETTE INSTRUMENT COMPANY, LLC",
+        "recipient_uei": "MVBQJL4JQ6G1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000129_7012_-NONE-_-NONE-/",
+      "uei": "MVBQJL4JQ6G1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732",
+      "description": "ENTERPRISE INFRASTRUCTURE SERVICES (EIS) CONTRACT FOR THE TRANSITION -DATA.",
+      "frozen_name": "AT&T ENTERPRISES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d96f3486-0fa5-045a-5da7-9cffc0b4a114-C",
+        "recipient_name": "AT&T ENTERPRISES, LLC",
+        "recipient_uei": "MX89BGD5FK75"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD021FR0000018_7012_GS00Q17NSD3000_4732/",
+      "uei": "MX89BGD5FK75"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25FR0000129_7012_70CMSW25D00000002_7012",
+      "description": "THIS AWARD PROVIDES 9MM LUGER READILY IDENTIFIABLE TRAINING AMMUNITION (RITA) TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).",
+      "frozen_name": "OLIN WINCHESTER LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Manufacturer of Goods",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "29988f19-69cd-6f9f-b446-cdc58e30b728-C",
+        "recipient_name": "OLIN WINCHESTER LLC",
+        "recipient_uei": "MXB2U9UM7TL5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25FR0000129_7012_70CMSW25D00000002_7012/",
+      "uei": "MXB2U9UM7TL5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "INDUSTRIAL TENT SYSTEMS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "2c00cb27-6024-d96f-b692-7a4e15eb6a3b-C",
+        "recipient_name": "INDUSTRIAL TENT SYSTEMS, LLC",
+        "recipient_uei": "N7GNTMBL69K5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000079_7012_70CDCR25D00000044_7012/",
+      "uei": "N7GNTMBL69K5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD22P00000035_7012_-NONE-_-NONE-",
+      "description": "FIBER OPTIC SERVICES TO SUPPORT ASAC GUAM VECS PROGRAM",
+      "frozen_name": "DOCOMO PACIFIC, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Not Designated a Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "cf8e6ced-8cf6-074e-726b-31a4725969ee-C",
+        "recipient_name": "DOCOMO PACIFIC, INC.",
+        "recipient_uei": "NENAMR865QN6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD22P00000035_7012_-NONE-_-NONE-/",
+      "uei": "NENAMR865QN6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR21P00000019_7012_-NONE-_-NONE-",
+      "description": "SUBSCRIPTION TO ACCESS STATE OF OHIO MULTI-AGENCY RADIO COMMUNICATION SYSTEM (MARCS)",
+      "frozen_name": "OHIO DEPARTMENT OF ADMINISTRATIVE SERVICES",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "cd18604d-420d-8b36-371e-84336af861b4-C",
+        "recipient_name": "OHIO DEPARTMENT OF ADMINISTRATIVE SERVICES",
+        "recipient_uei": "NMX3DMNLQHU5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR21P00000019_7012_-NONE-_-NONE-/",
+      "uei": "NMX3DMNLQHU5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23FR0000007_7012_GS00Q14OADS206_4732",
+      "description": "TASK ORDER FOR OCFO'S FINANCIAL STATEMENT REPORTING AND ANALYSIS SUPPORT SERVICES.",
+      "frozen_name": "HAMILTON ENTERPRISES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Black American Owned Business",
+          "Category Business",
+          "DoT Certified Disadvantaged Business Enterprise",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "4a577d1f-cb98-ac94-2e77-036dbef6d765-C",
+        "recipient_name": "HAMILTON ENTERPRISES, LLC",
+        "recipient_uei": "NQFJGDLJDLN1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW23FR0000007_7012_GS00Q14OADS206_4732/",
+      "uei": "NQFJGDLJDLN1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000137_7012_-NONE-_-NONE-",
+      "description": "VICARIOUS HUMAN TRAFFICKING TRAUMA AWARENESS TRAINING",
+      "frozen_name": "DALLAS CHILDRENS ADVOCACY CENTER",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f89e6ca6-380e-897b-f25c-57e8ff6c69e5-C",
+        "recipient_name": "DALLAS CHILDRENS ADVOCACY CENTER",
+        "recipient_uei": "NRRRALJ1H919"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000137_7012_-NONE-_-NONE-/",
+      "uei": "NRRRALJ1H919"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR20P00000044_7012_-NONE-_-NONE-",
+      "description": "RADIO PROGRAMMING WILL ALLOW OFFICERS TO COMMUNICATE WITH LOCAL LAW ENFORCEMENT.",
+      "frozen_name": "UTAH COMMUNICATIONS AUTHORITY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "ee12f1ee-d037-56d3-42d7-99031399af4c-C",
+        "recipient_name": "UTAH COMMUNICATIONS AUTHORITY",
+        "recipient_uei": "P33MHG98ZU64"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR20P00000044_7012_-NONE-_-NONE-/",
+      "uei": "P33MHG98ZU64"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26FC0000040_7012_70RDAD22A00000001_7001",
+      "description": "THIS AWARD PROVIDES FURNITURE, INSTALLATION AND DELIVERY SERVICES TO SUPPORT ICE- OFFICE OF ASSET AND FACILITIES MANAGEMENT AT AN ICE HSI OFFICE IN PUERTO RICO.",
+      "frozen_name": "PRICE MODERN LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f747ad41-d1dc-cb51-7751-965aea4bb4a6-C",
+        "recipient_name": "PRICE MODERN LLC",
+        "recipient_uei": "P4XNSMKPNGM5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26FC0000040_7012_70RDAD22A00000001_7001/",
+      "uei": "P4XNSMKPNGM5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-",
+      "description": "VEHICLE REPAIR",
+      "frozen_name": "DLK INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "2d4f200d-e784-4125-0626-e9a7160c3db0-C",
+        "recipient_name": "DLK INC",
+        "recipient_uei": "P7HULKXXD154"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000153_7012_-NONE-_-NONE-/",
+      "uei": "P7HULKXXD154"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "INGENESIS INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Woman Owned Business"
+        ],
+        "recipient_hash": "b7466c92-2509-0514-42e8-88d4b520d390-C",
+        "recipient_name": "INGENESIS INC",
+        "recipient_uei": "PC8MDM9DDWT6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000080_7012_70CDCR25D00000047_7012/",
+      "uei": "PC8MDM9DDWT6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-",
+      "description": "PURCHASE ORDER FOR FIREARMS RANGE FACILITY RENTAL FOR THE TRAINING OF LAW ENFORCEMENT OFFICERS AT ST. PAUL AREA OF RESPONSIBILITY",
+      "frozen_name": "CITY OF COTTAGE GROVE",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "c66ccc5b-80dd-f631-0d62-c5fb00dcb82c-C",
+        "recipient_name": "CITY OF COTTAGE GROVE",
+        "recipient_uei": "PUH4LGL9L1G9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000021_7012_-NONE-_-NONE-/",
+      "uei": "PUH4LGL9L1G9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000118_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES NEEDED REPAIRS TO AN ICE HOMELAND SECURITY INVESTIGATIONS FLEET VEHICLE IN FT STOCKTON, TX USED IN LAW ENFORCEMENT OPERATIONS AND INVESTIGATIONS.",
+      "frozen_name": "STOCKTON FORD, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "215a405a-4b29-8695-2853-41084595fa65-C",
+        "recipient_name": "STOCKTON FORD, INC.",
+        "recipient_uei": "Q6E8KHWNKTA5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000118_7012_-NONE-_-NONE-/",
+      "uei": "Q6E8KHWNKTA5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26C00000001_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES CONSTRUCTION & DESIGN QUALITY ASSURANCE SERVICES TO SUPPORT ICE- OFFICE OF ASSET AND FACILITY MANAGEMENT (OAFM).",
+      "frozen_name": "ONEIDA-STANTEC JV LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "American Indian Owned Business",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Partnership or Limited Liability Partnership",
+          "SBA Certified 8 a Joint Venture",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Tribally Owned Firm",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "5007784d-aaba-aba9-fc3f-683c089b4e2d-C",
+        "recipient_name": "ONEIDA-STANTEC JV LLC",
+        "recipient_uei": "Q75KA2PDMP88"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26C00000001_7012_-NONE-_-NONE-/",
+      "uei": "Q75KA2PDMP88"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25C00000023_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES DESIGN & BUILD SERVICE FOR THE RENOVATION OF THE EXISTING BLDG. 37 TO ACCOMMODATE A NEW LAUNDRY OPERATION AT THE PORT ISABEL DETENTION CENTER (PIDC) FOR THE OFFICE OF ASSET AND FACILITIES MANAGEMENT (OAFM).",
+      "frozen_name": "BRISTOL BUILDING CONSTRUCTORS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "67b03af2-a79b-f1a6-d3fb-1291776f9c74-C",
+        "recipient_name": "BRISTOL BUILDING CONSTRUCTORS LLC",
+        "recipient_uei": "Q9F1H8XLKHB8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25C00000023_7012_-NONE-_-NONE-/",
+      "uei": "Q9F1H8XLKHB8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000073_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES ICE ENFORCEMENT AND REMOVAL OPERATIONS MARYLAND WITH INSTALLATION OF LAW ENFORCEMENT SAFETY EQUIPMENT ON A FLEET VEHICLE.",
+      "frozen_name": "FRONTLINE MOBILE TECH, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "9143e218-278a-4ebf-9cab-d3667b6c5c73-C",
+        "recipient_name": "FRONTLINE MOBILE TECH, LLC",
+        "recipient_uei": "QC1FRENYMH26"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000073_7012_-NONE-_-NONE-/",
+      "uei": "QC1FRENYMH26"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-",
+      "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT THE CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX.",
+      "frozen_name": "AMENTUM SERVICES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "fe5366b4-84c8-12ff-126f-f123de29819c-C",
+        "recipient_name": "AMENTUM SERVICES, INC.",
+        "recipient_uei": "QEMLRQA7PLG4"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-/",
+      "uei": "QEMLRQA7PLG4"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD020FC0000078_7012_70CTD019A00000004_7012",
+      "description": "ANNUAL TABLEAU LICENCE RENEWAL",
+      "frozen_name": "COPPER RIVER ENTERPRISE SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "Tribally Owned Firm",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "da172dd4-d50e-1e3c-caeb-1548af0b00fe-C",
+        "recipient_name": "COPPER RIVER ENTERPRISE SERVICES, LLC",
+        "recipient_uei": "QHF1FV2KBGH8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD020FC0000078_7012_70CTD019A00000004_7012/",
+      "uei": "QHF1FV2KBGH8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000124_7012_-NONE-_-NONE-",
+      "description": "1/2 DAY TRAINING FOR THE BOLT LEADERSLHIP CONFERENCE POP:  09/17/2024 SUGGESTED SOURCE:  GEORGE WASHINGTON MOUNT VERNON INSTITUTE COR:  MARILYN DOTY ACOR:  MARK GONZALES",
+      "frozen_name": "THE MOUNT VERNON LADIES' ASSOCIATION OF THE UNION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "07e5d88a-2bb1-4829-5796-15d8b1532ec0-C",
+        "recipient_name": "THE MOUNT VERNON LADIES' ASSOCIATION OF THE UNION",
+        "recipient_uei": "QNDUMY6NRQS1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000124_7012_-NONE-_-NONE-/",
+      "uei": "QNDUMY6NRQS1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25P00000046_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES FORD MUSTANG GT FASTBACK VEHICLES, FOR AGENCY PURPOSES, ON BEHALF OF OFFICE OF ASSET AND FACILITIES MANAGEMENT.",
+      "frozen_name": "BANISTER FORD OF MARLOW HEIGHTS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Black American Owned Business",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "587e5d80-0e2b-695b-c8b3-9c7462459672-C",
+        "recipient_name": "BANISTER FORD OF MARLOW HEIGHTS LLC",
+        "recipient_uei": "QVZKF2EPMLT7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25P00000046_7012_-NONE-_-NONE-/",
+      "uei": "QVZKF2EPMLT7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25P00000007_7012_-NONE-_-NONE-",
+      "description": "FIRING RANGE",
+      "frozen_name": "IMPERIAL VALLEY RIFLE & PISTOL ASSOCIATION INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "add62477-dc56-07d7-ad77-b7015626fbe0-C",
+        "recipient_name": "IMPERIAL VALLEY RIFLE & PISTOL ASSOCIATION INC",
+        "recipient_uei": "QWQDFDCNJ2H3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25P00000007_7012_-NONE-_-NONE-/",
+      "uei": "QWQDFDCNJ2H3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-",
+      "description": "ARMORED VEHICLE REPAIR",
+      "frozen_name": "OURISMAN DODGE, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "6030a4d1-de89-372b-4007-7f06b1328108-C",
+        "recipient_name": "OURISMAN DODGE, INC.",
+        "recipient_uei": "RKF9M2VP5JS6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000118_7012_-NONE-_-NONE-/",
+      "uei": "RKF9M2VP5JS6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "V2X SYSTEMS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "385c148c-559c-6218-53ff-80836c64dc4c-C",
+        "recipient_name": "V2X SYSTEMS LLC",
+        "recipient_uei": "RRFJZGASZJ41"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000085_7012_70CDCR25D00000018_7012/",
+      "uei": "RRFJZGASZJ41"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD025P00000001_7012_-NONE-_-NONE-",
+      "description": "QUANTUM TAPE MAINTENANCE RENEWAL VIA FIRST SOURCE III, CTR# TBD, POP 11/1/2024-10/31/2025. ACOR: JEFFREY HOWARD. [CONTACT EMAIL REMOVED] [CONTACT PHONE REMOVED]",
+      "frozen_name": "CHESAPEAKE SYSTEMS INTERNATIONAL, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "d43a5d8d-8231-9eea-ae87-ca706fd90087-C",
+        "recipient_name": "CHESAPEAKE SYSTEMS INTERNATIONAL, LLC",
+        "recipient_uei": "RW46YPUKDTV5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD025P00000001_7012_-NONE-_-NONE-/",
+      "uei": "RW46YPUKDTV5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732",
+      "description": "THE PURPOSE OF THIS AWARD IS TO PROVIDE SPECIALIZED TACTICAL TRAINING FOR NATIONAL LEVEL SELECTION PROCESS FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP)",
+      "frozen_name": "TOMAHAWK STRATEGIC SOLUTIONS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "3807426d-d835-d48c-e1f9-5c7a886e314b-C",
+        "recipient_name": "TOMAHAWK STRATEGIC SOLUTIONS LLC",
+        "recipient_uei": "RW9CJ1Z2M9H1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26FR0000036_7012_47QSWA20D002T_4732/",
+      "uei": "RW9CJ1Z2M9H1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR20P00000045_7012_-NONE-_-NONE-",
+      "description": "FIREARMS QUALIFATIONS AND TRAINING",
+      "frozen_name": "LONG BEACH, CITY OF",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "fc9da04b-3087-4fa2-543b-d88d9215b9fe-C",
+        "recipient_name": "LONG BEACH, CITY OF",
+        "recipient_uei": "RX9JLN13KYH6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR20P00000045_7012_-NONE-_-NONE-/",
+      "uei": "RX9JLN13KYH6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25P00000073_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES A TRAILER FOR LAW ENFORCEMENT PERSONNEL TO STORE TACTICAL GEAR WHEN DEPLOYED TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.",
+      "frozen_name": "CHATTAHOOCHEE TRAILER LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "21579488-d4c1-e506-77b7-bfa98878a619-C",
+        "recipient_name": "CHATTAHOOCHEE TRAILER LLC",
+        "recipient_uei": "S4L3MKALDM23"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25P00000073_7012_-NONE-_-NONE-/",
+      "uei": "S4L3MKALDM23"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD20P00000171_7012_-NONE-_-NONE-",
+      "description": "LEASE OF PARKING SPACES",
+      "frozen_name": "RED ORANGE NORTH AMERICA INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "fb964615-956b-77c8-a42b-2bf2dfb4e850-C",
+        "recipient_name": "RED ORANGE NORTH AMERICA INC.",
+        "recipient_uei": "S8NPX3Q8MQH3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD20P00000171_7012_-NONE-_-NONE-/",
+      "uei": "S8NPX3Q8MQH3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-",
+      "description": "OPERATIONS AND MAINTENANCE SERVICES FOR BROADVIEW, HUNTSVILLE, AND OAKDALE IRP FACILITIES",
+      "frozen_name": "CHENEGA TRI-SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Not Designated a Small Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "10772fcd-ed7d-a488-8d62-9e5b00c89f1a-C",
+        "recipient_name": "CHENEGA TRI-SERVICES, LLC",
+        "recipient_uei": "SFKFN7RQHNV3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW19C00000001_7012_-NONE-_-NONE-/",
+      "uei": "SFKFN7RQHNV3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR21P00000009_7012_-NONE-_-NONE-",
+      "description": "NETWORK ACCESS",
+      "frozen_name": "SAN DIEGO, COUNTY OF",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "154bee59-212a-ac82-c33e-8c8bcc7c7b6e-C",
+        "recipient_name": "SAN DIEGO, COUNTY OF",
+        "recipient_uei": "SG98APEZBLZ6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR21P00000009_7012_-NONE-_-NONE-/",
+      "uei": "SG98APEZBLZ6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW26P00000024_7012_-NONE-_-NONE-",
+      "description": "THIS PURCHASE ORDER IS TO PROVIDE PARKING SPOTS BY HSI AGENTS IN HARTFORD, CT TO SUPPORT ICE- HOMELAND SECURITY INVESTIGATION (HSI).",
+      "frozen_name": "PRO PARK, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "38ee7e82-76de-c4e1-a7f8-36d617828efe-C",
+        "recipient_name": "PRO PARK, LLC",
+        "recipient_uei": "SHBNTMHAJAB3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW26P00000024_7012_-NONE-_-NONE-/",
+      "uei": "SHBNTMHAJAB3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "KASTEL ENTERPRISES MK LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Category Business",
+          "DoT Certified Disadvantaged Business Enterprise",
+          "HUBZone Firm",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "5812624e-9ef8-1323-cb8e-ea63b0765b29-C",
+        "recipient_name": "KASTEL ENTERPRISES MK LLC",
+        "recipient_uei": "SVC5U6D9JNQ5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000050_7012_70CDCR25D00000030_7012/",
+      "uei": "SVC5U6D9JNQ5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24FR0000196_7012_GS02F0151U_4730",
+      "description": "UPS BACKUPS",
+      "frozen_name": "TRI-STATE CAMERA EXCH. INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Economically Disadvantaged Women Owned Small Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Veteran Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "afbafee2-701a-cf78-84e5-94acd645d47e-C",
+        "recipient_name": "TRI-STATE CAMERA EXCH. INC.",
+        "recipient_uei": "T3NKFUYR8KB1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24FR0000196_7012_GS02F0151U_4730/",
+      "uei": "T3NKFUYR8KB1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD19P00000020_7012_-NONE-_-NONE-",
+      "description": "SUPPLY OF LICENSES",
+      "frozen_name": "MOTOR VEHICLES, NEW YORK STATE DEPARTMENT OF",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "741418ea-1477-9d20-a18a-a8acaceaa680-C",
+        "recipient_name": "MOTOR VEHICLES, NEW YORK STATE DEPARTMENT OF",
+        "recipient_uei": "T4WYLHF3JR49"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD19P00000020_7012_-NONE-_-NONE-/",
+      "uei": "T4WYLHF3JR49"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000012_7012_-NONE-_-NONE-",
+      "description": "COURT REPORTING",
+      "frozen_name": "GERALD HANSON & ASSOCIATES, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "e6bb5b4d-4128-f242-d40d-2767828e9668-C",
+        "recipient_name": "GERALD HANSON & ASSOCIATES, INC.",
+        "recipient_uei": "TASECLDB7R59"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000012_7012_-NONE-_-NONE-/",
+      "uei": "TASECLDB7R59"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "GUARDIAN 6 SOLUTIONS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "ec8f7750-3100-32bc-3c1b-973861f605f8-C",
+        "recipient_name": "GUARDIAN 6 SOLUTIONS LLC",
+        "recipient_uei": "TTLUYN248DA1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000077_7012_70CDCR25D00000038_7012/",
+      "uei": "TTLUYN248DA1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000116_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES THE RENTAL OF INDOOR PARKING GARAGE SPACES REQUIRED FOR GOVERNMENT VEHICLES FOR ICE HOMELAND SECURITY INVESTIGATIONS PHILADELPHIA.",
+      "frozen_name": "PHILADELPHIA PARKING AUTHORITY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "U.S. Government Authorities",
+          "Category Business",
+          "Government",
+          "U.S. National Government",
+          "Not Designated a Small Business",
+          "U.S. Regional/State Government"
+        ],
+        "recipient_hash": "2ef96c9b-dd40-2c65-5249-831323e23263-C",
+        "recipient_name": "PHILADELPHIA PARKING AUTHORITY",
+        "recipient_uei": "U8LTFJCZLK68"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000116_7012_-NONE-_-NONE-/",
+      "uei": "U8LTFJCZLK68"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ASPEN MEDICAL USA INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Not Designated a Small Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "4422e221-b924-1c82-2364-3bfe43f5388c-C",
+        "recipient_name": "ASPEN MEDICAL USA INC",
+        "recipient_uei": "UF3FMLEAWT13"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000078_7012_70CDCR25D00000031_7012/",
+      "uei": "UF3FMLEAWT13"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "UNIVERSAL STRATEGIC ADVISORS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "cdd10768-69cb-edc6-c189-e399a4e7aee9-C",
+        "recipient_name": "UNIVERSAL STRATEGIC ADVISORS LLC",
+        "recipient_uei": "UKQUPVHWM6V9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000059_7012_70CDCR25D00000057_7012/",
+      "uei": "UKQUPVHWM6V9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000098_7012_70CDCR23D00000013_7012",
+      "description": "THIS DELIVERY ORDER IS ISSUED TO PROVIDE AND DELIVER MEALS TO ICE DETAINEES WITHIN THE SAN DIEGO AREA OF RESPONSIBILITY.",
+      "frozen_name": "LOW KOUNTRY INK MOBILE NOTARY LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Black American Owned Business",
+          "Category Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Sole Proprietorship",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business"
+        ],
+        "recipient_hash": "857877f7-3069-d8dd-01d1-3f42f606c5ba-C",
+        "recipient_name": "LOW KOUNTRY INK MOBILE NOTARY LLC",
+        "recipient_uei": "USNZM57HK7A5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000098_7012_70CDCR23D00000013_7012/",
+      "uei": "USNZM57HK7A5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000103_7012_-NONE-_-NONE-",
+      "description": "RADII LICENSE",
+      "frozen_name": "COUNTY OF PALM BEACH",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "696b80f3-a39a-43a2-857f-57a7b28320b3-C",
+        "recipient_name": "COUNTY OF PALM BEACH",
+        "recipient_uei": "UZA2MELMDZZ1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000103_7012_-NONE-_-NONE-/",
+      "uei": "UZA2MELMDZZ1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25C00000003_7012_-NONE-_-NONE-",
+      "description": "THIS CONTRACT PROVIDES FIRING RANGE SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS OFFICERS IN THE SAN FRANCISCO AREA OF RESPONSIBILITY UNDER FIRM FIXED PRICE TERMS AND CONDITIONS.",
+      "frozen_name": "CALIFORNIA HIGHWAY PATROLMANS CLUB",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "Nonprofit Organization",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "0a64d337-15f6-90ea-1006-03a8a28565ce-C",
+        "recipient_name": "CALIFORNIA HIGHWAY PATROLMANS CLUB",
+        "recipient_uei": "V84BBXQ5YXT8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25C00000003_7012_-NONE-_-NONE-/",
+      "uei": "V84BBXQ5YXT8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732",
+      "description": "HSI SAN DIEGO REQUIREMENT FOR MEDICAL GUARDS AND TRANSPORTATION SERVICES  FOR BASE YEAR 9/23/2024 TO 9/22/2025 PLUS FOUR (4) OPTION YEARS COR:: CYNTHIA M MANALO - [CONTACT PHONE REMOVED] ALT COR: ABRAHAM MOR",
+      "frozen_name": "STARSIDE SECURITY & INVESTIGATION INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "01420496-6951-a59d-e2a9-29d6cfd3347a-C",
+        "recipient_name": "STARSIDE SECURITY & INVESTIGATION INC",
+        "recipient_uei": "VYUMS7L1EGL1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24FR0000162_7012_47QSMS24D0063_4732/",
+      "uei": "VYUMS7L1EGL1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000080_7012_15M40026DA3500012_1544",
+      "description": "THE PURPOSE OF THIS CONTRACT IS FOR MENTAL HEALTH SUPPORT FOR ALIENS IN ICE CUSTODY.",
+      "frozen_name": "RECOVERY SOLUTIONS OF SOUTH CAROLINA, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Hospital",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "642809b5-3513-d8fa-4327-fab922c59bc7-C",
+        "recipient_name": "RECOVERY SOLUTIONS OF SOUTH CAROLINA, LLC",
+        "recipient_uei": "W1KTDYYP2SD6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000080_7012_15M40026DA3500012_1544/",
+      "uei": "W1KTDYYP2SD6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25P00000057_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROCURES UPFIT, GRAPHIC WRAP DESIGN AND APPLICATION FOR LAW ENFORCEMENT VEHICLES, ON BEHALF OF OFFICE OF ASSET AND FACILITIES MANAGEMENT.",
+      "frozen_name": "CASTLE HILL PARTNERS, INC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "fc53c17a-9fd5-c52b-3123-5a333b2100d0-C",
+        "recipient_name": "CASTLE HILL PARTNERS, INC",
+        "recipient_uei": "W32AQK4BCKG3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25P00000057_7012_-NONE-_-NONE-/",
+      "uei": "W32AQK4BCKG3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR22P00000006_7012_-NONE-_-NONE-",
+      "description": "RENTAL OF SECURE INDOOR FIRING RANGE FACILITY",
+      "frozen_name": "TOWN OF LANCASTER",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "b637c575-bc9b-c4a5-8511-90d5791c1d3e-C",
+        "recipient_name": "TOWN OF LANCASTER",
+        "recipient_uei": "W3HVB3149KQ9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR22P00000006_7012_-NONE-_-NONE-/",
+      "uei": "W3HVB3149KQ9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24P00000027_7012_-NONE-_-NONE-",
+      "description": "UPS BATTERIES ANNUAL SERVICE AND MAINTENANCE",
+      "frozen_name": "EOLA POWER LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "907a9a7f-e91a-0c1f-4b1f-b52b92558930-C",
+        "recipient_name": "EOLA POWER LLC",
+        "recipient_uei": "WC4EBR56YXL3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24P00000027_7012_-NONE-_-NONE-/",
+      "uei": "WC4EBR56YXL3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012",
+      "description": "PORT ISABEL SERVICE PROCESSING CENTER GUARD, FOOD AND LOCAL TRANSPORTATION AWARD - FY24 TASK ORDER",
+      "frozen_name": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "89489661-f708-11de-514b-32f2cf26a42d-C",
+        "recipient_name": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+        "recipient_uei": "WGN2KJJD27Q3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR24FR0000005_7012_70CDCR22D00000002_7012/",
+      "uei": "WGN2KJJD27Q3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000125_7012_-NONE-_-NONE-",
+      "description": "THE PURPOSE OF THIS PURCHASE ORDER IS TO ACQUIRE RECEIVERS THAT ARE UTILIZED BY HOMELAND SECURITY INVESTIGATIONS DURING CRIMINAL INVESTIGATIONS.",
+      "frozen_name": "LOCKHEED MARTIN CORPORATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Manufacturer of Goods",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "873a932e-3f41-6fbc-1f80-427d18b96795-C",
+        "recipient_name": "LOCKHEED MARTIN CORPORATION",
+        "recipient_uei": "WUVWJLHRU5A5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000125_7012_-NONE-_-NONE-/",
+      "uei": "WUVWJLHRU5A5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "ACTIVE DEPLOYMENT SYSTEMS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f7631954-3bf7-8f0e-edf9-cd6d104e6ff2-C",
+        "recipient_name": "ACTIVE DEPLOYMENT SYSTEMS, LLC",
+        "recipient_uei": "XXJXSMP4H4J1"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000060_7012_70CDCR25D00000022_7012/",
+      "uei": "XXJXSMP4H4J1"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR22P00000016_7012_-NONE-_-NONE-",
+      "description": "NEW YORK FIRING RANGE",
+      "frozen_name": "WOODLAND PARK RANGE II LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "c4888b7d-c9a7-e8ee-93f1-e43805965e6c-C",
+        "recipient_name": "WOODLAND PARK RANGE II LLC",
+        "recipient_uei": "XYHKU4ZSM7V8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR22P00000016_7012_-NONE-_-NONE-/",
+      "uei": "XYHKU4ZSM7V8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000092_7012_GS00Q17NSD3004_4732",
+      "description": "NEW TASK ORDER - LOCAL TELECOMMUNICATIONS SERVICES \"VOICE\"",
+      "frozen_name": "GRANITE TELECOMMUNICATIONS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "2bea5f6e-cb68-6527-330f-693d8eb174de-C",
+        "recipient_name": "GRANITE TELECOMMUNICATIONS, LLC",
+        "recipient_uei": "XZ4ZUPC1LAK3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD022FR0000092_7012_GS00Q17NSD3004_4732/",
+      "uei": "XZ4ZUPC1LAK3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "LOYAL SOURCE GOVERNMENT SERVICES LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "a11a2c49-b200-c5b0-6719-7b2d0bb9764c-C",
+        "recipient_name": "LOYAL SOURCE GOVERNMENT SERVICES LLC",
+        "recipient_uei": "Y54FQAPG4TN5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000048_7012_70CDCR25D00000058_7012/",
+      "uei": "Y54FQAPG4TN5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700",
+      "description": "ADMINISTRATIVE TRANSFER OF THE DEPARTMENT OF WAR TASK ORDER W9124J25FA075 TO THE US IMMIGRATION AND CUSTOMS ENFORCEMENT FOR DETENTION, TRANSPORTATION AND MEDICAL SERVICES AT CAMP EAST MONTANA TEMPORARY DETENTION CENTER IN EL PASO, TX",
+      "frozen_name": "ACQUISITION LOGISTICS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Hispanic American Owned Business",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "ea7deee4-8b05-e52c-bd8e-c9b2ebca673c-C",
+        "recipient_name": "ACQUISITION LOGISTICS LLC",
+        "recipient_uei": "Y5U3BSK2G389"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700/",
+      "uei": "Y5U3BSK2G389"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000174_7012_-NONE-_-NONE-",
+      "description": "NIGHT VISION & THERMAL DEVICES",
+      "frozen_name": "NOBLE SUPPLY & LOGISTICS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "f1addd3f-8f09-bd87-cec8-f143401629ba-C",
+        "recipient_name": "NOBLE SUPPLY & LOGISTICS, LLC",
+        "recipient_uei": "YLE5AAYNVPK6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000174_7012_-NONE-_-NONE-/",
+      "uei": "YLE5AAYNVPK6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26P00000011_7012_-NONE-_-NONE-",
+      "description": "RANGE SERVICES FOR MANDATORY FIREARMS QUALIFICATIONS",
+      "frozen_name": "RANSOM STODDARD ATLANTA LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Partnership or Limited Liability Partnership",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "b9ccd419-d4a7-3ec5-0e9d-0769b9ba1603-C",
+        "recipient_name": "RANSOM STODDARD ATLANTA LLC",
+        "recipient_uei": "YMMWDH6EKZM6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26P00000011_7012_-NONE-_-NONE-/",
+      "uei": "YMMWDH6EKZM6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000087_7012_70CDCR26D00000036_7012",
+      "description": "THE PURPOSE OF THIS TASK ORDER IS TO MEET THE IDIQ MINIMUM REQUIREMENT OF 1000 CASES FOR SAFETY VERIFICATION AND WELLNESS CHECKS SUPPORT SERVICES.",
+      "frozen_name": "DELTA POINT LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "8(a) Program Participant",
+          "Alaskan Native Corporation Owned Firm",
+          "Category Business",
+          "Corporate Entity Tax Exempt",
+          "DoT Certified Disadvantaged Business Enterprise",
+          "Limited Liability Corporation",
+          "Minority Owned Business",
+          "Native American Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "1e6f7a68-f285-4470-f2aa-8f331b2c4726-C",
+        "recipient_name": "DELTA POINT LLC",
+        "recipient_uei": "YPABB25UK1L3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000087_7012_70CDCR26D00000036_7012/",
+      "uei": "YPABB25UK1L3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000034_7012_GS07F225CA_4732",
+      "description": "THIS ORDER IS FOR ONE-TIME SERVICE AND REPAIR OF THE EXISTING SECURITY SYSTEM AT AN ENFORCEMENT AND REMOVAL OPERATIONS FACILITY IN FAYETTEVILLE, ARKANSAS.",
+      "frozen_name": "JOHNSON CONTROLS SECURITY SOLUTIONS LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "5068bf75-a8a3-af40-b3a0-ba93566e89e1-C",
+        "recipient_name": "JOHNSON CONTROLS SECURITY SOLUTIONS LLC",
+        "recipient_uei": "YV2MG1WKYEQ3"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000034_7012_GS07F225CA_4732/",
+      "uei": "YV2MG1WKYEQ3"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD24P00000173_7012_-NONE-_-NONE-",
+      "description": "ACCESS TO RADIO NETWORK",
+      "frozen_name": "CITY OF KANSAS CITY",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Government",
+          "U.S. Local Government",
+          "U.S. National Government",
+          "Not Designated a Small Business"
+        ],
+        "recipient_hash": "720a9d60-2fe4-989c-07ed-d6af9c04eba1-C",
+        "recipient_name": "CITY OF KANSAS CITY",
+        "recipient_uei": "YWJJK1EQNDD7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD24P00000173_7012_-NONE-_-NONE-/",
+      "uei": "YWJJK1EQNDD7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD025FR0000079_7012_NNG15SC89B_8000",
+      "description": "THIS AWARD PURCHASES CISCO CATALYST SWITCHES AND WIFI TO SUPPORT IMMIGRATION AND CUSTOMS ENFORCEMENT VIDEO TELE-CONFERENCING EQUIPMENT REQUIREMENTS.",
+      "frozen_name": "STERLING COMPUTERS CORPORATION",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Woman Owned Business",
+          "Women Owned Small Business"
+        ],
+        "recipient_hash": "456a17c9-3bd9-f107-77ee-816e474d173e-C",
+        "recipient_name": "STERLING COMPUTERS CORPORATION",
+        "recipient_uei": "YZTLALWM4UC7"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CTD025FR0000079_7012_NNG15SC89B_8000/",
+      "uei": "YZTLALWM4UC7"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD25P00000139_7012_-NONE-_-NONE-",
+      "description": "THIS ORDER PROVIDES DEVICES FOR THE HOMELAND SECURITY TECHNICAL OPERATIONS UNIT TO USE DURING INVESTIGATIONS.",
+      "frozen_name": "ENSURITY MOBILE CORP.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Foreign Owned",
+          "Foreign-Owned and U.S.-Incorporated Business",
+          "Manufacturer of Goods",
+          "Small Business",
+          "Special Designations"
+        ],
+        "recipient_hash": "143906bf-d2c1-ed38-2688-dae55c11bc6e-C",
+        "recipient_name": "ENSURITY MOBILE CORP.",
+        "recipient_uei": "Z2JQKRJ7EWF6"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD25P00000139_7012_-NONE-_-NONE-/",
+      "uei": "Z2JQKRJ7EWF6"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "KIG TECHNICAL SERVICES, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "12fdd481-5209-a4cf-42e1-0b0694c85c9f-C",
+        "recipient_name": "KIG TECHNICAL SERVICES, LLC",
+        "recipient_uei": "Z5JLMFHLJF59"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000053_7012_70CDCR25D00000036_7012/",
+      "uei": "Z5JLMFHLJF59"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "RESPONSE AI SOLUTIONS, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Self-Certified Small Disadvantaged Business",
+          "Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "71953475-2ddf-64ef-24dd-69abe0ea0ad2-C",
+        "recipient_name": "RESPONSE AI SOLUTIONS, LLC",
+        "recipient_uei": "ZE2JVFS8ML75"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000072_7012_70CDCR25D00000024_7012/",
+      "uei": "ZE2JVFS8ML75"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSW25P00000028_7012_-NONE-_-NONE-",
+      "description": "THIS AWARD PROVIDES THE INSTALLATION OF A NEW SECURITY ACCESS CONTROL AND CAMERA SYSTEM TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.",
+      "frozen_name": "ALEXANDER ELECTRIC CO.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "0756bf6a-ec11-a18d-7b14-9c237093e174-C",
+        "recipient_name": "ALEXANDER ELECTRIC CO.",
+        "recipient_uei": "ZGK8GFKKMEJ8"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSW25P00000028_7012_-NONE-_-NONE-/",
+      "uei": "ZGK8GFKKMEJ8"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-",
+      "description": "INTERIM CONTRACT FOR MOC AT NAVAL STATION GUANTANAMO BAY, CUBA",
+      "frozen_name": "MVM, INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Hispanic American Owned Business",
+          "Minority Owned Business",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "79264273-149e-8ef6-92fd-e87fa83f9ca6-C",
+        "recipient_name": "MVM, INC.",
+        "recipient_uei": "ZHJYA5NN32Z5"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR23C00000001_7012_-NONE-_-NONE-/",
+      "uei": "ZHJYA5NN32Z5"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD23P00000023_7012_-NONE-_-NONE-",
+      "description": "ESTABLISH A BASE + TWO OPTIONS CONTRACT FOR SPECIALIZED TRAINING FACILITY AND SUPPORT FOR HSI-IO TRAINING REQUIREMENTS",
+      "frozen_name": "GUARDIAN CENTERS OF GEORGIA, LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Limited Liability Corporation",
+          "Not Designated a Small Business",
+          "Partnership or Limited Liability Partnership",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "a750fe8c-10c8-ca2d-b5f4-2ef08f54eb9c-C",
+        "recipient_name": "GUARDIAN CENTERS OF GEORGIA, LLC",
+        "recipient_uei": "ZJ9HA84KDTJ9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CMSD23P00000023_7012_-NONE-_-NONE-/",
+      "uei": "ZJ9HA84KDTJ9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "XATOR LLC",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Limited Liability Corporation",
+          "Manufacturer of Goods",
+          "Not Designated a Small Business",
+          "Special Designations",
+          "U.S.-Owned Business"
+        ],
+        "recipient_hash": "e3be6629-1714-1015-6fc5-92ae6e24ccb1-C",
+        "recipient_name": "XATOR LLC",
+        "recipient_uei": "ZJFDNMA46LT9"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000083_7012_70CDCR25D00000034_7012/",
+      "uei": "ZJFDNMA46LT9"
+    },
+    {
+      "award_url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012",
+      "description": "THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE FOR EMERGENCY DETENTION AND RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.",
+      "frozen_name": "CADUCEUS INC.",
+      "identity_matches": true,
+      "recipient": {
+        "business_categories": [
+          "Category Business",
+          "Corporate Entity Not Tax Exempt",
+          "Hispanic American Owned Business",
+          "HUBZone Firm",
+          "Minority Owned Business",
+          "Self-Certified Small Disadvantaged Business",
+          "Service Disabled Veteran Owned Business",
+          "Small Business",
+          "Special Designations",
+          "Subchapter S Corporation",
+          "U.S.-Owned Business",
+          "Veteran Owned Business"
+        ],
+        "recipient_hash": "0a0095f2-24a0-9cef-3e08-6e6f13e737df-C",
+        "recipient_name": "CADUCEUS INC.",
+        "recipient_uei": "ZX23KR32ZH32"
+      },
+      "source_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR25FR0000054_7012_70CDCR25D00000033_7012/",
+      "uei": "ZX23KR32ZH32"
+    }
+  ]
+}

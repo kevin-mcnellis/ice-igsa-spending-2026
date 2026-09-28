@@ -1,0 +1,47 @@
+{
+  "active_fragments_sha256": "fd18c2ac552f307f7dfd3062f10ca2637216fa7e4f19539e18f0fa7337ba1d2f",
+  "cases_sha256": "44c023443b88dfb19fd3a08387b49e6642d058aa8b7af063541d6b0375351207",
+  "csv_non_link_fields_equal_original": {
+    "award_facility_pairs.csv": 80,
+    "igsa_group_matches.csv": 12
+  },
+  "files": [
+    {
+      "canonical_source": "File_C_blog_post/provenance/portable_review/outputs/facility_name_screen/award_facility_pairs.csv",
+      "name": "award_facility_pairs.csv",
+      "original_sha256": "acc2cbb3b438427587e3e9f942bfac2841f1974400d97a9b95883e20c13e4c89",
+      "portable_sha256": "152e33621b144b0b64d412c8c917b8d2d300fc59d52848b75b72f19cdca3f38f",
+      "target": "outputs/facility_name_screen/award_facility_pairs.csv"
+    },
+    {
+      "canonical_source": "File_C_blog_post/provenance/portable_review/outputs/facility_name_screen/verification.json",
+      "name": "verification.json",
+      "original_sha256": "d3d5d54f44ce39729c31f4b11db4493965e5abac9d43b10ccd1fbd4cd1389e85",
+      "portable_sha256": "19c57917839429a6868219c86e240ebf05beae56637ccea2c0b0c2e46ff8ef8c",
+      "target": "outputs/facility_name_screen/verification.json"
+    },
+    {
+      "canonical_source": "File_C_blog_post/provenance/portable_review/outputs/facility_name_screen/igsa_group_matches.csv",
+      "name": "igsa_group_matches.csv",
+      "original_sha256": "ca1ef078f8b0a3b3a21e27cd4b91bb0eb7c8b27352815b17fb0ee19f53332607",
+      "portable_sha256": "a45f07b0537a6124a32452a4bfbb91cea3d345a837ca68429c39259cf0246f00",
+      "target": "outputs/facility_name_screen/igsa_group_matches.csv"
+    },
+    {
+      "canonical_source": "File_C_blog_post/provenance/portable_review/outputs/facility_name_screen/statistics_check.json",
+      "name": "statistics_check.json",
+      "original_sha256": "efc5accc11a86a8cc0d557623f247a893199f3692937f353f193d3c828e5b7b9",
+      "portable_sha256": "f28e3525a4d1b4158b3b2f0a69cc2d75a1fae516bbb19cd0bf3ae0bd1a3764c1",
+      "target": "outputs/facility_name_screen/statistics_check.json"
+    }
+  ],
+  "limits": "Original receipts contain canonical path and prior review metadata. Portable receipts record release-relative sources and privacy-safe reviewed-input lineage; the 80 pair and 12 IGSA match rows retain all non-link fields and the checked group totals.",
+  "panel_sha256": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b",
+  "run_command": "PYTHONPATH=. python3 -B File_C_blog_post/codex-scripts/portable_rehearsal.py",
+  "schema": "portable-facility-screen-outputs-1",
+  "screen_code_sha256": "4201a88071942fbac2daaa993158bb306a120a36bd9c6b92efb94460ffc2b4f5",
+  "screen_technical_status": "PASS",
+  "source_manifest_sha256": "9352f2a69f9302f1e13dc0b9e4917484a226bb27c13bf423fa262f18cd6304e0",
+  "statistics_status": "PASS",
+  "two_independent_runs_same_hashes": true
+}

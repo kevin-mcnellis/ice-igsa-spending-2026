@@ -1,0 +1,39 @@
+{
+  "analysis": {
+    "excluded_state_facilities": 1,
+    "excluded_state_facility_id": "fac_c4ee62ad80155a6caa879e7c9f16214b",
+    "excluded_state_facility_name": "BAKER CORRECTIONAL INSTITUTION",
+    "excluded_state_reported_adp": "963.441281",
+    "ice_only_facilities": 64,
+    "incomplete_adp_facilities": 0,
+    "limits": "Figure B excludes Baker Correctional Institution, the one July STATE facility; the unchanged Figure A map includes it in its state/local contracting group. Roster agreement type does not establish operator or payment channel. This analysis does not test whether File C captures all IGSA-related detention payments. Negative net amounts have a visual minimum marker at zero. July roster and February 2025-July 2026 obligations use different time frames.",
+    "local_government_entities": 2,
+    "local_government_recipient_keys": 3,
+    "obligations_local": "-28520.00",
+    "obligations_total": "3136530747.79",
+    "observed_facilities": 208,
+    "reported_adp_ice_only": "29834.274026",
+    "reported_adp_state_local": "35790.871887",
+    "reported_adp_total": "62516.733098",
+    "roster_date": "2026-07-09",
+    "source_sha256": {
+      "data/small/facility_name_screen/detention_roster_facility_snapshot_panel.csv": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b",
+      "docs/semantic_rulebook.md": "4d46c9d94f51b9f96dd7200103b8498d9002af4e3b25d32022bdf99a516d9d3f",
+      "outputs/chart_2/recipient_classification.csv": "5148477810c7d4d449d7cc1543c9e2394015c24d0e0070597fb15ba420025285",
+      "outputs/chart_2/recipient_type_totals.csv": "5d40e502de0f837f6c07a693434e9d51db377e27c9739d2312d9e4c1480d1c5c"
+    },
+    "state_local_facilities": 168,
+    "status": "PASS",
+    "usms_iga_facilities": 104
+  },
+  "interpretation_status": "WARN",
+  "output_sha256": {
+    "figure_b.html": "e82a71ffb9bf58818bee3b26115791076a7b456cf39d08380685af8c9ed2f73e",
+    "figure_b.png": "c41fa177a760689824b5ef3454fbe4550a0caefa2ef953462337cf0c1d80fef4",
+    "figure_b.svg": "1752f4d52ceda7b1696d5476477408ca955df1d1cab9f4d56c012f34224aa9e6",
+    "figure_b_data.csv": "88f4d436df97ba2ef80c6b57a7004260842d4ccc4d4e6233e7f64873f1fba45a",
+    "figure_b_mobile.png": "37730e1126beff9b72f1d943fe592e80f2b144b6cc3debbea303f50b5754e357",
+    "figure_b_mobile.svg": "44f2df0b2c6f418da2726a77e4291e58a29a0a24abc956cb7d32b8c97d9099c4"
+  },
+  "technical_status": "PASS"
+}

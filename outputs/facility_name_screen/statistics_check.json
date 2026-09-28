@@ -1,0 +1,142 @@
+{
+  "actual": {
+    "both_group_facility_count": 5,
+    "both_group_facility_names": [
+      "CCA, FLORENCE CORRECTIONAL CENTER",
+      "LA SALLE COUNTY REGIONAL DETENTION CENTER",
+      "MONTGOMERY COUNTY JAIL",
+      "ROBERT A DEYTON DETENTION FACILITY",
+      "T DON HUTTO DETENTION CENTER"
+    ],
+    "broader_state_local_entities_reference_only": 227,
+    "federal_contract_25_4_amount": "2229581023.16",
+    "federal_contract_distinct_awards": 76,
+    "federal_contract_group_entities": 49,
+    "federal_contract_matched_facilities": 21,
+    "federal_contract_share_percent": "71.08",
+    "file_c_25_4_amount": "3136530747.79",
+    "iga_25_4_amount": "96196138.33",
+    "iga_distinct_awards": 12,
+    "iga_group_entities": 224,
+    "iga_matched_facilities": 5,
+    "iga_not_solely_25_4_amount": "78730777.27",
+    "iga_not_solely_facility_names": [
+      "CCA, FLORENCE CORRECTIONAL CENTER",
+      "ROBERT A DEYTON DETENTION FACILITY",
+      "T DON HUTTO DETENTION CENTER"
+    ],
+    "iga_share_percent": "3.07",
+    "roster_entities": 271,
+    "solely_iga_25_4_amount": "17465361.06",
+    "solely_iga_award_piids": [
+      "70CDCR26FR0000058",
+      "70CDCR26FR0000060"
+    ],
+    "solely_iga_facility_ids": [
+      "fac_634a761f7f915b7da95ecf9a40d37123",
+      "fac_c22c29576bef59ae8338b8e10d09e3e2"
+    ]
+  },
+  "blank_file_c_rows": 1961,
+  "both_group_facilities": [
+    {
+      "facility_entity_id": "fac_1b8c22f67a8c50b1bac48c89bf4a2deb",
+      "facility_name": "LA SALLE COUNTY REGIONAL DETENTION CENTER",
+      "observed_labels": [
+        "CDF",
+        "USMS IGA"
+      ]
+    },
+    {
+      "facility_entity_id": "fac_2f4e5d06635352e38d691a7ee2f81ca0",
+      "facility_name": "CCA, FLORENCE CORRECTIONAL CENTER",
+      "observed_labels": [
+        "USMS CDF",
+        "USMS IGA"
+      ]
+    },
+    {
+      "facility_entity_id": "fac_4248bc807b7f536a82964cda4d1807d0",
+      "facility_name": "T DON HUTTO DETENTION CENTER",
+      "observed_labels": [
+        "CDF",
+        "DIGSA"
+      ]
+    },
+    {
+      "facility_entity_id": "fac_c65df41a8a9f5feba2f5ef80192189ab",
+      "facility_name": "MONTGOMERY COUNTY JAIL",
+      "observed_labels": [
+        "IGSA",
+        "USMS CDF",
+        "USMS IGA"
+      ]
+    },
+    {
+      "facility_entity_id": "fac_c8a48494852953c5ae143b0bcdd2a79a",
+      "facility_name": "ROBERT A DEYTON DETENTION FACILITY",
+      "observed_labels": [
+        "USMS CDF",
+        "USMS IGA"
+      ]
+    }
+  ],
+  "code_version_sha256": "3443906126e9f918fb18386ba8b6ede62be37fd7d6bca7001078e823f2d4a888",
+  "expected": {
+    "both_group_facility_count": 5,
+    "both_group_facility_names": [
+      "CCA, FLORENCE CORRECTIONAL CENTER",
+      "LA SALLE COUNTY REGIONAL DETENTION CENTER",
+      "MONTGOMERY COUNTY JAIL",
+      "ROBERT A DEYTON DETENTION FACILITY",
+      "T DON HUTTO DETENTION CENTER"
+    ],
+    "broader_state_local_entities_reference_only": 227,
+    "federal_contract_25_4_amount": "2229581023.16",
+    "federal_contract_distinct_awards": 76,
+    "federal_contract_group_entities": 49,
+    "federal_contract_matched_facilities": 21,
+    "federal_contract_share_percent": "71.08",
+    "file_c_25_4_amount": "3136530747.79",
+    "iga_25_4_amount": "96196138.33",
+    "iga_distinct_awards": 12,
+    "iga_group_entities": 224,
+    "iga_matched_facilities": 5,
+    "iga_not_solely_25_4_amount": "78730777.27",
+    "iga_not_solely_facility_names": [
+      "CCA, FLORENCE CORRECTIONAL CENTER",
+      "ROBERT A DEYTON DETENTION FACILITY",
+      "T DON HUTTO DETENTION CENTER"
+    ],
+    "iga_share_percent": "3.07",
+    "roster_entities": 271,
+    "solely_iga_25_4_amount": "17465361.06",
+    "solely_iga_award_piids": [
+      "70CDCR26FR0000058",
+      "70CDCR26FR0000060"
+    ],
+    "solely_iga_facility_ids": [
+      "fac_634a761f7f915b7da95ecf9a40d37123",
+      "fac_c22c29576bef59ae8338b8e10d09e3e2"
+    ]
+  },
+  "igsa_group_matches_sha256": "a45f07b0537a6124a32452a4bfbb91cea3d345a837ca68429c39259cf0246f00",
+  "igsa_group_pairs": 12,
+  "input_sha256": {
+    "comparison": "b38b2010fe8b57f10d8896303a81b824e7c80e290398a85cdfc0dfd570fa3a59",
+    "pairs": "152e33621b144b0b64d412c8c917b8d2d300fc59d52848b75b72f19cdca3f38f",
+    "panel": "24fb15db3a73d51d0c39068ba2764b60c15247336cd016f88c8c74ffcc2dc19b",
+    "screen_code": "4201a88071942fbac2daaa993158bb306a120a36bd9c6b92efb94460ffc2b4f5",
+    "screen_receipt": "19c57917839429a6868219c86e240ebf05beae56637ccea2c0b0c2e46ff8ef8c"
+  },
+  "limits": "Amounts are signed selected File C 25.4 obligations per distinct award within each group. Groups and award totals overlap; pair rows are not additive facility allocations or proof of IGA payments.",
+  "mismatches": {},
+  "numeric_file_c_rows": 444,
+  "observation_window": {
+    "end": "2026-07-09",
+    "rule": "observed_flag=1; any observed type in window",
+    "start": "2025-01-21"
+  },
+  "status": "PASS",
+  "warnings": []
+}

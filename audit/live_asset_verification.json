@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "bytes": 631213,
+      "http_status": 200,
+      "matches_release_copy": true,
+      "release_target": "outputs/figure_a/panel_2026-07-09_igsa168.png",
+      "sha256": "00bb8b7af3839bd92dbf28a7c2561098bfe21f2534a6e83e953f3cd2060f3fc8",
+      "url": "https://www.kevinmcnellis.com/posts/ICE_IGSA/images/panel_2026-07-09_igsa168.png"
+    },
+    {
+      "bytes": 341962,
+      "http_status": 200,
+      "matches_release_copy": true,
+      "release_target": "outputs/figure_b/figure_b.png",
+      "sha256": "c41fa177a760689824b5ef3454fbe4550a0caefa2ef953462337cf0c1d80fef4",
+      "url": "https://www.kevinmcnellis.com/posts/ICE_IGSA/images/figure_b.png"
+    },
+    {
+      "bytes": 448399,
+      "http_status": 200,
+      "matches_release_copy": true,
+      "release_target": "outputs/gap_chart_draft/gap_chart.png",
+      "sha256": "ecf04c253783c38e03bc580649ad496c7842ebb018cc525ebec3abc82c6d0eb1",
+      "url": "https://www.kevinmcnellis.com/posts/ICE_IGSA/images/gap_chart.png"
+    }
+  ],
+  "checked_at_utc": "2026-09-28T18:05:23Z",
+  "current_page_html_sha256": "cd9d1010745b46e3b47bd00596462b2f5b83408871012d5e50bfac0fe30291e8",
+  "current_page_text_structure_matches_frozen": true,
+  "text_comparison_method": "Compared extracted title, subtitle, paragraph and heading blocks, 21 footnotes, and counts with audit/published_page.text.json using the internal published-page extractor; its code is not bundled.",
+  "frozen_published_text_sha256": "cee9b354cf225abaad7cb481bb172dacaf15b7bb8dd87d422e7f1be869e9c815",
+  "page_http_status": 200,
+  "page_url": "https://www.kevinmcnellis.com/posts/ICE_IGSA/",
+  "schema_version": 1,
+  "scope_note": "A dated HTTP observation of the live article and three image URLs; the earlier review receipts describe historical publication status and do not override this observation."
+}

@@ -1,0 +1,239 @@
+{
+  "cbs_claim_support_record_verified": false,
+  "cbs_report_facts_record_verified": true,
+  "cbs_residual_linkage_verified": false,
+  "cbs_support_summary": "CBS News reports that ICE advanced funds to escrow for detention-facility acquisitions and subsequently used portions to purchase warehouses and CoreCivic facilities. The article does not identify account 070-0545 or link the chart's $4,976,728,000.90 File B-minus-C difference to those purchases.",
+  "cbs_url": "https://www.cbsnews.com/news/ice-spending-detention-capacity-gao-report/",
+  "code_sha256": {
+    "run_gap_chart.py": "986871e255292ad6b0feeda429b408f2658864ea8a1e05309d0ce01a9ad3141b",
+    "scripts/bc_gap.py": "402dfa22d719eeccdbc1fd42dfdbf26afcbec8c58410310c5d40104eebc779f3",
+    "scripts/chart_style.py": "c30b2eb11c327850878ee348892771a43bd18d6fe19d0ddba3f6ddbd6a2d9e31",
+    "scripts/construction_monthly.py": "e96e141febfd77435c78c211044b3e02d1db8e6c9b0d3256ca18b1323eb0c153",
+    "scripts/construction_recipients.py": "9d0f757e79086d6ef70b5974929e34b3aefd03d487bde45672325ddce1d40323",
+    "scripts/gap_program_activity.py": "51a56b1947421d686dfdca8d65438e0b8cb273a3a739304a15335771e242ac6b",
+    "scripts/gap_travel_recipients.py": "21e3b96a8157a56463d4c093be68925ae3472adf338b50633cedb4a56f454330",
+    "scripts/plot_gap_chart.py": "fa6935b655598bdae1529d22b53a03a12e67c4a0a95c355d66801b449a66a8b5",
+    "scripts/prepare_gap_chart.py": "0a3c387350bedfb4389a291d21bb389091175c423e1859f407467ba8844f69f7"
+  },
+  "comparison_source_manifest_sha256": "a2b89dd0b8ae7e2bcc317941797f4dd9675f90072a2b4c4c8efd44650e1ecd91",
+  "construction_32_policy": "uncomputed",
+  "construction_recipients": {
+    "blank_rows": 465,
+    "classified_state_local_keys": [],
+    "numeric_rows": 72,
+    "recipient_keys": 37,
+    "unclassified_keys": [
+      "uei:CSCLLDDCHM26",
+      "uei:FGKEVGYL3ZF3",
+      "uei:FQ7MHJBDSZ77",
+      "uei:G8LCAVK5AVW7",
+      "uei:KE7ZAT98UBM7",
+      "uei:LJZTDJWPG431",
+      "uei:NP74V9C64DN5"
+    ]
+  },
+  "copy_decisions": {
+    "approval_basis": "Kevin's direct September 27 footer text and September 28 instruction to implement the exact revised construction sentence, after the CBS residual-linkage distinction was explained",
+    "approved_at_utc": "2026-09-28T14:09:24Z",
+    "approved_by": "Kevin McNellis",
+    "cbs_linkage_caveat_in_methodology": true,
+    "footer_choice": "plotted_0540_only",
+    "methodology_checked_path": "canonical checkout File_C_blog_post/methodology.md",
+    "methodology_checked_section": "Four-bar chart paragraph and construction-account context paragraph",
+    "methodology_checked_sha256": "e04410a3fcfc2f24c0148d20362318d5fc34a2108cb5835dddafe8036ce11173",
+    "publication_approved": false,
+    "travel_choice": "qualified_multiple_purposes",
+    "unlinked_award_key_caveat_in_methodology": true
+  },
+  "deliverable_status": "FINAL_BUILD",
+  "generated_at_utc": "2026-09-28T14:12:21.357857+00:00",
+  "interpretation_status": "WARN",
+  "limitations": [
+    "File B minus File C is a signed accounting difference, not proof that no award exists.",
+    "File C blank amounts are excluded; source completeness and late reporting remain unresolved.",
+    "Monthly changes compare cumulative files from different retrieval times and can reflect revisions.",
+    "The saved PARK reference is dated September 26 and does not alone prove a historical P04 mapping.",
+    "Equipment and travel object classes include spending outside detention; class residuals do not allocate purpose.",
+    "The 21.0 recipient screen uses direct UEIs and reported names, with blank amounts excluded from numeric totals.",
+    "The draft travel note does not assert IGSA transportation terms without checked agreement sources.",
+    "The four plotted File C totals include $58,987,437.93 of Unlinked rows with blank award_unique_key; the award-linked label is unresolved for those rows.",
+    "The CBS report supports an escrow advance and later facility purchases, but does not tie the chart's $5.0 billion residual to those purchases; the requested construction wording remains an interpretation warning."
+  ],
+  "monthly": {
+    "p04_total_change": "5630030000.00",
+    "p05_total_change": "-652645210.91",
+    "p10_total": "5380544931.32",
+    "park": "5ZD2ZMBJ8U0",
+    "periods_verified": 9
+  },
+  "output_sha256": {
+    "chart_data.csv": "8c811c691f450b0ebaa4ac6e1c700f88d614785805d32eb2c9781cbf950cb17c",
+    "construction_25_2_monthly.csv": "f4948dd79ec33085c101a63c56abe11a102240fb6b550225d23c31100ba7570c",
+    "construction_gap_by_object_class.csv": "901063e43fdb6d6318c49e9f8cd7b30f5b06634eee88062a025c34d4abffd60d",
+    "construction_recipient_check.csv": "9969af08eb01e5d5ec8d1e0744435a4a43d381368315c7accffea265c7ea7628",
+    "gap_chart.png": "ecf04c253783c38e03bc580649ad496c7842ebb018cc525ebec3abc82c6d0eb1",
+    "gap_chart.svg": "1497d0a84b1bb7df430e6f08e4fc28b3092efafeadba3a85024a2dc6d9309133",
+    "gap_chart_mobile.png": "6f50ba161f49770f18db8de908a4405ff92c04c3fcadd7590bdf47b9d5a77e93",
+    "gap_chart_mobile.svg": "861e50bdc8980d7b90e5278cb48d993825057ae777ff1c4a2dd1c465a093033b",
+    "object_class_by_program_fy2026.csv": "968cefe9107bc860516ed50a7615e57c59f7f6242fe7eec74bef67231da1678e",
+    "travel_21_recipient_totals.csv": "622c5dd4a502e0fe2a7c3e67a288064ee1fca91172b4ece38bcc66b13d25baac"
+  },
+  "park_name": "CAS - Construction and Facility Improvements",
+  "park_sha256": "c2d37ea917c8589e45a0074826cc594d090900d603bd0cc5405b5212932584ed",
+  "program_activity": {
+    "ero_equipment_gap": "378167402.88",
+    "mission_support_gap": "638821534.64",
+    "rows": 12
+  },
+  "protected_output_sha256": {
+    "bc_gap": {
+      "interval_stability.csv": "1b54dd85f27f703421340512b9276c6a11f310b42ed71f2a753120b15c55796f",
+      "measure_comparison.csv": "612bf0887434551f59d8894dfb2c1d3ca03edc9b2df71c7a58f1681c49e54372",
+      "object_class_differences.csv": "c96ae74a14f4a058b4ce01c612e19e1513804dc41d40ff58b9701d8af65d96bb",
+      "offset_summary.csv": "8d0809a640c2099766deaa6b305c3e5208fa283499f1bd2398fc90ecba1414d3",
+      "source_rows.csv": "e4ea330421e00b264616c62f8dc678ff2e8372875fb1f7cb7d4cc3bb20816e91",
+      "unmatched_checkpoints.csv": "5c23449d5c3372c58d4c30d89827109f3db5cdf36b4d137395a74f244e78b7c6",
+      "verification.json": "c14768c64319a54d2c15ee54c1e9656bdca61dce60a95728cdba38149624790d"
+    },
+    "chart_1": {
+      "comparison_accounting_keys.csv": "ecb2302a7af47481847b9f81055f175c2c3d1db5cc57e619c454ba6e6ae69b4b",
+      "comparison_by_period.csv": "a06acd9e641c43b01fe3f28f157b0797b1953fb2ca0b77c8fbaf491d54c85415",
+      "comparison_source_rows.csv": "b38b2010fe8b57f10d8896303a81b824e7c80e290398a85cdfc0dfd570fa3a59",
+      "comparison_totals.csv": "6604c58e76dd1610862e49422bc97d2922942cd327799a955021248b68975a9e",
+      "obligations_comparison_25_4.html": "857a05bf351f1565a08b0ec8365dc72f1bfe19d00be9cb1406603d26bcd519c2",
+      "obligations_comparison_25_4.png": "ba86a77677c4cd1ca00c232699c0a4e21011dc21966fb1dac580775ee9db2069",
+      "obligations_comparison_25_4.svg": "065ed1d3296179da9b5776de0f64080fcb7919cf987de5f0fc75c88c2f0fe0c4",
+      "obligations_comparison_25_4_mobile.png": "1960dfe564166e0d9ffcf0316a64f3ce098320959c99fba4ff1187db56b78194",
+      "obligations_comparison_25_4_mobile.svg": "3af86daf2cf181b9db6b7cba73cb58e9fa6981ea1fa66a8fd3ce19e1b8b47067",
+      "verification.json": "9c0bacc3c12fc6e31bc36ec3ddc0e9bed60c2c20c98e60512e103f18d91ba0cb"
+    },
+    "chart_2": {
+      "classified_source_rows.csv": "2146d62dab76a71aeaa81e07400718797d40db7ea5b04ccfff8c6f9513fa918c",
+      "government_all_object_classes.csv": "dd608a9691edaa0d2219318d8e529ba01812001983d7ff4dd29a2c7a75306abc",
+      "government_source_rows.csv": "9a751c015ee4380be2d8ee017a76d867d6f46080b46351edc1d9ba8b5a72fad8",
+      "recipient_classification.csv": "5148477810c7d4d449d7cc1543c9e2394015c24d0e0070597fb15ba420025285",
+      "recipient_totals.csv": "969ab13dfb93c4b518834cdeb93c1dc491325f9083ea7079c9644e4677ae86bb",
+      "recipient_type_totals.csv": "5d40e502de0f837f6c07a693434e9d51db377e27c9739d2312d9e4c1480d1c5c",
+      "recipient_types_25_4.html": "165d6607be50f1a36aaab83ca5c5a0e039ada2d4b1958b8715eeee3c92cbc166",
+      "recipient_types_25_4.png": "315b9efa85cd872ce124e6c41fb7f120fa95d16162b8399d68a74501cd0435bf",
+      "recipient_types_25_4.svg": "b0fefede0f92bd7c9e43ce04b88eb45e966c71c6ddb24cec6d574670241c6c76",
+      "recipient_types_25_4_mobile.png": "1bc336334f6a7d819cb183cb1fedacb82afe08be446a211a9f882a140e644275",
+      "recipient_types_25_4_mobile.svg": "b1df406908c940014b187372dbe84739fbada9a9a407e495deac9d207b3fa529",
+      "verification.json": "1d84091fed7fa8b9ceab643885f1e252f80da1d111db61791387011b45e00965"
+    },
+    "figure_b": {
+      "figure_b.html": "e82a71ffb9bf58818bee3b26115791076a7b456cf39d08380685af8c9ed2f73e",
+      "figure_b.png": "c41fa177a760689824b5ef3454fbe4550a0caefa2ef953462337cf0c1d80fef4",
+      "figure_b.svg": "1752f4d52ceda7b1696d5476477408ca955df1d1cab9f4d56c012f34224aa9e6",
+      "figure_b_data.csv": "885e101b3d8f9e5b8ecbe6973ffe243a42b6be811730c6f9619b5ebefe900c54",
+      "figure_b_mobile.png": "37730e1126beff9b72f1d943fe592e80f2b144b6cc3debbea303f50b5754e357",
+      "figure_b_mobile.svg": "44f2df0b2c6f418da2726a77e4291e58a29a0a24abc956cb7d32b8c97d9099c4",
+      "verification.json": "3624168efc005114b88082953bd17dfbc124dd6cd0cfea9dec2ed7ef99db6ad2"
+    }
+  },
+  "render": {
+    "note_construction_file_b": "$5.4 billion",
+    "note_construction_gap": "$5.0 billion",
+    "note_mission_support_gap": "$639 million",
+    "notes": [
+      "The $4.8 billion headline and all four bars cover Operations and Support (070-0540) only.",
+      "Categories are OMB object classes. Account totals are File B obligations after prior-year reductions; award-linked amounts are File C transaction obligations, excluding blank amounts.",
+      "An obligation is tied to an award when it appears in USAspending's award records. The untied amount is the account total minus the award-linked amount.",
+      "Equipment includes purchases for ICE as a whole; about $639 million of the untied equipment amount in October 2025-July 2026 was recorded under ICE's Mission Support program.",
+      "Travel and transportation of persons can cover multiple purposes. The object class alone does not allocate these amounts to detainee transportation, employee travel, or specific agreements.",
+      "Separately, ICE's construction account (070-0545) reported $5.4 billion in other non-federal services; $5.0 billion of it was not tied to any award. CBS News has since traced part of ICE's construction spending to specific purchases.",
+      "Sources: USAspending.gov Files B and C; OMB Circular A-11, section 83. See methodology for definitions and limits."
+    ],
+    "subtitle": "Plotted: ICE Operations and Support (070-0540) only \u00b7 February 2025\u2013July 2026",
+    "title": "$4.8 Billion of ICE's Facility, Service, Transportation, and Equipment Obligations Are Not Tied to Any Award",
+    "variants": {
+      "desktop": {
+        "bars": [
+          {
+            "file_c_px": 702.99404904825,
+            "gap_px": 623.43634328325,
+            "label_layout": "both_inside",
+            "object_class": "25.4",
+            "total_px": 1326.4303923315001
+          },
+          {
+            "file_c_px": 198.506880378,
+            "gap_px": 277.13594818800004,
+            "label_layout": "outside_one_line",
+            "object_class": "31.0",
+            "total_px": 475.642828566
+          },
+          {
+            "file_c_px": 504.6575026365,
+            "gap_px": 124.2728531595,
+            "label_layout": "gap_outside",
+            "object_class": "21.0",
+            "total_px": 628.930355796
+          },
+          {
+            "file_c_px": 147.7736409555,
+            "gap_px": 55.0384376445,
+            "label_layout": "outside_one_line",
+            "object_class": "25.2",
+            "total_px": 202.81207860000004
+          }
+        ],
+        "plot_width_px": 1350.0,
+        "scale_max_dollars": "6000000000",
+        "text_overlap_check": "PASS"
+      },
+      "mobile": {
+        "bars": [
+          {
+            "file_c_px": 343.68597953470004,
+            "gap_px": 304.7911011607,
+            "label_layout": "both_inside",
+            "object_class": "25.4",
+            "total_px": 648.4770806954
+          },
+          {
+            "file_c_px": 97.04780818479999,
+            "gap_px": 135.48868578079998,
+            "label_layout": "outside_two_lines",
+            "object_class": "31.0",
+            "total_px": 232.5364939656
+          },
+          {
+            "file_c_px": 246.72144573339997,
+            "gap_px": 60.7556171002,
+            "label_layout": "below_bar",
+            "object_class": "21.0",
+            "total_px": 307.4770628336
+          },
+          {
+            "file_c_px": 72.2448911338,
+            "gap_px": 26.9076806262,
+            "label_layout": "outside_two_lines",
+            "object_class": "25.2",
+            "total_px": 99.15257176000001
+          }
+        ],
+        "plot_width_px": 660.0,
+        "scale_max_dollars": "6000000000",
+        "text_overlap_check": "PASS"
+      }
+    }
+  },
+  "shared_recipient_crosswalk_sha256": "d27b4e10ddad1b6f461d9c2969ae5f499b4574aa30e55c7b240dd02fd1fe85d5",
+  "source_sha256": {
+    "data/construction_monthly_source_manifest.csv": "491f5eb8f3fb77d491fb223c3d0cadee5b4c7b1d14f388a452a54f332d55b2a8",
+    "provenance/cbs_gap_chart_source.json": "607e8c5b91032f528efeba30325a4d9fd3e20b36cbdcecd23b90bb9d72759fad",
+    "provenance/park_reference_2026-09-26.csv": "c2d37ea917c8589e45a0074826cc594d090900d603bd0cc5405b5212932584ed",
+    "provenance/park_reference_2026-09-26.json": "02e67977f22ed2e7857ec26ad4c66019968eb83d45090c64cdf239030327a158"
+  },
+  "technical_status": "PASS",
+  "title_gap": "4799482587.89",
+  "travel_recipients": {
+    "blank_amount_rows": 1762,
+    "file_c_total": "2242922233.94",
+    "recipient_keys": 31,
+    "top_ten_share_percent": "98.65",
+    "top_ten_total": "2212598111.52",
+    "verified_members": 7
+  }
+}

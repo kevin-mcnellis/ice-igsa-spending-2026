@@ -1,0 +1,100 @@
+{
+  "award_id": "CONT_AWD_70CDCR25FR0000011_7012_70CDCR20D00000007_7012",
+  "page_metadata": {
+    "pages_fetched": 1,
+    "result_count": 7
+  },
+  "results": [
+    {
+      "action_date": "2024-12-20",
+      "action_type": null,
+      "action_type_description": null,
+      "description": "DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 8982549.08,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_0_70CDCR20D00000007_0",
+      "modification_number": "0",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2025-03-04",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "FUNDING FOR DETENTION SERVICES, TRANSPORTATION MILEAGE, ON-CALL/TRANSPORTATION GUARDS, DETAINEE VOLUNTEER WORK PROGRAM & MEDICAL SERVICES FOR THE OTAY MESA DETENTION CENTER IN SAN DIEGO, CALIFORNIA",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 37106348.53,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00001_70CDCR20D00000007_0",
+      "modification_number": "P00001",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2025-04-23",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "FUNDING FOR DETENTION SERVICES, TRANSPORTATION MILEAGE, ON-CALL/TRANSPORTATION GUARDS, AND DETAINEE VOLUNTEER WORK PROGRAM AT THE OTAY MESA DETENTION CENTER IN SAN DIEGO, CALIFORNIA",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 5185309.25,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00002_70CDCR20D00000007_0",
+      "modification_number": "P00002",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2025-07-07",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "FUNDING FOR DETENTION SERVICES, TRANSPORTATION MILEAGE, ON-CALL/TRANSPORTATION GUARDS, AND DETAINEE VOLUNTEER WORK PROGRAM AT THE OTAY MESA DETENTION CENTER IN SAN DIEGO, CALIFORNIA",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 33985189.14,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00003_70CDCR20D00000007_0",
+      "modification_number": "P00003",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2025-09-29",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "FUNDING FOR DETENTION SERVICES, TRANSPORTATION MILEAGE, ON-CALL/TRANSPORTATION GUARDS, AND DETAINEE VOLUNTEER WORK PROGRAM AT THE OTAY MESA DETENTION CENTER IN SAN DIEGO, CALIFORNIA",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 19707649.29,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00004_70CDCR20D00000007_0",
+      "modification_number": "P00004",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-01-23",
+      "action_type": "C",
+      "action_type_description": "FUNDING ONLY ACTION",
+      "description": "FUNDING FOR DETENTION AND TRANSPORTATION SERVICES AT THE OTAY MESA DETENTION CENTER IN SUPPORT TO SAN DIEGO AREA OF RESPONSIBILITY, CALIFORNIA.",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": 9380508.67,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00005_70CDCR20D00000007_0",
+      "modification_number": "P00005",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    },
+    {
+      "action_date": "2026-06-17",
+      "action_type": "K",
+      "action_type_description": "CLOSE OUT",
+      "description": "DE-OB AND CLOSE OUT FOR THE OTAY MESA DETENTION CENTER IN SUPPORT TO SAN DIEGO AREA OF RESPONSIBILITY, CALIFORNIA.",
+      "face_value_loan_guarantee": 0.0,
+      "federal_action_obligation": -11.34,
+      "id": "CONT_TX_7012_7012_70CDCR25FR0000011_P00006_70CDCR20D00000007_0",
+      "modification_number": "P00006",
+      "original_loan_subsidy_cost": 0.0,
+      "type": "C",
+      "type_description": "DELIVERY ORDER"
+    }
+  ]
+}
